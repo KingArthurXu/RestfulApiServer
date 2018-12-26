@@ -1,23 +1,14 @@
-FROM centos:7
+FROM kingarthurxu/baas
 MAINTAINER ArthurXu <qingyu.xu@veritas.com>
 
-ENV BAAS_VERSION=1.0
-
-ADD ./requirements.txt /
-
-RUN yum clean all \
-    && yum -y update \
-    && yum install -y python-setuptools \
-    && easy_install pip \
-    && pip install -r /requirements.txt \
-        && yum clean all \
-        && rm -rf /var/cache/yum \
-        && rm -rf /root/.cache
+ENV BAAS_VERSION=1.1
+ENV BAAS_DATE=20181225
 
 ADD ./ /baas
 
 VOLUME /baas
 EXPOSE 5000
+EXPOSE 5001
 WORKDIR /baas
 
-CMD ["/usr/bin/python", "./runserver.py"]
+CMD ["/usr/bin/bash", "run_gunicorn.sh"]
