@@ -12,7 +12,7 @@ cryptography==2.3
 dominate==2.3.1
 enum34==1.1.6
 Flask==1.0.2
-Flask-Admin==1.5.1
+Flask-Admin==1.5.3
 Flask-APScheduler==1.10.1
 Flask-BabelEx==0.9.3
 Flask-Bootstrap==3.3.7.1
@@ -39,7 +39,7 @@ Jinja2==2.10
 jsonschema==2.6.0
 Mako==1.0.7
 MarkupSafe==1.0
-paramiko==2.4.1
+paramiko==2.4.2
 passlib==1.7.1
 pyasn1==0.4.3
 pycparser==2.18
