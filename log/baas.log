@@ -14064,3 +14064,50 @@ INFO: 2018-12-26 22:46:29: <F#>_internal.py:<L#>88 * <Thread>668956 #>  * Runnin
 INFO: 2018-12-26 22:48:07: <F#>manage.py:<L#>29 * <Thread>670392 #> logging starts
 INFO: 2018-12-26 22:48:07: <F#>brun.py:<L#>21 * <Thread>670392 #> logging starts
 INFO: 2018-12-26 22:48:08: <F#>_internal.py:<L#>88 * <Thread>670392 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-26 16:03:45: <F#>manage.py:<L#>29 * <Thread>140509964572480 #> logging starts
+INFO: 2018-12-26 16:03:45: <F#>frun.py:<L#>10 * <Thread>140509964572480 #> logging starts
+INFO: 2018-12-26 16:03:45: <F#>_internal.py:<L#>88 * <Thread>140509964572480 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509794957056 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/css/reset.css HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509777647360 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/object-assign-pollyfill.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509769254656 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/css/screen.css HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509777647360 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.ba-bbq.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509760861952 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.slideto.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery-1.8.0.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509794957056 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/css/typography.css HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509752469248 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/handlebars-4.0.5.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509777647360 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/lodash.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509769254656 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.wiggle.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509760861952 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/backbone-min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/swagger-ui.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509769254656 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/highlight.9.1.0.pack.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509752469248 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/highlight.9.1.0.pack_extended.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509760861952 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/jsoneditor.min.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509777647360 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/marked.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509794957056 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/lib/swagger-oauth.js HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/fonts/DroidSans.ttf HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509794957056 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-26 16:03:52: <F#>_internal.py:<L#>88 * <Thread>140509794957056 #> 172.17.0.1 - - [26/Dec/2018 16:03:52] "GET /swaggerui/bower/swagger-ui/dist/fonts/DroidSans-Bold.ttf HTTP/1.1" 200 -
+INFO: 2018-12-26 16:04:03: <F#>_internal.py:<L#>88 * <Thread>140509794957056 #> 172.17.0.1 - - [26/Dec/2018 16:04:03] "GET /swaggerui/bower/swagger-ui/dist/images/throbber.gif HTTP/1.1" 200 -
+INFO: 2018-12-26 16:04:04: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:04:04] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-26 16:04:21: <F#>_internal.py:<L#>88 * <Thread>140509786040064 #> 172.17.0.1 - - [26/Dec/2018 16:04:21] "POST /auth HTTP/1.1" 200 -
+INFO: 2018-12-26 16:12:00: <F#>manage.py:<L#>29 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:00: <F#>manage.py:<L#>29 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:00: <F#>frun.py:<L#>10 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:00: <F#>frun.py:<L#>10 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:00: <F#>manage.py:<L#>29 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:00: <F#>frun.py:<L#>10 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:01: <F#>manage.py:<L#>29 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:12:01: <F#>frun.py:<L#>10 * <Thread>140459729852224 #> logging starts
+INFO: 2018-12-26 16:13:02: <F#>manage.py:<L#>29 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:02: <F#>frun.py:<L#>10 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:02: <F#>manage.py:<L#>29 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:02: <F#>frun.py:<L#>10 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:03: <F#>manage.py:<L#>29 * <Thread>140682466088768 #> logging starts
+INFO: 2018-12-26 16:13:03: <F#>brun.py:<L#>21 * <Thread>140682466088768 #> logging starts
+INFO: 2018-12-26 16:13:03: <F#>manage.py:<L#>29 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:03: <F#>frun.py:<L#>10 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:03: <F#>manage.py:<L#>29 * <Thread>140341226579776 #> logging starts
+INFO: 2018-12-26 16:13:03: <F#>frun.py:<L#>10 * <Thread>140341226579776 #> logging starts
