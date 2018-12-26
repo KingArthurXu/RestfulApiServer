@@ -2,6 +2,7 @@ FROM kingarthurxu/baas
 MAINTAINER ArthurXu <qingyu.xu@veritas.com>
 
 ENV BAAS_VERSION=1.1
+ENV BAAS_DATE=20181225
 
 ADD ./ /baas
 

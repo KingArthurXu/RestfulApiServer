@@ -5,7 +5,7 @@ import traceback
 from flask import Blueprint
 from flask_restplus import Api
 from sqlalchemy.orm.exc import NoResultFound
-from manage import app
+# from manage import app
 from auth import *
 from bpdbjobs import *
 from popen import *
@@ -52,15 +52,16 @@ api = Api(
 # Swagger UI document
 # baas = Api(app, doc=False)
 # Swagger UI Configuration
-app.config.SWAGGER_UI_DOC_EXPANSION = 'list'
+# 开始列表为展开方式
+# app.config.SWAGGER_UI_DOC_EXPANSION = 'list'
 
 
 @api.errorhandler
 def default_error_handler(e):
     message = 'An unhandled exception occurred.'
     logging.exception(message)
-    if not app.config.get("FLASK_DEBUG"):
-        return {'message': message}, 500
+    # if not app.config.get("FLASK_DEBUG"):
+    return {'message': message}, 500
 
 
 @api.errorhandler(NoResultFound)

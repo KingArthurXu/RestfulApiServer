@@ -4,6 +4,8 @@
 ::#PARAM      "port"              "22"                0           "Port Number"
 
 @echo off
-echo HELLO WORLD!
+type C:\Users\qingy\PycharmProjects\RestfulApiServer\static\uploads\json.txt
+echo 111
+echo this is a test.
 
 

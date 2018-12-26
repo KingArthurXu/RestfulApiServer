@@ -15,7 +15,7 @@ class Config:
     #
     UPLOAD_DIR = 'static/uploads'
     ERROR_404_HELP = False
-    # JOB = True
+
     # JOBS = [
     #     {
     #         'id': 'job1',
@@ -40,7 +40,9 @@ class Config:
         'coalesce': False,
         'max_instances': 1
     }
-    SCHEDULER_API_ENABLED = True
+
+    SCHEDULER_API_ENABLED = False
+    # SCHEDULER_AUTH = HTTPBasicAuth()
 
     # Database
     SQLALCHEMY_DATABASE_URI = 'sqlite:///db/sql.db'
@@ -60,16 +62,23 @@ class Config:
 
     DEBUG = False
 
+    # SWAGGER_UI
+    # https://flask-restplus.readthedocs.io/en/0.8.5/swaggerui.html
+    SWAGGER_UI_DOC_EXPANSION = 'list'
+    # SWAGGER_VALIDATOR_URL = 'http://domain.com/validator'
+
     @staticmethod
     def init_app(app):
         pass
+
     def __init__(self):
         pass
 
 
 class DevelopmentConfig(Config):
     DEBUG = True
-    INIT_DB = True
+    SCHEDULER_API_ENABLED = True
+    SCHEDULER_AUTH = HTTPBasicAuth()
 
     @staticmethod
     def init_app(app):
@@ -84,50 +93,9 @@ class ProductionConfig(Config):
     PRODUCTION = True
 
 
-class JobConfig(Config):
-    JOB = True
-    JOBS = [
-        {
-            'id': 'job1',
-            'func': 'app.jobs:job1',
-            'args': (1, 2),
-            'trigger': 'interval',
-            'seconds': 2
-        },
-        # {
-        #     'id': 'job2',
-        #     'func': 'app.jobs:job2',
-        #     'args': (),
-        #     'trigger': 'interval',
-        #     'seconds': 2
-        # },
-        # {
-        #     'id': 'job3',
-        #     'func': 'app.jobs:job3',
-        #     'args': (),
-        #     'trigger': 'interval',
-        #     'seconds': 2
-        # }
-    ]
-    SCHEDULER_JOBSTORES = {
-       'default': SQLAlchemyJobStore(url=Config.SQLALCHEMY_DATABASE_URI)
-    }
-    SCHEDULER_ALLOWED_HOSTS = ['*']
-    SCHEDULER_JOB_DEFAULTS = {
-       'coalesce': True,
-       'max_instances': 1
-    }
-    SCHEDULER_API_ENABLED = True
-    #SCHEDULER_AUTH = HTTPBasicAuth()
-
-    @staticmethod
-    def init_app(app):
-        print("JobConfig init_app")
-
 config = {
     'development': DevelopmentConfig,
     'testing': TestingConfig,
     'production': ProductionConfig,
     'default': DevelopmentConfig,
-    'job':  JobConfig
 }

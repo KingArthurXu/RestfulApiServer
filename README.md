@@ -23,6 +23,9 @@
 utf8问题
 job目录不能cython
 
+# 20181226
+支持返回JSON格式
+第一行必须有"{"
     
     python manage.py shell
     
