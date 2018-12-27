@@ -1,0 +1,1519 @@
+INFO: 2018-12-27 13:15:20: <F#>manage.py:<L#>29 * <Thread>772584 #> logging starts
+INFO: 2018-12-27 13:15:20: <F#>frun.py:<L#>10 * <Thread>772584 #> logging starts
+INFO: 2018-12-27 13:15:20: <F#>_internal.py:<L#>88 * <Thread>772584 #>  * Restarting with stat
+INFO: 2018-12-27 13:15:23: <F#>manage.py:<L#>29 * <Thread>771056 #> logging starts
+INFO: 2018-12-27 13:15:23: <F#>frun.py:<L#>10 * <Thread>771056 #> logging starts
+WARNING: 2018-12-27 13:15:23: <F#>_internal.py:<L#>88 * <Thread>771056 #>  * Debugger is active!
+INFO: 2018-12-27 13:15:23: <F#>_internal.py:<L#>88 * <Thread>771056 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 13:15:23: <F#>_internal.py:<L#>88 * <Thread>771060 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 13:15:36: <F#>_internal.py:<L#>88 * <Thread>768540 #> 127.0.0.1 - - [27/Dec/2018 13:15:36] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>772112 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/css/reset.css HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>772360 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.slideto.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771760 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery-1.8.0.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>767416 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/css/typography.css HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>772116 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/object-assign-pollyfill.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>772108 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/css/screen.css HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771724 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.wiggle.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771848 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771444 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/handlebars-4.0.5.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>765316 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/lodash.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771488 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/backbone-min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771156 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/swagger-ui.js HTTP/1.1" 200 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>769572 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/highlight.9.1.0.pack.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>771388 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/highlight.9.1.0.pack_extended.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>773296 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/jsoneditor.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>773300 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/marked.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>772744 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/lib/swagger-oauth.js HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>753792 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swaggerui/bower/swagger-ui/dist/fonts/DroidSans.ttf HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>768272 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-27 13:15:38: <F#>_internal.py:<L#>88 * <Thread>767872 #> 127.0.0.1 - - [27/Dec/2018 13:15:38] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 13:15:39: <F#>_internal.py:<L#>88 * <Thread>760628 #> 127.0.0.1 - - [27/Dec/2018 13:15:39] "GET /swaggerui/bower/swagger-ui/dist/fonts/DroidSans-Bold.ttf HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:43: <F#>_internal.py:<L#>88 * <Thread>750476 #> 127.0.0.1 - - [27/Dec/2018 13:15:43] "GET /swaggerui/bower/swagger-ui/dist/images/throbber.gif HTTP/1.1" 304 -
+INFO: 2018-12-27 13:15:58: <F#>nbuapi.py:<L#>96 * <Thread>773608 #> Start execute command
+INFO: 2018-12-27 13:19:34: <F#>manage.py:<L#>29 * <Thread>767820 #> logging starts
+INFO: 2018-12-27 13:19:34: <F#>frun.py:<L#>10 * <Thread>767820 #> logging starts
+INFO: 2018-12-27 13:19:34: <F#>_internal.py:<L#>88 * <Thread>767820 #>  * Restarting with stat
+INFO: 2018-12-27 13:19:36: <F#>manage.py:<L#>29 * <Thread>771212 #> logging starts
+INFO: 2018-12-27 13:19:36: <F#>frun.py:<L#>10 * <Thread>771212 #> logging starts
+WARNING: 2018-12-27 13:19:36: <F#>_internal.py:<L#>88 * <Thread>771212 #>  * Debugger is active!
+INFO: 2018-12-27 13:19:36: <F#>_internal.py:<L#>88 * <Thread>771212 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 13:19:36: <F#>_internal.py:<L#>88 * <Thread>771060 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 13:19:39: <F#>nbuapi.py:<L#>96 * <Thread>754528 #> Start execute command
+INFO: 2018-12-27 13:19:53: <F#>manage.py:<L#>29 * <Thread>769016 #> logging starts
+INFO: 2018-12-27 13:19:53: <F#>brun.py:<L#>21 * <Thread>769016 #> logging starts
+INFO: 2018-12-27 13:19:53: <F#>_internal.py:<L#>88 * <Thread>769016 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 13:20:00: <F#>_internal.py:<L#>88 * <Thread>768492 #> 127.0.0.1 - - [27/Dec/2018 13:20:00] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>766084 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/admin/css/bootstrap3/submenu.css HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>772400 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/admin/css/bootstrap3/admin.css?v=1.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>771124 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>769272 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>770916 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/bootstrap/bootstrap3/js/bootstrap.min.js?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>770752 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>757852 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>726708 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /static/admin/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:01: <F#>_internal.py:<L#>88 * <Thread>763940 #> 127.0.0.1 - - [27/Dec/2018 13:20:01] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-27 13:20:03: <F#>_internal.py:<L#>88 * <Thread>773720 #> 127.0.0.1 - - [27/Dec/2018 13:20:03] "GET /myloginview/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:04: <F#>_internal.py:<L#>88 * <Thread>768540 #> 127.0.0.1 - - [27/Dec/2018 13:20:04] "POST /myloginview/ HTTP/1.1" 302 -
+INFO: 2018-12-27 13:20:04: <F#>_internal.py:<L#>88 * <Thread>773284 #> 127.0.0.1 - - [27/Dec/2018 13:20:04] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:04: <F#>_internal.py:<L#>88 * <Thread>771192 #> 127.0.0.1 - - [27/Dec/2018 13:20:04] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>772112 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>770072 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>773176 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>773832 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>760112 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>770244 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>774016 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:05: <F#>_internal.py:<L#>88 * <Thread>770272 #> 127.0.0.1 - - [27/Dec/2018 13:20:05] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:06: <F#>_internal.py:<L#>88 * <Thread>773064 #> 127.0.0.1 - - [27/Dec/2018 13:20:06] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:07: <F#>_internal.py:<L#>88 * <Thread>772324 #> 127.0.0.1 - - [27/Dec/2018 13:20:07] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:20:11: <F#>_internal.py:<L#>88 * <Thread>773460 #> 127.0.0.1 - - [27/Dec/2018 13:20:11] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:08: <F#>_internal.py:<L#>88 * <Thread>773464 #> 127.0.0.1 - - [27/Dec/2018 13:21:08] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 13:21:08: <F#>_internal.py:<L#>88 * <Thread>732756 #> 127.0.0.1 - - [27/Dec/2018 13:21:08] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:08: <F#>_internal.py:<L#>88 * <Thread>774020 #> 127.0.0.1 - - [27/Dec/2018 13:21:08] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:08: <F#>_internal.py:<L#>88 * <Thread>769188 #> 127.0.0.1 - - [27/Dec/2018 13:21:08] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:08: <F#>_internal.py:<L#>88 * <Thread>773332 #> 127.0.0.1 - - [27/Dec/2018 13:21:08] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:10: <F#>_internal.py:<L#>88 * <Thread>773280 #> 127.0.0.1 - - [27/Dec/2018 13:21:10] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:11: <F#>_internal.py:<L#>88 * <Thread>773508 #> 127.0.0.1 - - [27/Dec/2018 13:21:11] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:27: <F#>_internal.py:<L#>88 * <Thread>754528 #> 127.0.0.1 - - [27/Dec/2018 13:21:27] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 13:21:42: <F#>nbuapi.py:<L#>96 * <Thread>766528 #> Start execute command
+INFO: 2018-12-27 13:39:50: <F#>manage.py:<L#>29 * <Thread>766704 #> logging starts
+INFO: 2018-12-27 13:39:50: <F#>brun.py:<L#>21 * <Thread>766704 #> logging starts
+INFO: 2018-12-27 13:39:51: <F#>_internal.py:<L#>88 * <Thread>766704 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 13:40:34: <F#>manage.py:<L#>29 * <Thread>776840 #> logging starts
+INFO: 2018-12-27 13:40:34: <F#>frun.py:<L#>10 * <Thread>776840 #> logging starts
+INFO: 2018-12-27 13:40:34: <F#>_internal.py:<L#>88 * <Thread>776840 #>  * Restarting with stat
+INFO: 2018-12-27 13:40:36: <F#>manage.py:<L#>29 * <Thread>774572 #> logging starts
+INFO: 2018-12-27 13:40:36: <F#>frun.py:<L#>10 * <Thread>774572 #> logging starts
+WARNING: 2018-12-27 13:40:37: <F#>_internal.py:<L#>88 * <Thread>774572 #>  * Debugger is active!
+INFO: 2018-12-27 13:40:37: <F#>_internal.py:<L#>88 * <Thread>774572 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 13:40:37: <F#>_internal.py:<L#>88 * <Thread>776488 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 13:40:42: <F#>nbuapi.py:<L#>96 * <Thread>756836 #> Start execute command
+WARNING: 2018-12-27 13:42:25: <F#>nbuapi.py:<L#>171 * <Thread>756836 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 13:42:25: <F#>nbuapi.py:<L#>172 * <Thread>756836 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 13:42:25: <F#>_internal.py:<L#>88 * <Thread>756836 #> 127.0.0.1 - - [27/Dec/2018 13:42:25] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 13:42:35: <F#>nbuapi.py:<L#>96 * <Thread>776240 #> Start execute command
+INFO: 2018-12-27 13:51:06: <F#>_internal.py:<L#>88 * <Thread>776240 #> 127.0.0.1 - - [27/Dec/2018 13:51:06] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 13:51:19: <F#>nbuapi.py:<L#>96 * <Thread>776420 #> Start execute command
+INFO: 2018-12-27 13:55:25: <F#>nbuapi.py:<L#>96 * <Thread>760156 #> Start execute command
+INFO: 2018-12-27 14:01:03: <F#>_internal.py:<L#>88 * <Thread>774572 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 14:01:03: <F#>_internal.py:<L#>88 * <Thread>776840 #>  * Restarting with stat
+INFO: 2018-12-27 14:01:05: <F#>manage.py:<L#>29 * <Thread>765508 #> logging starts
+INFO: 2018-12-27 14:01:05: <F#>frun.py:<L#>10 * <Thread>765508 #> logging starts
+WARNING: 2018-12-27 14:01:05: <F#>_internal.py:<L#>88 * <Thread>765508 #>  * Debugger is active!
+INFO: 2018-12-27 14:01:06: <F#>_internal.py:<L#>88 * <Thread>765508 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:01:06: <F#>_internal.py:<L#>88 * <Thread>757784 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:02:49: <F#>nbuapi.py:<L#>96 * <Thread>759264 #> Start execute command
+ERROR: 2018-12-27 14:03:03: <F#>__init__.py:<L#>62 * <Thread>759264 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+ERROR: 2018-12-27 14:03:03: <F#>app.py:<L#>1761 * <Thread>759264 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+INFO: 2018-12-27 14:03:03: <F#>_internal.py:<L#>88 * <Thread>759264 #> 127.0.0.1 - - [27/Dec/2018 14:03:03] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:03:16: <F#>nbuapi.py:<L#>96 * <Thread>778588 #> Start execute command
+ERROR: 2018-12-27 14:03:33: <F#>__init__.py:<L#>62 * <Thread>778588 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+ERROR: 2018-12-27 14:03:33: <F#>app.py:<L#>1761 * <Thread>778588 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+INFO: 2018-12-27 14:03:33: <F#>_internal.py:<L#>88 * <Thread>778588 #> 127.0.0.1 - - [27/Dec/2018 14:03:33] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:03:52: <F#>nbuapi.py:<L#>96 * <Thread>777196 #> Start execute command
+ERROR: 2018-12-27 14:04:12: <F#>__init__.py:<L#>62 * <Thread>777196 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+ERROR: 2018-12-27 14:04:12: <F#>app.py:<L#>1761 * <Thread>777196 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+INFO: 2018-12-27 14:04:12: <F#>_internal.py:<L#>88 * <Thread>777196 #> 127.0.0.1 - - [27/Dec/2018 14:04:12] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:04:25: <F#>manage.py:<L#>29 * <Thread>779740 #> logging starts
+INFO: 2018-12-27 14:04:25: <F#>frun.py:<L#>10 * <Thread>779740 #> logging starts
+INFO: 2018-12-27 14:04:25: <F#>_internal.py:<L#>88 * <Thread>779740 #>  * Restarting with stat
+INFO: 2018-12-27 14:04:28: <F#>manage.py:<L#>29 * <Thread>779872 #> logging starts
+INFO: 2018-12-27 14:04:28: <F#>frun.py:<L#>10 * <Thread>779872 #> logging starts
+WARNING: 2018-12-27 14:04:28: <F#>_internal.py:<L#>88 * <Thread>779872 #>  * Debugger is active!
+INFO: 2018-12-27 14:04:28: <F#>_internal.py:<L#>88 * <Thread>779872 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:04:28: <F#>_internal.py:<L#>88 * <Thread>780080 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:04:36: <F#>nbuapi.py:<L#>96 * <Thread>779276 #> Start execute command
+ERROR: 2018-12-27 14:04:50: <F#>__init__.py:<L#>62 * <Thread>779276 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+ERROR: 2018-12-27 14:04:50: <F#>app.py:<L#>1761 * <Thread>779276 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location, MultiDict())
+TypeError: getattr(): attribute name must be string
+INFO: 2018-12-27 14:04:50: <F#>_internal.py:<L#>88 * <Thread>779276 #> 127.0.0.1 - - [27/Dec/2018 14:04:50] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:04:59: <F#>nbuapi.py:<L#>96 * <Thread>779752 #> Start execute command
+INFO: 2018-12-27 14:05:25: <F#>manage.py:<L#>29 * <Thread>780204 #> logging starts
+INFO: 2018-12-27 14:05:25: <F#>frun.py:<L#>10 * <Thread>780204 #> logging starts
+INFO: 2018-12-27 14:05:26: <F#>_internal.py:<L#>88 * <Thread>780204 #>  * Restarting with stat
+INFO: 2018-12-27 14:06:41: <F#>manage.py:<L#>29 * <Thread>778708 #> logging starts
+INFO: 2018-12-27 14:06:41: <F#>frun.py:<L#>10 * <Thread>778708 #> logging starts
+INFO: 2018-12-27 14:06:41: <F#>_internal.py:<L#>88 * <Thread>778708 #>  * Restarting with stat
+INFO: 2018-12-27 14:06:44: <F#>manage.py:<L#>29 * <Thread>779544 #> logging starts
+INFO: 2018-12-27 14:06:44: <F#>frun.py:<L#>10 * <Thread>779544 #> logging starts
+WARNING: 2018-12-27 14:06:44: <F#>_internal.py:<L#>88 * <Thread>779544 #>  * Debugger is active!
+INFO: 2018-12-27 14:06:44: <F#>_internal.py:<L#>88 * <Thread>779544 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:06:44: <F#>_internal.py:<L#>88 * <Thread>774216 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:06:49: <F#>nbuapi.py:<L#>96 * <Thread>774736 #> Start execute command
+ERROR: 2018-12-27 14:08:35: <F#>__init__.py:<L#>62 * <Thread>774736 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location)
+TypeError: getattr(): attribute name must be string
+ERROR: 2018-12-27 14:08:35: <F#>app.py:<L#>1761 * <Thread>774736 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 137, in get_db_shell_output
+    tv = getattr(request, location)
+TypeError: getattr(): attribute name must be string
+INFO: 2018-12-27 14:08:35: <F#>_internal.py:<L#>88 * <Thread>774736 #> 127.0.0.1 - - [27/Dec/2018 14:08:35] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:08:43: <F#>manage.py:<L#>29 * <Thread>779488 #> logging starts
+INFO: 2018-12-27 14:08:43: <F#>frun.py:<L#>10 * <Thread>779488 #> logging starts
+INFO: 2018-12-27 14:08:43: <F#>_internal.py:<L#>88 * <Thread>779488 #>  * Restarting with stat
+INFO: 2018-12-27 14:08:46: <F#>manage.py:<L#>29 * <Thread>770792 #> logging starts
+INFO: 2018-12-27 14:08:46: <F#>frun.py:<L#>10 * <Thread>770792 #> logging starts
+WARNING: 2018-12-27 14:08:46: <F#>_internal.py:<L#>88 * <Thread>770792 #>  * Debugger is active!
+INFO: 2018-12-27 14:08:46: <F#>_internal.py:<L#>88 * <Thread>770792 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:08:46: <F#>_internal.py:<L#>88 * <Thread>779528 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:09:21: <F#>nbuapi.py:<L#>96 * <Thread>779744 #> Start execute command
+INFO: 2018-12-27 14:14:36: <F#>nbuapi.py:<L#>96 * <Thread>779384 #> Start execute command
+INFO: 2018-12-27 14:14:51: <F#>_internal.py:<L#>88 * <Thread>779744 #> 127.0.0.1 - - [27/Dec/2018 14:14:51] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:16:31: <F#>manage.py:<L#>29 * <Thread>780548 #> logging starts
+INFO: 2018-12-27 14:16:31: <F#>frun.py:<L#>10 * <Thread>780548 #> logging starts
+INFO: 2018-12-27 14:16:31: <F#>_internal.py:<L#>88 * <Thread>780548 #>  * Restarting with stat
+INFO: 2018-12-27 14:17:17: <F#>manage.py:<L#>29 * <Thread>781132 #> logging starts
+INFO: 2018-12-27 14:17:17: <F#>frun.py:<L#>10 * <Thread>781132 #> logging starts
+INFO: 2018-12-27 14:17:17: <F#>_internal.py:<L#>88 * <Thread>781132 #>  * Restarting with stat
+INFO: 2018-12-27 14:17:20: <F#>manage.py:<L#>29 * <Thread>749204 #> logging starts
+INFO: 2018-12-27 14:17:20: <F#>frun.py:<L#>10 * <Thread>749204 #> logging starts
+WARNING: 2018-12-27 14:17:20: <F#>_internal.py:<L#>88 * <Thread>749204 #>  * Debugger is active!
+INFO: 2018-12-27 14:17:20: <F#>_internal.py:<L#>88 * <Thread>749204 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:17:20: <F#>_internal.py:<L#>88 * <Thread>780792 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:17:20: <F#>nbuapi.py:<L#>96 * <Thread>777800 #> Start execute command
+INFO: 2018-12-27 14:20:25: <F#>_internal.py:<L#>88 * <Thread>777800 #> 127.0.0.1 - - [27/Dec/2018 14:20:25] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:20:29: <F#>nbuapi.py:<L#>96 * <Thread>780788 #> Start execute command
+INFO: 2018-12-27 14:20:40: <F#>_internal.py:<L#>88 * <Thread>780788 #> 127.0.0.1 - - [27/Dec/2018 14:20:40] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:20:52: <F#>nbuapi.py:<L#>96 * <Thread>773284 #> Start execute command
+INFO: 2018-12-27 14:23:31: <F#>_internal.py:<L#>88 * <Thread>773284 #> 127.0.0.1 - - [27/Dec/2018 14:23:31] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:23:36: <F#>nbuapi.py:<L#>96 * <Thread>775964 #> Start execute command
+INFO: 2018-12-27 14:25:12: <F#>_internal.py:<L#>88 * <Thread>775964 #> 127.0.0.1 - - [27/Dec/2018 14:25:12] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:25:16: <F#>nbuapi.py:<L#>96 * <Thread>782212 #> Start execute command
+INFO: 2018-12-27 14:28:51: <F#>_internal.py:<L#>88 * <Thread>749204 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 14:32:49: <F#>manage.py:<L#>29 * <Thread>782664 #> logging starts
+INFO: 2018-12-27 14:32:49: <F#>frun.py:<L#>10 * <Thread>782664 #> logging starts
+INFO: 2018-12-27 14:32:49: <F#>_internal.py:<L#>88 * <Thread>782664 #>  * Restarting with stat
+INFO: 2018-12-27 14:32:52: <F#>manage.py:<L#>29 * <Thread>783144 #> logging starts
+INFO: 2018-12-27 14:32:52: <F#>frun.py:<L#>10 * <Thread>783144 #> logging starts
+WARNING: 2018-12-27 14:32:52: <F#>_internal.py:<L#>88 * <Thread>783144 #>  * Debugger is active!
+INFO: 2018-12-27 14:32:52: <F#>_internal.py:<L#>88 * <Thread>783144 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:32:52: <F#>_internal.py:<L#>88 * <Thread>782528 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:32:57: <F#>nbuapi.py:<L#>96 * <Thread>782212 #> Start execute command
+ERROR: 2018-12-27 14:33:04: <F#>__init__.py:<L#>62 * <Thread>782212 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 135, in get_db_shell_output
+    for item, value in request.json:
+ValueError: too many values to unpack
+ERROR: 2018-12-27 14:33:04: <F#>app.py:<L#>1761 * <Thread>782212 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 135, in get_db_shell_output
+    for item, value in request.json:
+ValueError: too many values to unpack
+INFO: 2018-12-27 14:33:04: <F#>_internal.py:<L#>88 * <Thread>782212 #> 127.0.0.1 - - [27/Dec/2018 14:33:04] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:33:14: <F#>manage.py:<L#>29 * <Thread>776728 #> logging starts
+INFO: 2018-12-27 14:33:14: <F#>frun.py:<L#>10 * <Thread>776728 #> logging starts
+INFO: 2018-12-27 14:33:14: <F#>_internal.py:<L#>88 * <Thread>776728 #>  * Restarting with stat
+INFO: 2018-12-27 14:33:16: <F#>manage.py:<L#>29 * <Thread>778084 #> logging starts
+INFO: 2018-12-27 14:33:16: <F#>frun.py:<L#>10 * <Thread>778084 #> logging starts
+WARNING: 2018-12-27 14:33:17: <F#>_internal.py:<L#>88 * <Thread>778084 #>  * Debugger is active!
+INFO: 2018-12-27 14:33:17: <F#>_internal.py:<L#>88 * <Thread>778084 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:33:17: <F#>_internal.py:<L#>88 * <Thread>782704 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:33:17: <F#>nbuapi.py:<L#>96 * <Thread>782864 #> Start execute command
+INFO: 2018-12-27 14:35:45: <F#>manage.py:<L#>29 * <Thread>773876 #> logging starts
+INFO: 2018-12-27 14:35:45: <F#>frun.py:<L#>10 * <Thread>773876 #> logging starts
+INFO: 2018-12-27 14:35:45: <F#>_internal.py:<L#>88 * <Thread>773876 #>  * Restarting with stat
+INFO: 2018-12-27 14:35:48: <F#>manage.py:<L#>29 * <Thread>774316 #> logging starts
+INFO: 2018-12-27 14:35:48: <F#>frun.py:<L#>10 * <Thread>774316 #> logging starts
+WARNING: 2018-12-27 14:35:48: <F#>_internal.py:<L#>88 * <Thread>774316 #>  * Debugger is active!
+INFO: 2018-12-27 14:35:48: <F#>_internal.py:<L#>88 * <Thread>774316 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:35:48: <F#>_internal.py:<L#>88 * <Thread>774932 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:35:50: <F#>nbuapi.py:<L#>96 * <Thread>776728 #> Start execute command
+ERROR: 2018-12-27 14:35:57: <F#>__init__.py:<L#>62 * <Thread>776728 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 135, in get_db_shell_output
+    for (k,v) in request.json.items:
+TypeError: 'builtin_function_or_method' object is not iterable
+ERROR: 2018-12-27 14:35:57: <F#>app.py:<L#>1761 * <Thread>776728 #> Exception on /netbackup/api/bp2.bat [POST]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 221, in post
+    return get_db_shell_output(apiname)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 135, in get_db_shell_output
+    for (k,v) in request.json.items:
+TypeError: 'builtin_function_or_method' object is not iterable
+INFO: 2018-12-27 14:35:57: <F#>_internal.py:<L#>88 * <Thread>776728 #> 127.0.0.1 - - [27/Dec/2018 14:35:57] "POST /netbackup/api/bp2.bat HTTP/1.1" 500 -
+INFO: 2018-12-27 14:36:25: <F#>_internal.py:<L#>88 * <Thread>774316 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 14:36:25: <F#>_internal.py:<L#>88 * <Thread>773876 #>  * Restarting with stat
+INFO: 2018-12-27 14:36:27: <F#>manage.py:<L#>29 * <Thread>782488 #> logging starts
+INFO: 2018-12-27 14:36:27: <F#>frun.py:<L#>10 * <Thread>782488 #> logging starts
+WARNING: 2018-12-27 14:36:27: <F#>_internal.py:<L#>88 * <Thread>782488 #>  * Debugger is active!
+INFO: 2018-12-27 14:36:27: <F#>_internal.py:<L#>88 * <Thread>782488 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:36:27: <F#>_internal.py:<L#>88 * <Thread>777888 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:36:31: <F#>manage.py:<L#>29 * <Thread>775748 #> logging starts
+INFO: 2018-12-27 14:36:31: <F#>frun.py:<L#>10 * <Thread>775748 #> logging starts
+INFO: 2018-12-27 14:36:31: <F#>_internal.py:<L#>88 * <Thread>775748 #>  * Restarting with stat
+INFO: 2018-12-27 14:36:34: <F#>manage.py:<L#>29 * <Thread>782704 #> logging starts
+INFO: 2018-12-27 14:36:34: <F#>frun.py:<L#>10 * <Thread>782704 #> logging starts
+WARNING: 2018-12-27 14:36:34: <F#>_internal.py:<L#>88 * <Thread>782704 #>  * Debugger is active!
+INFO: 2018-12-27 14:36:34: <F#>_internal.py:<L#>88 * <Thread>782704 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:36:34: <F#>_internal.py:<L#>88 * <Thread>782996 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:36:35: <F#>nbuapi.py:<L#>96 * <Thread>754528 #> Start execute command
+INFO: 2018-12-27 14:41:59: <F#>manage.py:<L#>29 * <Thread>775136 #> logging starts
+INFO: 2018-12-27 14:41:59: <F#>frun.py:<L#>10 * <Thread>775136 #> logging starts
+INFO: 2018-12-27 14:41:59: <F#>_internal.py:<L#>88 * <Thread>775136 #>  * Restarting with stat
+INFO: 2018-12-27 14:42:01: <F#>manage.py:<L#>29 * <Thread>784028 #> logging starts
+INFO: 2018-12-27 14:42:01: <F#>frun.py:<L#>10 * <Thread>784028 #> logging starts
+WARNING: 2018-12-27 14:42:01: <F#>_internal.py:<L#>88 * <Thread>784028 #>  * Debugger is active!
+INFO: 2018-12-27 14:42:01: <F#>_internal.py:<L#>88 * <Thread>784028 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:42:01: <F#>_internal.py:<L#>88 * <Thread>784316 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:42:01: <F#>nbuapi.py:<L#>96 * <Thread>779020 #> Start execute command
+INFO: 2018-12-27 14:42:01: <F#>_internal.py:<L#>88 * <Thread>779020 #> 127.0.0.1 - - [27/Dec/2018 14:42:01] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:42:16: <F#>manage.py:<L#>29 * <Thread>784104 #> logging starts
+INFO: 2018-12-27 14:42:16: <F#>frun.py:<L#>10 * <Thread>784104 #> logging starts
+INFO: 2018-12-27 14:42:17: <F#>_internal.py:<L#>88 * <Thread>784104 #>  * Restarting with stat
+INFO: 2018-12-27 14:42:19: <F#>manage.py:<L#>29 * <Thread>775024 #> logging starts
+INFO: 2018-12-27 14:42:19: <F#>frun.py:<L#>10 * <Thread>775024 #> logging starts
+WARNING: 2018-12-27 14:42:19: <F#>_internal.py:<L#>88 * <Thread>775024 #>  * Debugger is active!
+INFO: 2018-12-27 14:42:19: <F#>_internal.py:<L#>88 * <Thread>775024 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:42:19: <F#>_internal.py:<L#>88 * <Thread>783852 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:42:47: <F#>manage.py:<L#>29 * <Thread>784176 #> logging starts
+INFO: 2018-12-27 14:42:47: <F#>frun.py:<L#>10 * <Thread>784176 #> logging starts
+INFO: 2018-12-27 14:42:47: <F#>_internal.py:<L#>88 * <Thread>784176 #>  * Restarting with stat
+INFO: 2018-12-27 14:42:50: <F#>manage.py:<L#>29 * <Thread>768668 #> logging starts
+INFO: 2018-12-27 14:42:50: <F#>frun.py:<L#>10 * <Thread>768668 #> logging starts
+WARNING: 2018-12-27 14:42:50: <F#>_internal.py:<L#>88 * <Thread>768668 #>  * Debugger is active!
+INFO: 2018-12-27 14:42:50: <F#>_internal.py:<L#>88 * <Thread>768668 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:42:50: <F#>_internal.py:<L#>88 * <Thread>784028 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:42:52: <F#>nbuapi.py:<L#>96 * <Thread>782492 #> Start execute command
+INFO: 2018-12-27 14:43:40: <F#>manage.py:<L#>29 * <Thread>784316 #> logging starts
+INFO: 2018-12-27 14:43:40: <F#>frun.py:<L#>10 * <Thread>784316 #> logging starts
+INFO: 2018-12-27 14:43:40: <F#>_internal.py:<L#>88 * <Thread>784316 #>  * Restarting with stat
+INFO: 2018-12-27 14:43:42: <F#>manage.py:<L#>29 * <Thread>639384 #> logging starts
+INFO: 2018-12-27 14:43:42: <F#>frun.py:<L#>10 * <Thread>639384 #> logging starts
+WARNING: 2018-12-27 14:43:42: <F#>_internal.py:<L#>88 * <Thread>639384 #>  * Debugger is active!
+INFO: 2018-12-27 14:43:42: <F#>_internal.py:<L#>88 * <Thread>639384 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:43:42: <F#>_internal.py:<L#>88 * <Thread>783800 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:43:48: <F#>nbuapi.py:<L#>96 * <Thread>784164 #> Start execute command
+INFO: 2018-12-27 14:44:00: <F#>_internal.py:<L#>88 * <Thread>784164 #> 127.0.0.1 - - [27/Dec/2018 14:44:00] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:44:23: <F#>nbuapi.py:<L#>96 * <Thread>782436 #> Start execute command
+WARNING: 2018-12-27 14:44:23: <F#>nbuapi.py:<L#>176 * <Thread>782436 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 14:44:23: <F#>nbuapi.py:<L#>177 * <Thread>782436 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:44:23: <F#>_internal.py:<L#>88 * <Thread>782436 #> 127.0.0.1 - - [27/Dec/2018 14:44:23] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:44:36: <F#>manage.py:<L#>29 * <Thread>769396 #> logging starts
+INFO: 2018-12-27 14:44:36: <F#>frun.py:<L#>10 * <Thread>769396 #> logging starts
+INFO: 2018-12-27 14:44:36: <F#>_internal.py:<L#>88 * <Thread>769396 #>  * Restarting with stat
+INFO: 2018-12-27 14:44:38: <F#>manage.py:<L#>29 * <Thread>782844 #> logging starts
+INFO: 2018-12-27 14:44:38: <F#>frun.py:<L#>10 * <Thread>782844 #> logging starts
+WARNING: 2018-12-27 14:44:38: <F#>_internal.py:<L#>88 * <Thread>782844 #>  * Debugger is active!
+INFO: 2018-12-27 14:44:39: <F#>_internal.py:<L#>88 * <Thread>782844 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:44:39: <F#>_internal.py:<L#>88 * <Thread>783348 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:44:53: <F#>nbuapi.py:<L#>96 * <Thread>782832 #> Start execute command
+WARNING: 2018-12-27 14:44:53: <F#>nbuapi.py:<L#>176 * <Thread>782832 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 14:44:53: <F#>nbuapi.py:<L#>177 * <Thread>782832 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:44:53: <F#>_internal.py:<L#>88 * <Thread>782832 #> 127.0.0.1 - - [27/Dec/2018 14:44:53] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:45:06: <F#>manage.py:<L#>29 * <Thread>783984 #> logging starts
+INFO: 2018-12-27 14:45:06: <F#>frun.py:<L#>10 * <Thread>783984 #> logging starts
+INFO: 2018-12-27 14:45:06: <F#>_internal.py:<L#>88 * <Thread>783984 #>  * Restarting with stat
+INFO: 2018-12-27 14:45:08: <F#>manage.py:<L#>29 * <Thread>784104 #> logging starts
+INFO: 2018-12-27 14:45:08: <F#>frun.py:<L#>10 * <Thread>784104 #> logging starts
+WARNING: 2018-12-27 14:45:09: <F#>_internal.py:<L#>88 * <Thread>784104 #>  * Debugger is active!
+INFO: 2018-12-27 14:45:09: <F#>_internal.py:<L#>88 * <Thread>784104 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:45:09: <F#>_internal.py:<L#>88 * <Thread>770792 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:45:16: <F#>nbuapi.py:<L#>96 * <Thread>783756 #> Start execute command
+WARNING: 2018-12-27 14:45:16: <F#>nbuapi.py:<L#>176 * <Thread>783756 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 14:45:16: <F#>nbuapi.py:<L#>177 * <Thread>783756 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:45:16: <F#>_internal.py:<L#>88 * <Thread>783756 #> 127.0.0.1 - - [27/Dec/2018 14:45:16] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:45:24: <F#>nbuapi.py:<L#>96 * <Thread>784288 #> Start execute command
+WARNING: 2018-12-27 14:45:24: <F#>nbuapi.py:<L#>176 * <Thread>784288 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 14:45:24: <F#>nbuapi.py:<L#>177 * <Thread>784288 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:45:24: <F#>_internal.py:<L#>88 * <Thread>784288 #> 127.0.0.1 - - [27/Dec/2018 14:45:24] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:46:23: <F#>manage.py:<L#>29 * <Thread>754932 #> logging starts
+INFO: 2018-12-27 14:46:23: <F#>frun.py:<L#>10 * <Thread>754932 #> logging starts
+INFO: 2018-12-27 14:46:23: <F#>_internal.py:<L#>88 * <Thread>754932 #>  * Restarting with stat
+INFO: 2018-12-27 14:46:25: <F#>manage.py:<L#>29 * <Thread>785036 #> logging starts
+INFO: 2018-12-27 14:46:25: <F#>frun.py:<L#>10 * <Thread>785036 #> logging starts
+WARNING: 2018-12-27 14:46:25: <F#>_internal.py:<L#>88 * <Thread>785036 #>  * Debugger is active!
+INFO: 2018-12-27 14:46:25: <F#>_internal.py:<L#>88 * <Thread>785036 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:46:25: <F#>_internal.py:<L#>88 * <Thread>784572 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:46:26: <F#>nbuapi.py:<L#>96 * <Thread>785180 #> Start execute command
+WARNING: 2018-12-27 14:46:26: <F#>nbuapi.py:<L#>176 * <Thread>785180 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 14:46:26: <F#>nbuapi.py:<L#>177 * <Thread>785180 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:46:26: <F#>_internal.py:<L#>88 * <Thread>785180 #> 127.0.0.1 - - [27/Dec/2018 14:46:26] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:46:29: <F#>nbuapi.py:<L#>96 * <Thread>783444 #> Start execute command
+WARNING: 2018-12-27 14:46:29: <F#>nbuapi.py:<L#>176 * <Thread>783444 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client']
+WARNING: 2018-12-27 14:46:29: <F#>nbuapi.py:<L#>177 * <Thread>783444 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:46:29: <F#>_internal.py:<L#>88 * <Thread>783444 #> 127.0.0.1 - - [27/Dec/2018 14:46:29] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:46:34: <F#>nbuapi.py:<L#>96 * <Thread>784932 #> Start execute command
+INFO: 2018-12-27 14:54:30: <F#>manage.py:<L#>29 * <Thread>773692 #> logging starts
+INFO: 2018-12-27 14:54:30: <F#>frun.py:<L#>10 * <Thread>773692 #> logging starts
+INFO: 2018-12-27 14:54:30: <F#>_internal.py:<L#>88 * <Thread>773692 #>  * Restarting with stat
+INFO: 2018-12-27 14:54:33: <F#>manage.py:<L#>29 * <Thread>782252 #> logging starts
+INFO: 2018-12-27 14:54:33: <F#>frun.py:<L#>10 * <Thread>782252 #> logging starts
+WARNING: 2018-12-27 14:54:33: <F#>_internal.py:<L#>88 * <Thread>782252 #>  * Debugger is active!
+INFO: 2018-12-27 14:54:33: <F#>_internal.py:<L#>88 * <Thread>782252 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 14:54:33: <F#>_internal.py:<L#>88 * <Thread>784812 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:54:35: <F#>nbuapi.py:<L#>96 * <Thread>782180 #> Start execute command
+INFO: 2018-12-27 14:54:35: <F#>_internal.py:<L#>88 * <Thread>782180 #> 127.0.0.1 - - [27/Dec/2018 14:54:35] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 14:54:55: <F#>manage.py:<L#>29 * <Thread>784588 #> logging starts
+INFO: 2018-12-27 14:54:55: <F#>brun.py:<L#>21 * <Thread>784588 #> logging starts
+INFO: 2018-12-27 14:54:55: <F#>_internal.py:<L#>88 * <Thread>784588 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 14:55:15: <F#>_internal.py:<L#>88 * <Thread>784872 #> 127.0.0.1 - - [27/Dec/2018 14:55:15] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 14:55:21: <F#>_internal.py:<L#>88 * <Thread>771892 #> 127.0.0.1 - - [27/Dec/2018 14:55:21] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 14:55:28: <F#>nbuapi.py:<L#>96 * <Thread>781776 #> Start execute command
+WARNING: 2018-12-27 14:55:28: <F#>nbuapi.py:<L#>175 * <Thread>781776 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:55:28: <F#>nbuapi.py:<L#>176 * <Thread>781776 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:55:28: <F#>_internal.py:<L#>88 * <Thread>781776 #> 127.0.0.1 - - [27/Dec/2018 14:55:28] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:55:31: <F#>nbuapi.py:<L#>96 * <Thread>784064 #> Start execute command
+WARNING: 2018-12-27 14:55:31: <F#>nbuapi.py:<L#>175 * <Thread>784064 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:55:31: <F#>nbuapi.py:<L#>176 * <Thread>784064 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:55:31: <F#>_internal.py:<L#>88 * <Thread>784064 #> 127.0.0.1 - - [27/Dec/2018 14:55:31] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>96 * <Thread>783644 #> Start execute command
+WARNING: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>175 * <Thread>783644 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>176 * <Thread>783644 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:55:32: <F#>_internal.py:<L#>88 * <Thread>783644 #> 127.0.0.1 - - [27/Dec/2018 14:55:32] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>96 * <Thread>723636 #> Start execute command
+WARNING: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>175 * <Thread>723636 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>176 * <Thread>723636 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:55:32: <F#>_internal.py:<L#>88 * <Thread>723636 #> 127.0.0.1 - - [27/Dec/2018 14:55:32] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>96 * <Thread>782180 #> Start execute command
+WARNING: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>175 * <Thread>782180 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:55:32: <F#>nbuapi.py:<L#>176 * <Thread>782180 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:55:32: <F#>_internal.py:<L#>88 * <Thread>782180 #> 127.0.0.1 - - [27/Dec/2018 14:55:32] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:55:49: <F#>nbuapi.py:<L#>96 * <Thread>782016 #> Start execute command
+WARNING: 2018-12-27 14:57:53: <F#>nbuapi.py:<L#>175 * <Thread>782016 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:57:53: <F#>nbuapi.py:<L#>176 * <Thread>782016 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:57:53: <F#>_internal.py:<L#>88 * <Thread>782016 #> 127.0.0.1 - - [27/Dec/2018 14:57:53] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 14:59:30: <F#>nbuapi.py:<L#>96 * <Thread>785728 #> Start execute command
+WARNING: 2018-12-27 14:59:36: <F#>nbuapi.py:<L#>175 * <Thread>785728 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 14:59:36: <F#>nbuapi.py:<L#>176 * <Thread>785728 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 14:59:36: <F#>_internal.py:<L#>88 * <Thread>785728 #> 127.0.0.1 - - [27/Dec/2018 14:59:36] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 15:02:25: <F#>_internal.py:<L#>88 * <Thread>786168 #> 127.0.0.1 - - [27/Dec/2018 15:02:25] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:25: <F#>_internal.py:<L#>88 * <Thread>766488 #> 127.0.0.1 - - [27/Dec/2018 15:02:25] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:28: <F#>_internal.py:<L#>88 * <Thread>786704 #> 127.0.0.1 - - [27/Dec/2018 15:02:28] "POST /shellfile/delete/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:02:28: <F#>_internal.py:<L#>88 * <Thread>786324 #> 127.0.0.1 - - [27/Dec/2018 15:02:28] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:29: <F#>_internal.py:<L#>88 * <Thread>782772 #> 127.0.0.1 - - [27/Dec/2018 15:02:29] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:30: <F#>_internal.py:<L#>88 * <Thread>786864 #> 127.0.0.1 - - [27/Dec/2018 15:02:30] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:36: <F#>_internal.py:<L#>88 * <Thread>784068 #> 127.0.0.1 - - [27/Dec/2018 15:02:36] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:02:36: <F#>_internal.py:<L#>88 * <Thread>787448 #> 127.0.0.1 - - [27/Dec/2018 15:02:36] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:36: <F#>_internal.py:<L#>88 * <Thread>786444 #> 127.0.0.1 - - [27/Dec/2018 15:02:36] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:36: <F#>_internal.py:<L#>88 * <Thread>787364 #> 127.0.0.1 - - [27/Dec/2018 15:02:36] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:36: <F#>_internal.py:<L#>88 * <Thread>787180 #> 127.0.0.1 - - [27/Dec/2018 15:02:36] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:39: <F#>_internal.py:<L#>88 * <Thread>787216 #> 127.0.0.1 - - [27/Dec/2018 15:02:39] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:02:48: <F#>nbuapi.py:<L#>96 * <Thread>780328 #> Start execute command
+WARNING: 2018-12-27 15:03:06: <F#>nbuapi.py:<L#>175 * <Thread>780328 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp3', u'-host=string', u'-port=string']
+WARNING: 2018-12-27 15:03:06: <F#>nbuapi.py:<L#>176 * <Thread>780328 #> [Error 2] 
+INFO: 2018-12-27 15:03:06: <F#>_internal.py:<L#>88 * <Thread>780328 #> 127.0.0.1 - - [27/Dec/2018 15:03:06] "POST /netbackup/api/bp3 HTTP/1.1" 400 -
+INFO: 2018-12-27 15:03:12: <F#>_internal.py:<L#>88 * <Thread>785656 #> 127.0.0.1 - - [27/Dec/2018 15:03:12] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:14: <F#>_internal.py:<L#>88 * <Thread>716180 #> 127.0.0.1 - - [27/Dec/2018 15:03:14] "POST /shellfile/delete/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:03:14: <F#>_internal.py:<L#>88 * <Thread>787104 #> 127.0.0.1 - - [27/Dec/2018 15:03:14] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:14: <F#>_internal.py:<L#>88 * <Thread>787376 #> 127.0.0.1 - - [27/Dec/2018 15:03:14] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:16: <F#>_internal.py:<L#>88 * <Thread>776372 #> 127.0.0.1 - - [27/Dec/2018 15:03:16] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:23: <F#>_internal.py:<L#>88 * <Thread>783612 #> 127.0.0.1 - - [27/Dec/2018 15:03:23] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:03:23: <F#>_internal.py:<L#>88 * <Thread>786508 #> 127.0.0.1 - - [27/Dec/2018 15:03:23] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:23: <F#>_internal.py:<L#>88 * <Thread>786044 #> 127.0.0.1 - - [27/Dec/2018 15:03:23] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:23: <F#>_internal.py:<L#>88 * <Thread>786632 #> 127.0.0.1 - - [27/Dec/2018 15:03:23] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:23: <F#>_internal.py:<L#>88 * <Thread>786380 #> 127.0.0.1 - - [27/Dec/2018 15:03:23] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:24: <F#>_internal.py:<L#>88 * <Thread>786948 #> 127.0.0.1 - - [27/Dec/2018 15:03:24] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:26: <F#>_internal.py:<L#>88 * <Thread>787076 #> 127.0.0.1 - - [27/Dec/2018 15:03:26] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:03:34: <F#>_internal.py:<L#>88 * <Thread>785772 #> 127.0.0.1 - - [27/Dec/2018 15:03:34] "POST /netbackup/api/bp3 HTTP/1.1" 400 -
+INFO: 2018-12-27 15:03:40: <F#>nbuapi.py:<L#>96 * <Thread>787076 #> Start execute command
+INFO: 2018-12-27 15:04:26: <F#>_internal.py:<L#>88 * <Thread>787076 #> 127.0.0.1 - - [27/Dec/2018 15:04:26] "POST /netbackup/api/bp3.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 15:07:14: <F#>_internal.py:<L#>88 * <Thread>782252 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:07:14: <F#>_internal.py:<L#>88 * <Thread>773692 #>  * Restarting with stat
+INFO: 2018-12-27 15:07:17: <F#>manage.py:<L#>29 * <Thread>787496 #> logging starts
+INFO: 2018-12-27 15:07:17: <F#>frun.py:<L#>10 * <Thread>787496 #> logging starts
+INFO: 2018-12-27 15:08:05: <F#>manage.py:<L#>29 * <Thread>786000 #> logging starts
+INFO: 2018-12-27 15:08:05: <F#>frun.py:<L#>10 * <Thread>786000 #> logging starts
+INFO: 2018-12-27 15:08:13: <F#>manage.py:<L#>29 * <Thread>787468 #> logging starts
+INFO: 2018-12-27 15:08:13: <F#>brun.py:<L#>21 * <Thread>787468 #> logging starts
+INFO: 2018-12-27 15:08:13: <F#>_internal.py:<L#>88 * <Thread>787468 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:08:33: <F#>manage.py:<L#>29 * <Thread>788076 #> logging starts
+INFO: 2018-12-27 15:08:33: <F#>brun.py:<L#>21 * <Thread>788076 #> logging starts
+INFO: 2018-12-27 15:08:33: <F#>_internal.py:<L#>88 * <Thread>788076 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:08:50: <F#>manage.py:<L#>29 * <Thread>764732 #> logging starts
+INFO: 2018-12-27 15:08:50: <F#>brun.py:<L#>21 * <Thread>764732 #> logging starts
+INFO: 2018-12-27 15:08:50: <F#>_internal.py:<L#>88 * <Thread>764732 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:09:53: <F#>manage.py:<L#>29 * <Thread>776232 #> logging starts
+INFO: 2018-12-27 15:09:53: <F#>frun.py:<L#>10 * <Thread>776232 #> logging starts
+INFO: 2018-12-27 15:10:12: <F#>manage.py:<L#>29 * <Thread>786852 #> logging starts
+INFO: 2018-12-27 15:10:13: <F#>frun.py:<L#>10 * <Thread>786852 #> logging starts
+INFO: 2018-12-27 15:10:13: <F#>_internal.py:<L#>88 * <Thread>786852 #>  * Restarting with stat
+INFO: 2018-12-27 15:10:15: <F#>manage.py:<L#>29 * <Thread>787612 #> logging starts
+INFO: 2018-12-27 15:10:15: <F#>frun.py:<L#>10 * <Thread>787612 #> logging starts
+WARNING: 2018-12-27 15:10:15: <F#>_internal.py:<L#>88 * <Thread>787612 #>  * Debugger is active!
+INFO: 2018-12-27 15:10:15: <F#>_internal.py:<L#>88 * <Thread>787612 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:10:15: <F#>_internal.py:<L#>88 * <Thread>787908 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:10:26: <F#>manage.py:<L#>29 * <Thread>788464 #> logging starts
+INFO: 2018-12-27 15:10:26: <F#>frun.py:<L#>10 * <Thread>788464 #> logging starts
+INFO: 2018-12-27 15:10:26: <F#>_internal.py:<L#>88 * <Thread>788464 #>  * Restarting with stat
+INFO: 2018-12-27 15:10:28: <F#>manage.py:<L#>29 * <Thread>787516 #> logging starts
+INFO: 2018-12-27 15:10:28: <F#>frun.py:<L#>10 * <Thread>787516 #> logging starts
+WARNING: 2018-12-27 15:10:29: <F#>_internal.py:<L#>88 * <Thread>787516 #>  * Debugger is active!
+INFO: 2018-12-27 15:10:29: <F#>_internal.py:<L#>88 * <Thread>787516 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:10:29: <F#>_internal.py:<L#>88 * <Thread>772160 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:10:37: <F#>nbuapi.py:<L#>96 * <Thread>787648 #> Start execute command
+INFO: 2018-12-27 15:12:10: <F#>_internal.py:<L#>88 * <Thread>787516 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:12:10: <F#>_internal.py:<L#>88 * <Thread>788464 #>  * Restarting with stat
+INFO: 2018-12-27 15:12:13: <F#>manage.py:<L#>29 * <Thread>783620 #> logging starts
+INFO: 2018-12-27 15:12:13: <F#>frun.py:<L#>10 * <Thread>783620 #> logging starts
+WARNING: 2018-12-27 15:12:13: <F#>_internal.py:<L#>88 * <Thread>783620 #>  * Debugger is active!
+INFO: 2018-12-27 15:12:13: <F#>_internal.py:<L#>88 * <Thread>783620 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:12:13: <F#>_internal.py:<L#>88 * <Thread>785076 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:12:25: <F#>manage.py:<L#>29 * <Thread>765508 #> logging starts
+INFO: 2018-12-27 15:12:25: <F#>frun.py:<L#>10 * <Thread>765508 #> logging starts
+INFO: 2018-12-27 15:12:25: <F#>_internal.py:<L#>88 * <Thread>765508 #>  * Restarting with stat
+INFO: 2018-12-27 15:12:27: <F#>manage.py:<L#>29 * <Thread>786672 #> logging starts
+INFO: 2018-12-27 15:12:27: <F#>frun.py:<L#>10 * <Thread>786672 #> logging starts
+WARNING: 2018-12-27 15:12:28: <F#>_internal.py:<L#>88 * <Thread>786672 #>  * Debugger is active!
+INFO: 2018-12-27 15:12:28: <F#>_internal.py:<L#>88 * <Thread>786672 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:12:28: <F#>_internal.py:<L#>88 * <Thread>742720 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:12:35: <F#>manage.py:<L#>29 * <Thread>766940 #> logging starts
+INFO: 2018-12-27 15:12:35: <F#>frun.py:<L#>10 * <Thread>766940 #> logging starts
+INFO: 2018-12-27 15:12:35: <F#>_internal.py:<L#>88 * <Thread>766940 #>  * Restarting with stat
+INFO: 2018-12-27 15:12:38: <F#>manage.py:<L#>29 * <Thread>782852 #> logging starts
+INFO: 2018-12-27 15:12:38: <F#>frun.py:<L#>10 * <Thread>782852 #> logging starts
+WARNING: 2018-12-27 15:12:38: <F#>_internal.py:<L#>88 * <Thread>782852 #>  * Debugger is active!
+INFO: 2018-12-27 15:12:38: <F#>_internal.py:<L#>88 * <Thread>782852 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:12:38: <F#>_internal.py:<L#>88 * <Thread>788172 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:12:46: <F#>nbuapi.py:<L#>96 * <Thread>783724 #> Start execute command
+INFO: 2018-12-27 15:12:53: <F#>_internal.py:<L#>88 * <Thread>783724 #> 127.0.0.1 - - [27/Dec/2018 15:12:53] "POST /netbackup/api/bp3.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 15:13:12: <F#>_internal.py:<L#>88 * <Thread>783740 #> 127.0.0.1 - - [27/Dec/2018 15:13:12] "POST /netbackup/api/bp3.bat1 HTTP/1.1" 400 -
+INFO: 2018-12-27 15:13:24: <F#>_internal.py:<L#>88 * <Thread>785904 #> 127.0.0.1 - - [27/Dec/2018 15:13:24] "POST /netbackup/api/check_client HTTP/1.1" 400 -
+INFO: 2018-12-27 15:13:33: <F#>_internal.py:<L#>88 * <Thread>783732 #> 127.0.0.1 - - [27/Dec/2018 15:13:33] "POST /netbackup/api/client_check HTTP/1.1" 400 -
+INFO: 2018-12-27 15:13:57: <F#>manage.py:<L#>29 * <Thread>787244 #> logging starts
+INFO: 2018-12-27 15:13:57: <F#>brun.py:<L#>21 * <Thread>787244 #> logging starts
+INFO: 2018-12-27 15:13:57: <F#>_internal.py:<L#>88 * <Thread>787244 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:14:00: <F#>_internal.py:<L#>88 * <Thread>788064 #> 127.0.0.1 - - [27/Dec/2018 15:14:00] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:14:01: <F#>_internal.py:<L#>88 * <Thread>779512 #> 127.0.0.1 - - [27/Dec/2018 15:14:01] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:14:09: <F#>nbuapi.py:<L#>96 * <Thread>788232 #> Start execute command
+INFO: 2018-12-27 15:14:18: <F#>manage.py:<L#>29 * <Thread>787200 #> logging starts
+INFO: 2018-12-27 15:14:18: <F#>brun.py:<L#>21 * <Thread>787200 #> logging starts
+INFO: 2018-12-27 15:14:19: <F#>_internal.py:<L#>88 * <Thread>787200 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:14:49: <F#>manage.py:<L#>29 * <Thread>788084 #> logging starts
+INFO: 2018-12-27 15:14:49: <F#>frun.py:<L#>10 * <Thread>788084 #> logging starts
+INFO: 2018-12-27 15:14:49: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:14:51: <F#>manage.py:<L#>29 * <Thread>782864 #> logging starts
+INFO: 2018-12-27 15:14:51: <F#>frun.py:<L#>10 * <Thread>782864 #> logging starts
+WARNING: 2018-12-27 15:14:52: <F#>_internal.py:<L#>88 * <Thread>782864 #>  * Debugger is active!
+INFO: 2018-12-27 15:14:52: <F#>_internal.py:<L#>88 * <Thread>782864 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:14:52: <F#>_internal.py:<L#>88 * <Thread>745688 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:14:53: <F#>nbuapi.py:<L#>96 * <Thread>788308 #> Start execute command
+WARNING: 2018-12-27 15:14:53: <F#>nbuapi.py:<L#>175 * <Thread>788308 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\after.sh', 'string', 'string']
+WARNING: 2018-12-27 15:14:53: <F#>nbuapi.py:<L#>176 * <Thread>788308 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 15:14:53: <F#>_internal.py:<L#>88 * <Thread>788308 #> 127.0.0.1 - - [27/Dec/2018 15:14:53] "POST /netbackup/api/after.sh HTTP/1.1" 400 -
+INFO: 2018-12-27 15:15:31: <F#>_internal.py:<L#>88 * <Thread>782864 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:15:31: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:15:34: <F#>manage.py:<L#>29 * <Thread>786936 #> logging starts
+INFO: 2018-12-27 15:15:34: <F#>frun.py:<L#>10 * <Thread>786936 #> logging starts
+WARNING: 2018-12-27 15:15:34: <F#>_internal.py:<L#>88 * <Thread>786936 #>  * Debugger is active!
+INFO: 2018-12-27 15:15:34: <F#>_internal.py:<L#>88 * <Thread>786936 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:15:34: <F#>_internal.py:<L#>88 * <Thread>782492 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:16:01: <F#>nbuapi.py:<L#>96 * <Thread>785044 #> Start execute command
+WARNING: 2018-12-27 15:16:01: <F#>nbuapi.py:<L#>175 * <Thread>785044 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\after.sh', 'string', 'string']
+WARNING: 2018-12-27 15:16:01: <F#>nbuapi.py:<L#>176 * <Thread>785044 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 15:16:01: <F#>_internal.py:<L#>88 * <Thread>785044 #> 127.0.0.1 - - [27/Dec/2018 15:16:01] "POST /netbackup/api/after.sh HTTP/1.1" 400 -
+INFO: 2018-12-27 15:17:21: <F#>_internal.py:<L#>88 * <Thread>786936 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:17:21: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:17:23: <F#>manage.py:<L#>29 * <Thread>786068 #> logging starts
+INFO: 2018-12-27 15:17:23: <F#>frun.py:<L#>10 * <Thread>786068 #> logging starts
+WARNING: 2018-12-27 15:17:23: <F#>_internal.py:<L#>88 * <Thread>786068 #>  * Debugger is active!
+INFO: 2018-12-27 15:17:23: <F#>_internal.py:<L#>88 * <Thread>786068 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:17:23: <F#>_internal.py:<L#>88 * <Thread>782492 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:17:27: <F#>_internal.py:<L#>88 * <Thread>786068 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:17:27: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:17:30: <F#>manage.py:<L#>29 * <Thread>787044 #> logging starts
+INFO: 2018-12-27 15:17:30: <F#>frun.py:<L#>10 * <Thread>787044 #> logging starts
+WARNING: 2018-12-27 15:17:30: <F#>_internal.py:<L#>88 * <Thread>787044 #>  * Debugger is active!
+INFO: 2018-12-27 15:17:30: <F#>_internal.py:<L#>88 * <Thread>787044 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:17:30: <F#>_internal.py:<L#>88 * <Thread>784892 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:17:53: <F#>_internal.py:<L#>88 * <Thread>787044 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:17:53: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:17:56: <F#>manage.py:<L#>29 * <Thread>783644 #> logging starts
+INFO: 2018-12-27 15:17:56: <F#>frun.py:<L#>10 * <Thread>783644 #> logging starts
+WARNING: 2018-12-27 15:17:56: <F#>_internal.py:<L#>88 * <Thread>783644 #>  * Debugger is active!
+INFO: 2018-12-27 15:17:56: <F#>_internal.py:<L#>88 * <Thread>783644 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:17:56: <F#>_internal.py:<L#>88 * <Thread>781400 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:17:57: <F#>nbuapi.py:<L#>96 * <Thread>783740 #> Start execute command
+WARNING: 2018-12-27 15:17:57: <F#>nbuapi.py:<L#>175 * <Thread>783740 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\after.sh', 'string', 'string']
+WARNING: 2018-12-27 15:17:57: <F#>nbuapi.py:<L#>176 * <Thread>783740 #> [Error 193] %1 不是有效的 Win32
+INFO: 2018-12-27 15:17:57: <F#>_internal.py:<L#>88 * <Thread>783740 #> 127.0.0.1 - - [27/Dec/2018 15:17:57] "POST /netbackup/api/after.sh HTTP/1.1" 400 -
+INFO: 2018-12-27 15:18:02: <F#>_internal.py:<L#>88 * <Thread>783732 #> 127.0.0.1 - - [27/Dec/2018 15:18:02] "POST /netbackup/api/bp3.sh HTTP/1.1" 400 -
+INFO: 2018-12-27 15:18:09: <F#>nbuapi.py:<L#>96 * <Thread>788092 #> Start execute command
+INFO: 2018-12-27 15:18:13: <F#>_internal.py:<L#>88 * <Thread>788092 #> 127.0.0.1 - - [27/Dec/2018 15:18:13] "POST /netbackup/api/bp3.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 15:18:24: <F#>nbuapi.py:<L#>96 * <Thread>789132 #> Start execute command
+INFO: 2018-12-27 15:18:24: <F#>_internal.py:<L#>88 * <Thread>789132 #> 127.0.0.1 - - [27/Dec/2018 15:18:24] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 15:23:29: <F#>_internal.py:<L#>88 * <Thread>783644 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:23:29: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:23:31: <F#>manage.py:<L#>29 * <Thread>787396 #> logging starts
+INFO: 2018-12-27 15:23:31: <F#>frun.py:<L#>10 * <Thread>787396 #> logging starts
+WARNING: 2018-12-27 15:23:32: <F#>_internal.py:<L#>88 * <Thread>787396 #>  * Debugger is active!
+INFO: 2018-12-27 15:23:32: <F#>_internal.py:<L#>88 * <Thread>787396 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:23:32: <F#>_internal.py:<L#>88 * <Thread>790196 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:23:39: <F#>nbuapi.py:<L#>98 * <Thread>787416 #> Start execute command
+INFO: 2018-12-27 15:23:39: <F#>_internal.py:<L#>88 * <Thread>787416 #> 127.0.0.1 - - [27/Dec/2018 15:23:39] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 15:23:43: <F#>nbuapi.py:<L#>98 * <Thread>789588 #> Start execute command
+INFO: 2018-12-27 15:23:43: <F#>_internal.py:<L#>88 * <Thread>789588 #> 127.0.0.1 - - [27/Dec/2018 15:23:43] "POST /netbackup/api/bp2.bat HTTP/1.1" 200 -
+INFO: 2018-12-27 15:32:10: <F#>_internal.py:<L#>88 * <Thread>787396 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:32:10: <F#>_internal.py:<L#>88 * <Thread>788084 #>  * Restarting with stat
+INFO: 2018-12-27 15:32:13: <F#>manage.py:<L#>29 * <Thread>789440 #> logging starts
+INFO: 2018-12-27 15:32:13: <F#>frun.py:<L#>10 * <Thread>789440 #> logging starts
+WARNING: 2018-12-27 15:32:13: <F#>_internal.py:<L#>88 * <Thread>789440 #>  * Debugger is active!
+INFO: 2018-12-27 15:32:13: <F#>_internal.py:<L#>88 * <Thread>789440 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:32:13: <F#>_internal.py:<L#>88 * <Thread>782064 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:36:32: <F#>manage.py:<L#>29 * <Thread>789736 #> logging starts
+INFO: 2018-12-27 15:36:32: <F#>frun.py:<L#>10 * <Thread>789736 #> logging starts
+INFO: 2018-12-27 15:36:33: <F#>_internal.py:<L#>88 * <Thread>789736 #>  * Restarting with stat
+INFO: 2018-12-27 15:36:35: <F#>manage.py:<L#>29 * <Thread>788168 #> logging starts
+INFO: 2018-12-27 15:36:35: <F#>frun.py:<L#>10 * <Thread>788168 #> logging starts
+WARNING: 2018-12-27 15:36:35: <F#>_internal.py:<L#>88 * <Thread>788168 #>  * Debugger is active!
+INFO: 2018-12-27 15:36:35: <F#>_internal.py:<L#>88 * <Thread>788168 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:36:35: <F#>_internal.py:<L#>88 * <Thread>764412 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:36:55: <F#>manage.py:<L#>29 * <Thread>783556 #> logging starts
+INFO: 2018-12-27 15:36:55: <F#>brun.py:<L#>21 * <Thread>783556 #> logging starts
+INFO: 2018-12-27 15:36:55: <F#>_internal.py:<L#>88 * <Thread>783556 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:37:19: <F#>_internal.py:<L#>88 * <Thread>789024 #> 127.0.0.1 - - [27/Dec/2018 15:37:19] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:20: <F#>_internal.py:<L#>88 * <Thread>787936 #> 127.0.0.1 - - [27/Dec/2018 15:37:20] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:22: <F#>_internal.py:<L#>88 * <Thread>784796 #> 127.0.0.1 - - [27/Dec/2018 15:37:22] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:22: <F#>_internal.py:<L#>88 * <Thread>787812 #> 127.0.0.1 - - [27/Dec/2018 15:37:22] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:22: <F#>_internal.py:<L#>88 * <Thread>743876 #> 127.0.0.1 - - [27/Dec/2018 15:37:22] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:22: <F#>_internal.py:<L#>88 * <Thread>786328 #> 127.0.0.1 - - [27/Dec/2018 15:37:22] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:22: <F#>_internal.py:<L#>88 * <Thread>789440 #> 127.0.0.1 - - [27/Dec/2018 15:37:22] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:23: <F#>_internal.py:<L#>88 * <Thread>788000 #> 127.0.0.1 - - [27/Dec/2018 15:37:23] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:24: <F#>_internal.py:<L#>88 * <Thread>789024 #> 127.0.0.1 - - [27/Dec/2018 15:37:24] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:24: <F#>_internal.py:<L#>88 * <Thread>787372 #> 127.0.0.1 - - [27/Dec/2018 15:37:24] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:25: <F#>_internal.py:<L#>88 * <Thread>783392 #> 127.0.0.1 - - [27/Dec/2018 15:37:25] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:38: <F#>_internal.py:<L#>88 * <Thread>785732 #> 127.0.0.1 - - [27/Dec/2018 15:37:38] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:37:38: <F#>_internal.py:<L#>88 * <Thread>785484 #> 127.0.0.1 - - [27/Dec/2018 15:37:38] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:38: <F#>_internal.py:<L#>88 * <Thread>786876 #> 127.0.0.1 - - [27/Dec/2018 15:37:38] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:40: <F#>_internal.py:<L#>88 * <Thread>790424 #> 127.0.0.1 - - [27/Dec/2018 15:37:40] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:45: <F#>_internal.py:<L#>88 * <Thread>783632 #> 127.0.0.1 - - [27/Dec/2018 15:37:45] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:37:45: <F#>_internal.py:<L#>88 * <Thread>788880 #> 127.0.0.1 - - [27/Dec/2018 15:37:45] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:45: <F#>_internal.py:<L#>88 * <Thread>787372 #> 127.0.0.1 - - [27/Dec/2018 15:37:45] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:46: <F#>_internal.py:<L#>88 * <Thread>771352 #> 127.0.0.1 - - [27/Dec/2018 15:37:46] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:49: <F#>_internal.py:<L#>88 * <Thread>772560 #> 127.0.0.1 - - [27/Dec/2018 15:37:49] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:37:49: <F#>_internal.py:<L#>88 * <Thread>782712 #> 127.0.0.1 - - [27/Dec/2018 15:37:49] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:49: <F#>_internal.py:<L#>88 * <Thread>757064 #> 127.0.0.1 - - [27/Dec/2018 15:37:49] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:37:51: <F#>_internal.py:<L#>88 * <Thread>786188 #> 127.0.0.1 - - [27/Dec/2018 15:37:51] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:00: <F#>_internal.py:<L#>88 * <Thread>786540 #> 127.0.0.1 - - [27/Dec/2018 15:38:00] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:38:00: <F#>_internal.py:<L#>88 * <Thread>757064 #> 127.0.0.1 - - [27/Dec/2018 15:38:00] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:00: <F#>_internal.py:<L#>88 * <Thread>789816 #> 127.0.0.1 - - [27/Dec/2018 15:38:00] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:00: <F#>_internal.py:<L#>88 * <Thread>789728 #> 127.0.0.1 - - [27/Dec/2018 15:38:00] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:00: <F#>_internal.py:<L#>88 * <Thread>784260 #> 127.0.0.1 - - [27/Dec/2018 15:38:00] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:01: <F#>_internal.py:<L#>88 * <Thread>790104 #> 127.0.0.1 - - [27/Dec/2018 15:38:01] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:03: <F#>_internal.py:<L#>88 * <Thread>789700 #> 127.0.0.1 - - [27/Dec/2018 15:38:03] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:06: <F#>_internal.py:<L#>88 * <Thread>784944 #> 127.0.0.1 - - [27/Dec/2018 15:38:06] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:07: <F#>_internal.py:<L#>88 * <Thread>785484 #> 127.0.0.1 - - [27/Dec/2018 15:38:07] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:08: <F#>_internal.py:<L#>88 * <Thread>782380 #> 127.0.0.1 - - [27/Dec/2018 15:38:08] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:38:08: <F#>_internal.py:<L#>88 * <Thread>771352 #> 127.0.0.1 - - [27/Dec/2018 15:38:08] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:14: <F#>_internal.py:<L#>88 * <Thread>788584 #> 127.0.0.1 - - [27/Dec/2018 15:39:14] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:15: <F#>_internal.py:<L#>88 * <Thread>789620 #> 127.0.0.1 - - [27/Dec/2018 15:39:15] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:16: <F#>_internal.py:<L#>88 * <Thread>784812 #> 127.0.0.1 - - [27/Dec/2018 15:39:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:16: <F#>_internal.py:<L#>88 * <Thread>782392 #> 127.0.0.1 - - [27/Dec/2018 15:39:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:16: <F#>_internal.py:<L#>88 * <Thread>782368 #> 127.0.0.1 - - [27/Dec/2018 15:39:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:16: <F#>_internal.py:<L#>88 * <Thread>789032 #> 127.0.0.1 - - [27/Dec/2018 15:39:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:39:42: <F#>_internal.py:<L#>88 * <Thread>788168 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-27 15:39:42: <F#>_internal.py:<L#>88 * <Thread>789736 #>  * Restarting with stat
+INFO: 2018-12-27 15:39:44: <F#>manage.py:<L#>29 * <Thread>139040 #> logging starts
+INFO: 2018-12-27 15:39:44: <F#>frun.py:<L#>10 * <Thread>139040 #> logging starts
+WARNING: 2018-12-27 15:39:45: <F#>_internal.py:<L#>88 * <Thread>139040 #>  * Debugger is active!
+INFO: 2018-12-27 15:39:45: <F#>_internal.py:<L#>88 * <Thread>139040 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 15:39:45: <F#>_internal.py:<L#>88 * <Thread>786484 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:40:32: <F#>_internal.py:<L#>88 * <Thread>790548 #> 127.0.0.1 - - [27/Dec/2018 15:40:32] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:40:33: <F#>_internal.py:<L#>88 * <Thread>790740 #> 127.0.0.1 - - [27/Dec/2018 15:40:33] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:40:33: <F#>_internal.py:<L#>88 * <Thread>790576 #> 127.0.0.1 - - [27/Dec/2018 15:40:33] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:40:34: <F#>_internal.py:<L#>88 * <Thread>783560 #> 127.0.0.1 - - [27/Dec/2018 15:40:34] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:40:37: <F#>_internal.py:<L#>88 * <Thread>790792 #> 127.0.0.1 - - [27/Dec/2018 15:40:37] "POST /shellfile/delete/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:40:37: <F#>_internal.py:<L#>88 * <Thread>790816 #> 127.0.0.1 - - [27/Dec/2018 15:40:37] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:40:37: <F#>_internal.py:<L#>88 * <Thread>790852 #> 127.0.0.1 - - [27/Dec/2018 15:40:37] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:40:39: <F#>_internal.py:<L#>88 * <Thread>790992 #> 127.0.0.1 - - [27/Dec/2018 15:40:39] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:13: <F#>_internal.py:<L#>88 * <Thread>790988 #> 127.0.0.1 - - [27/Dec/2018 15:41:13] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:41:13: <F#>_internal.py:<L#>88 * <Thread>774344 #> 127.0.0.1 - - [27/Dec/2018 15:41:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:13: <F#>_internal.py:<L#>88 * <Thread>782620 #> 127.0.0.1 - - [27/Dec/2018 15:41:13] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:13: <F#>_internal.py:<L#>88 * <Thread>790640 #> 127.0.0.1 - - [27/Dec/2018 15:41:13] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:13: <F#>_internal.py:<L#>88 * <Thread>750276 #> 127.0.0.1 - - [27/Dec/2018 15:41:13] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:48: <F#>manage.py:<L#>29 * <Thread>791148 #> logging starts
+INFO: 2018-12-27 15:41:48: <F#>brun.py:<L#>21 * <Thread>791148 #> logging starts
+INFO: 2018-12-27 15:41:48: <F#>_internal.py:<L#>88 * <Thread>791148 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:41:50: <F#>_internal.py:<L#>88 * <Thread>790896 #> 127.0.0.1 - - [27/Dec/2018 15:41:50] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:52: <F#>_internal.py:<L#>88 * <Thread>791436 #> 127.0.0.1 - - [27/Dec/2018 15:41:52] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:52: <F#>_internal.py:<L#>88 * <Thread>790904 #> 127.0.0.1 - - [27/Dec/2018 15:41:52] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:52: <F#>_internal.py:<L#>88 * <Thread>788120 #> 127.0.0.1 - - [27/Dec/2018 15:41:52] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:52: <F#>_internal.py:<L#>88 * <Thread>784968 #> 127.0.0.1 - - [27/Dec/2018 15:41:52] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:52: <F#>_internal.py:<L#>88 * <Thread>783908 #> 127.0.0.1 - - [27/Dec/2018 15:41:52] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:41:55: <F#>_internal.py:<L#>88 * <Thread>789160 #> 127.0.0.1 - - [27/Dec/2018 15:41:55] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:00: <F#>_internal.py:<L#>88 * <Thread>790792 #> 127.0.0.1 - - [27/Dec/2018 15:42:00] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:42:00: <F#>_internal.py:<L#>88 * <Thread>789140 #> 127.0.0.1 - - [27/Dec/2018 15:42:00] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:00: <F#>_internal.py:<L#>88 * <Thread>789860 #> 127.0.0.1 - - [27/Dec/2018 15:42:00] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:00: <F#>_internal.py:<L#>88 * <Thread>784252 #> 127.0.0.1 - - [27/Dec/2018 15:42:00] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:00: <F#>_internal.py:<L#>88 * <Thread>787288 #> 127.0.0.1 - - [27/Dec/2018 15:42:00] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:02: <F#>_internal.py:<L#>88 * <Thread>791492 #> 127.0.0.1 - - [27/Dec/2018 15:42:02] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:08: <F#>_internal.py:<L#>88 * <Thread>791276 #> 127.0.0.1 - - [27/Dec/2018 15:42:08] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:42:08: <F#>_internal.py:<L#>88 * <Thread>791432 #> 127.0.0.1 - - [27/Dec/2018 15:42:08] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:08: <F#>_internal.py:<L#>88 * <Thread>783280 #> 127.0.0.1 - - [27/Dec/2018 15:42:08] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:08: <F#>_internal.py:<L#>88 * <Thread>791272 #> 127.0.0.1 - - [27/Dec/2018 15:42:08] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:08: <F#>_internal.py:<L#>88 * <Thread>790048 #> 127.0.0.1 - - [27/Dec/2018 15:42:08] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:09: <F#>_internal.py:<L#>88 * <Thread>789700 #> 127.0.0.1 - - [27/Dec/2018 15:42:09] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:13: <F#>_internal.py:<L#>88 * <Thread>790708 #> 127.0.0.1 - - [27/Dec/2018 15:42:13] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:42:13: <F#>_internal.py:<L#>88 * <Thread>790960 #> 127.0.0.1 - - [27/Dec/2018 15:42:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:13: <F#>_internal.py:<L#>88 * <Thread>788168 #> 127.0.0.1 - - [27/Dec/2018 15:42:13] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:42:14: <F#>_internal.py:<L#>88 * <Thread>790704 #> 127.0.0.1 - - [27/Dec/2018 15:42:14] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:43:25: <F#>_internal.py:<L#>88 * <Thread>139040 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\dbs.py', reloading
+INFO: 2018-12-27 15:43:39: <F#>_internal.py:<L#>88 * <Thread>783544 #> 127.0.0.1 - - [27/Dec/2018 15:43:39] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:43:39: <F#>_internal.py:<L#>88 * <Thread>786892 #> 127.0.0.1 - - [27/Dec/2018 15:43:39] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:43:39: <F#>_internal.py:<L#>88 * <Thread>790944 #> 127.0.0.1 - - [27/Dec/2018 15:43:39] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:43:39: <F#>_internal.py:<L#>88 * <Thread>786260 #> 127.0.0.1 - - [27/Dec/2018 15:43:39] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:43:39: <F#>_internal.py:<L#>88 * <Thread>790716 #> 127.0.0.1 - - [27/Dec/2018 15:43:39] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:43:50: <F#>manage.py:<L#>29 * <Thread>791212 #> logging starts
+INFO: 2018-12-27 15:43:51: <F#>brun.py:<L#>21 * <Thread>791212 #> logging starts
+INFO: 2018-12-27 15:43:51: <F#>_internal.py:<L#>88 * <Thread>791212 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:43:52: <F#>_internal.py:<L#>88 * <Thread>790648 #> 127.0.0.1 - - [27/Dec/2018 15:43:52] "GET /shellfile/action/ HTTP/1.1" 405 -
+INFO: 2018-12-27 15:43:55: <F#>_internal.py:<L#>88 * <Thread>786756 #> 127.0.0.1 - - [27/Dec/2018 15:43:55] "GET /shellfile/action/ HTTP/1.1" 405 -
+INFO: 2018-12-27 15:43:58: <F#>_internal.py:<L#>88 * <Thread>750276 #> 127.0.0.1 - - [27/Dec/2018 15:43:58] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 15:43:58: <F#>_internal.py:<L#>88 * <Thread>773132 #> 127.0.0.1 - - [27/Dec/2018 15:43:58] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:00: <F#>_internal.py:<L#>88 * <Thread>790872 #> 127.0.0.1 - - [27/Dec/2018 15:44:00] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:01: <F#>_internal.py:<L#>88 * <Thread>791388 #> 127.0.0.1 - - [27/Dec/2018 15:44:01] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:01: <F#>_internal.py:<L#>88 * <Thread>790584 #> 127.0.0.1 - - [27/Dec/2018 15:44:01] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:01: <F#>_internal.py:<L#>88 * <Thread>791308 #> 127.0.0.1 - - [27/Dec/2018 15:44:01] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:01: <F#>_internal.py:<L#>88 * <Thread>790604 #> 127.0.0.1 - - [27/Dec/2018 15:44:01] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:01: <F#>_internal.py:<L#>88 * <Thread>770816 #> 127.0.0.1 - - [27/Dec/2018 15:44:01] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:02: <F#>_internal.py:<L#>88 * <Thread>788600 #> 127.0.0.1 - - [27/Dec/2018 15:44:02] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:04: <F#>_internal.py:<L#>88 * <Thread>790956 #> 127.0.0.1 - - [27/Dec/2018 15:44:04] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:05: <F#>_internal.py:<L#>88 * <Thread>789252 #> 127.0.0.1 - - [27/Dec/2018 15:44:05] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:06: <F#>_internal.py:<L#>88 * <Thread>791312 #> 127.0.0.1 - - [27/Dec/2018 15:44:06] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>790864 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>788936 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>788612 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>791424 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>789636 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>785060 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:21: <F#>_internal.py:<L#>88 * <Thread>790756 #> 127.0.0.1 - - [27/Dec/2018 15:44:21] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:23: <F#>_internal.py:<L#>88 * <Thread>789916 #> 127.0.0.1 - - [27/Dec/2018 15:44:23] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:24: <F#>_internal.py:<L#>88 * <Thread>788120 #> 127.0.0.1 - - [27/Dec/2018 15:44:24] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:32: <F#>_internal.py:<L#>88 * <Thread>786648 #> 127.0.0.1 - - [27/Dec/2018 15:44:32] "POST /shellfile/delete/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:44:32: <F#>_internal.py:<L#>88 * <Thread>790876 #> 127.0.0.1 - - [27/Dec/2018 15:44:32] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:33: <F#>_internal.py:<L#>88 * <Thread>789984 #> 127.0.0.1 - - [27/Dec/2018 15:44:33] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:33: <F#>_internal.py:<L#>88 * <Thread>789916 #> 127.0.0.1 - - [27/Dec/2018 15:44:33] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:37: <F#>_internal.py:<L#>88 * <Thread>788936 #> 127.0.0.1 - - [27/Dec/2018 15:44:37] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:44:38: <F#>_internal.py:<L#>88 * <Thread>790780 #> 127.0.0.1 - - [27/Dec/2018 15:44:38] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:38: <F#>_internal.py:<L#>88 * <Thread>789288 #> 127.0.0.1 - - [27/Dec/2018 15:44:38] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:38: <F#>_internal.py:<L#>88 * <Thread>789636 #> 127.0.0.1 - - [27/Dec/2018 15:44:38] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:42: <F#>_internal.py:<L#>88 * <Thread>791444 #> 127.0.0.1 - - [27/Dec/2018 15:44:42] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 15:44:42: <F#>_internal.py:<L#>88 * <Thread>790688 #> 127.0.0.1 - - [27/Dec/2018 15:44:42] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:42: <F#>_internal.py:<L#>88 * <Thread>789252 #> 127.0.0.1 - - [27/Dec/2018 15:44:42] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:43: <F#>_internal.py:<L#>88 * <Thread>791496 #> 127.0.0.1 - - [27/Dec/2018 15:44:43] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:51: <F#>_internal.py:<L#>88 * <Thread>782016 #> 127.0.0.1 - - [27/Dec/2018 15:44:51] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:44:51: <F#>_internal.py:<L#>88 * <Thread>790972 #> 127.0.0.1 - - [27/Dec/2018 15:44:51] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:51: <F#>_internal.py:<L#>88 * <Thread>790952 #> 127.0.0.1 - - [27/Dec/2018 15:44:51] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:51: <F#>_internal.py:<L#>88 * <Thread>791016 #> 127.0.0.1 - - [27/Dec/2018 15:44:51] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:51: <F#>_internal.py:<L#>88 * <Thread>791360 #> 127.0.0.1 - - [27/Dec/2018 15:44:51] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:54: <F#>_internal.py:<L#>88 * <Thread>791460 #> 127.0.0.1 - - [27/Dec/2018 15:44:54] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:55: <F#>_internal.py:<L#>88 * <Thread>791324 #> 127.0.0.1 - - [27/Dec/2018 15:44:55] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:44:56: <F#>_internal.py:<L#>88 * <Thread>787476 #> 127.0.0.1 - - [27/Dec/2018 15:44:56] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:10: <F#>_internal.py:<L#>88 * <Thread>786572 #> 127.0.0.1 - - [27/Dec/2018 15:45:10] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:45:10: <F#>_internal.py:<L#>88 * <Thread>789420 #> 127.0.0.1 - - [27/Dec/2018 15:45:10] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:10: <F#>_internal.py:<L#>88 * <Thread>791464 #> 127.0.0.1 - - [27/Dec/2018 15:45:10] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:10: <F#>_internal.py:<L#>88 * <Thread>791488 #> 127.0.0.1 - - [27/Dec/2018 15:45:10] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:10: <F#>_internal.py:<L#>88 * <Thread>790904 #> 127.0.0.1 - - [27/Dec/2018 15:45:10] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:16: <F#>_internal.py:<L#>88 * <Thread>791120 #> 127.0.0.1 - - [27/Dec/2018 15:45:16] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:17: <F#>_internal.py:<L#>88 * <Thread>761776 #> 127.0.0.1 - - [27/Dec/2018 15:45:17] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:20: <F#>_internal.py:<L#>88 * <Thread>791292 #> 127.0.0.1 - - [27/Dec/2018 15:45:20] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:28: <F#>_internal.py:<L#>88 * <Thread>791460 #> 127.0.0.1 - - [27/Dec/2018 15:45:28] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 15:45:28: <F#>_internal.py:<L#>88 * <Thread>787468 #> 127.0.0.1 - - [27/Dec/2018 15:45:28] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:28: <F#>_internal.py:<L#>88 * <Thread>783908 #> 127.0.0.1 - - [27/Dec/2018 15:45:28] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:28: <F#>_internal.py:<L#>88 * <Thread>790556 #> 127.0.0.1 - - [27/Dec/2018 15:45:28] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:28: <F#>_internal.py:<L#>88 * <Thread>786892 #> 127.0.0.1 - - [27/Dec/2018 15:45:28] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:44: <F#>_internal.py:<L#>88 * <Thread>790812 #> 127.0.0.1 - - [27/Dec/2018 15:45:44] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:45: <F#>_internal.py:<L#>88 * <Thread>789160 #> 127.0.0.1 - - [27/Dec/2018 15:45:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:45: <F#>_internal.py:<L#>88 * <Thread>788200 #> 127.0.0.1 - - [27/Dec/2018 15:45:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:45: <F#>_internal.py:<L#>88 * <Thread>779108 #> 127.0.0.1 - - [27/Dec/2018 15:45:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:46: <F#>_internal.py:<L#>88 * <Thread>785040 #> 127.0.0.1 - - [27/Dec/2018 15:45:46] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:46: <F#>_internal.py:<L#>88 * <Thread>782764 #> 127.0.0.1 - - [27/Dec/2018 15:45:46] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:45:46: <F#>_internal.py:<L#>88 * <Thread>785704 #> 127.0.0.1 - - [27/Dec/2018 15:45:46] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 15:46:42: <F#>manage.py:<L#>29 * <Thread>792440 #> logging starts
+INFO: 2018-12-27 15:46:42: <F#>frun.py:<L#>10 * <Thread>792440 #> logging starts
+INFO: 2018-12-27 15:46:42: <F#>_internal.py:<L#>88 * <Thread>792440 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 15:46:44: <F#>_internal.py:<L#>88 * <Thread>791008 #> 127.0.0.1 - - [27/Dec/2018 15:46:44] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 15:46:44: <F#>_internal.py:<L#>88 * <Thread>791604 #> 127.0.0.1 - - [27/Dec/2018 15:46:44] "GET /swaggerui/bower/swagger-ui/dist/swagger-ui.min.js HTTP/1.1" 304 -
+INFO: 2018-12-27 15:46:44: <F#>_internal.py:<L#>88 * <Thread>791924 #> 127.0.0.1 - - [27/Dec/2018 15:46:44] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 15:46:53: <F#>_internal.py:<L#>88 * <Thread>791912 #> 127.0.0.1 - - [27/Dec/2018 15:46:53] "PATCH /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 15:46:58: <F#>_internal.py:<L#>88 * <Thread>757704 #> 127.0.0.1 - - [27/Dec/2018 15:46:58] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:47:03: <F#>_internal.py:<L#>88 * <Thread>792260 #> 127.0.0.1 - - [27/Dec/2018 15:47:03] "PATCH /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:47:20: <F#>nbuapi.py:<L#>98 * <Thread>792568 #> Start execute command
+WARNING: 2018-12-27 15:47:20: <F#>nbuapi.py:<L#>177 * <Thread>792568 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 15:47:20: <F#>nbuapi.py:<L#>178 * <Thread>792568 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 15:47:20: <F#>_internal.py:<L#>88 * <Thread>792568 #> 127.0.0.1 - - [27/Dec/2018 15:47:20] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 15:47:29: <F#>nbuapi.py:<L#>98 * <Thread>791648 #> Start execute command
+INFO: 2018-12-27 15:47:29: <F#>_internal.py:<L#>88 * <Thread>791648 #> 127.0.0.1 - - [27/Dec/2018 15:47:29] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:47:34: <F#>nbuapi.py:<L#>98 * <Thread>792008 #> Start execute command
+INFO: 2018-12-27 15:47:34: <F#>_internal.py:<L#>88 * <Thread>792008 #> 127.0.0.1 - - [27/Dec/2018 15:47:34] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:47:38: <F#>nbuapi.py:<L#>98 * <Thread>757416 #> Start execute command
+INFO: 2018-12-27 15:47:38: <F#>_internal.py:<L#>88 * <Thread>757416 #> 127.0.0.1 - - [27/Dec/2018 15:47:38] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:47:47: <F#>nbuapi.py:<L#>98 * <Thread>790900 #> Start execute command
+INFO: 2018-12-27 15:47:47: <F#>_internal.py:<L#>88 * <Thread>790900 #> 127.0.0.1 - - [27/Dec/2018 15:47:47] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:49:28: <F#>nbuapi.py:<L#>98 * <Thread>791728 #> Start execute command
+INFO: 2018-12-27 15:49:28: <F#>_internal.py:<L#>88 * <Thread>791728 #> 127.0.0.1 - - [27/Dec/2018 15:49:28] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:49:34: <F#>nbuapi.py:<L#>98 * <Thread>791912 #> Start execute command
+INFO: 2018-12-27 15:49:34: <F#>_internal.py:<L#>88 * <Thread>791912 #> 127.0.0.1 - - [27/Dec/2018 15:49:34] "POST /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 15:49:43: <F#>nbuapi.py:<L#>98 * <Thread>792084 #> Start execute command
+INFO: 2018-12-27 15:49:43: <F#>_internal.py:<L#>88 * <Thread>792084 #> 127.0.0.1 - - [27/Dec/2018 15:49:43] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:49:44: <F#>nbuapi.py:<L#>98 * <Thread>791480 #> Start execute command
+INFO: 2018-12-27 15:49:44: <F#>_internal.py:<L#>88 * <Thread>791480 #> 127.0.0.1 - - [27/Dec/2018 15:49:44] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:49:44: <F#>nbuapi.py:<L#>98 * <Thread>773496 #> Start execute command
+INFO: 2018-12-27 15:49:44: <F#>_internal.py:<L#>88 * <Thread>773496 #> 127.0.0.1 - - [27/Dec/2018 15:49:44] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:49:44: <F#>nbuapi.py:<L#>98 * <Thread>791308 #> Start execute command
+INFO: 2018-12-27 15:49:44: <F#>_internal.py:<L#>88 * <Thread>791308 #> 127.0.0.1 - - [27/Dec/2018 15:49:44] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:50:44: <F#>nbuapi.py:<L#>98 * <Thread>783912 #> Start execute command
+INFO: 2018-12-27 15:50:44: <F#>_internal.py:<L#>88 * <Thread>783912 #> 127.0.0.1 - - [27/Dec/2018 15:50:44] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 15:50:50: <F#>nbuapi.py:<L#>98 * <Thread>791988 #> Start execute command
+INFO: 2018-12-27 15:50:50: <F#>_internal.py:<L#>88 * <Thread>791988 #> 127.0.0.1 - - [27/Dec/2018 15:50:50] "POST /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 15:50:54: <F#>nbuapi.py:<L#>98 * <Thread>792352 #> Start execute command
+INFO: 2018-12-27 15:50:54: <F#>_internal.py:<L#>88 * <Thread>792352 #> 127.0.0.1 - - [27/Dec/2018 15:50:54] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:03:46: <F#>manage.py:<L#>29 * <Thread>793256 #> logging starts
+INFO: 2018-12-27 16:03:46: <F#>frun.py:<L#>10 * <Thread>793256 #> logging starts
+INFO: 2018-12-27 16:03:46: <F#>_internal.py:<L#>88 * <Thread>793256 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:03:54: <F#>manage.py:<L#>29 * <Thread>791252 #> logging starts
+INFO: 2018-12-27 16:03:54: <F#>brun.py:<L#>21 * <Thread>791252 #> logging starts
+INFO: 2018-12-27 16:03:54: <F#>_internal.py:<L#>88 * <Thread>791252 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:04:04: <F#>manage.py:<L#>29 * <Thread>794100 #> logging starts
+INFO: 2018-12-27 16:04:04: <F#>frun.py:<L#>10 * <Thread>794100 #> logging starts
+INFO: 2018-12-27 16:04:04: <F#>_internal.py:<L#>88 * <Thread>794100 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:04:08: <F#>manage.py:<L#>29 * <Thread>794452 #> logging starts
+INFO: 2018-12-27 16:04:08: <F#>frun.py:<L#>10 * <Thread>794452 #> logging starts
+INFO: 2018-12-27 16:04:08: <F#>_internal.py:<L#>88 * <Thread>794452 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:04:49: <F#>_internal.py:<L#>88 * <Thread>794608 #> 127.0.0.1 - - [27/Dec/2018 16:04:49] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 16:04:49: <F#>_internal.py:<L#>88 * <Thread>794604 #> 127.0.0.1 - - [27/Dec/2018 16:04:49] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 16:04:54: <F#>_internal.py:<L#>88 * <Thread>793760 #> 127.0.0.1 - - [27/Dec/2018 16:04:54] "PATCH /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 16:05:11: <F#>manage.py:<L#>29 * <Thread>794080 #> logging starts
+INFO: 2018-12-27 16:05:11: <F#>brun.py:<L#>21 * <Thread>794080 #> logging starts
+INFO: 2018-12-27 16:05:11: <F#>_internal.py:<L#>88 * <Thread>794080 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:05:15: <F#>manage.py:<L#>29 * <Thread>793320 #> logging starts
+INFO: 2018-12-27 16:05:15: <F#>frun.py:<L#>10 * <Thread>793320 #> logging starts
+INFO: 2018-12-27 16:05:16: <F#>_internal.py:<L#>88 * <Thread>793320 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:05:39: <F#>manage.py:<L#>29 * <Thread>793972 #> logging starts
+INFO: 2018-12-27 16:05:39: <F#>frun.py:<L#>10 * <Thread>793972 #> logging starts
+INFO: 2018-12-27 16:05:39: <F#>_internal.py:<L#>88 * <Thread>793972 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:05:53: <F#>manage.py:<L#>29 * <Thread>794528 #> logging starts
+INFO: 2018-12-27 16:05:53: <F#>frun.py:<L#>10 * <Thread>794528 #> logging starts
+INFO: 2018-12-27 16:05:53: <F#>_internal.py:<L#>88 * <Thread>794528 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:06:15: <F#>manage.py:<L#>29 * <Thread>793204 #> logging starts
+INFO: 2018-12-27 16:06:15: <F#>brun.py:<L#>21 * <Thread>793204 #> logging starts
+INFO: 2018-12-27 16:06:15: <F#>_internal.py:<L#>88 * <Thread>793204 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:06:34: <F#>_internal.py:<L#>88 * <Thread>792760 #> 127.0.0.1 - - [27/Dec/2018 16:06:34] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:34: <F#>_internal.py:<L#>88 * <Thread>792844 #> 127.0.0.1 - - [27/Dec/2018 16:06:34] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:41: <F#>_internal.py:<L#>88 * <Thread>794548 #> 127.0.0.1 - - [27/Dec/2018 16:06:41] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:42: <F#>_internal.py:<L#>88 * <Thread>794024 #> 127.0.0.1 - - [27/Dec/2018 16:06:42] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:44: <F#>_internal.py:<L#>88 * <Thread>794596 #> 127.0.0.1 - - [27/Dec/2018 16:06:44] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:44: <F#>_internal.py:<L#>88 * <Thread>794004 #> 127.0.0.1 - - [27/Dec/2018 16:06:44] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:44: <F#>_internal.py:<L#>88 * <Thread>757416 #> 127.0.0.1 - - [27/Dec/2018 16:06:44] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:44: <F#>_internal.py:<L#>88 * <Thread>793920 #> 127.0.0.1 - - [27/Dec/2018 16:06:44] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:44: <F#>_internal.py:<L#>88 * <Thread>794152 #> 127.0.0.1 - - [27/Dec/2018 16:06:44] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:44: <F#>_internal.py:<L#>88 * <Thread>793992 #> 127.0.0.1 - - [27/Dec/2018 16:06:44] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:45: <F#>_internal.py:<L#>88 * <Thread>789908 #> 127.0.0.1 - - [27/Dec/2018 16:06:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:06:47: <F#>_internal.py:<L#>88 * <Thread>791756 #> 127.0.0.1 - - [27/Dec/2018 16:06:47] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:00: <F#>_internal.py:<L#>88 * <Thread>790660 #> 127.0.0.1 - - [27/Dec/2018 16:07:00] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 16:07:00: <F#>_internal.py:<L#>88 * <Thread>791648 #> 127.0.0.1 - - [27/Dec/2018 16:07:00] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:00: <F#>_internal.py:<L#>88 * <Thread>782144 #> 127.0.0.1 - - [27/Dec/2018 16:07:00] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:05: <F#>_internal.py:<L#>88 * <Thread>782620 #> 127.0.0.1 - - [27/Dec/2018 16:07:05] "PATCH /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:09: <F#>_internal.py:<L#>88 * <Thread>784520 #> 127.0.0.1 - - [27/Dec/2018 16:07:09] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:10: <F#>_internal.py:<L#>88 * <Thread>793116 #> 127.0.0.1 - - [27/Dec/2018 16:07:10] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:10: <F#>_internal.py:<L#>88 * <Thread>793424 #> 127.0.0.1 - - [27/Dec/2018 16:07:10] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:11: <F#>_internal.py:<L#>88 * <Thread>793420 #> 127.0.0.1 - - [27/Dec/2018 16:07:11] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:11: <F#>_internal.py:<L#>88 * <Thread>787380 #> 127.0.0.1 - - [27/Dec/2018 16:07:11] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:11: <F#>_internal.py:<L#>88 * <Thread>792792 #> 127.0.0.1 - - [27/Dec/2018 16:07:11] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:12: <F#>_internal.py:<L#>88 * <Thread>794308 #> 127.0.0.1 - - [27/Dec/2018 16:07:12] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:12: <F#>_internal.py:<L#>88 * <Thread>793272 #> 127.0.0.1 - - [27/Dec/2018 16:07:12] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:12: <F#>_internal.py:<L#>88 * <Thread>792804 #> 127.0.0.1 - - [27/Dec/2018 16:07:12] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:12: <F#>_internal.py:<L#>88 * <Thread>793948 #> 127.0.0.1 - - [27/Dec/2018 16:07:12] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:13: <F#>_internal.py:<L#>88 * <Thread>792412 #> 127.0.0.1 - - [27/Dec/2018 16:07:13] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:13: <F#>_internal.py:<L#>88 * <Thread>794588 #> 127.0.0.1 - - [27/Dec/2018 16:07:13] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:14: <F#>_internal.py:<L#>88 * <Thread>780316 #> 127.0.0.1 - - [27/Dec/2018 16:07:14] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:14: <F#>_internal.py:<L#>88 * <Thread>759864 #> 127.0.0.1 - - [27/Dec/2018 16:07:14] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:14: <F#>_internal.py:<L#>88 * <Thread>786696 #> 127.0.0.1 - - [27/Dec/2018 16:07:14] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:07:42: <F#>_internal.py:<L#>88 * <Thread>793944 #> 127.0.0.1 - - [27/Dec/2018 16:07:42] "PATCH /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 16:10:03: <F#>_internal.py:<L#>88 * <Thread>780316 #> 127.0.0.1 - - [27/Dec/2018 16:10:03] "PATCH /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 16:10:48: <F#>manage.py:<L#>29 * <Thread>788248 #> logging starts
+INFO: 2018-12-27 16:10:48: <F#>frun.py:<L#>10 * <Thread>788248 #> logging starts
+INFO: 2018-12-27 16:10:48: <F#>_internal.py:<L#>88 * <Thread>788248 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 16:10:49: <F#>_internal.py:<L#>88 * <Thread>786132 #> 127.0.0.1 - - [27/Dec/2018 16:10:49] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 16:10:49: <F#>_internal.py:<L#>88 * <Thread>792196 #> 127.0.0.1 - - [27/Dec/2018 16:10:49] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 16:10:55: <F#>nbuapi.py:<L#>98 * <Thread>794148 #> Start execute command
+INFO: 2018-12-27 16:10:55: <F#>_internal.py:<L#>88 * <Thread>794148 #> 127.0.0.1 - - [27/Dec/2018 16:10:55] "POST /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 16:10:59: <F#>_internal.py:<L#>88 * <Thread>788976 #> 127.0.0.1 - - [27/Dec/2018 16:10:59] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:04: <F#>_internal.py:<L#>88 * <Thread>793780 #> 127.0.0.1 - - [27/Dec/2018 16:11:04] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 16:11:04: <F#>_internal.py:<L#>88 * <Thread>793924 #> 127.0.0.1 - - [27/Dec/2018 16:11:04] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:05: <F#>_internal.py:<L#>88 * <Thread>793216 #> 127.0.0.1 - - [27/Dec/2018 16:11:05] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:05: <F#>_internal.py:<L#>88 * <Thread>774812 #> 127.0.0.1 - - [27/Dec/2018 16:11:05] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:14: <F#>_internal.py:<L#>88 * <Thread>785556 #> 127.0.0.1 - - [27/Dec/2018 16:11:14] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 16:11:14: <F#>_internal.py:<L#>88 * <Thread>792792 #> 127.0.0.1 - - [27/Dec/2018 16:11:14] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:14: <F#>_internal.py:<L#>88 * <Thread>790008 #> 127.0.0.1 - - [27/Dec/2018 16:11:14] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:14: <F#>_internal.py:<L#>88 * <Thread>774040 #> 127.0.0.1 - - [27/Dec/2018 16:11:14] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:14: <F#>_internal.py:<L#>88 * <Thread>788200 #> 127.0.0.1 - - [27/Dec/2018 16:11:14] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:16: <F#>_internal.py:<L#>88 * <Thread>782144 #> 127.0.0.1 - - [27/Dec/2018 16:11:16] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 16:11:17: <F#>_internal.py:<L#>88 * <Thread>791844 #> 127.0.0.1 - - [27/Dec/2018 16:11:17] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:15:42: <F#>manage.py:<L#>29 * <Thread>816748 #> logging starts
+INFO: 2018-12-27 19:15:42: <F#>frun.py:<L#>10 * <Thread>816748 #> logging starts
+INFO: 2018-12-27 19:15:42: <F#>_internal.py:<L#>88 * <Thread>816748 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 19:15:45: <F#>_internal.py:<L#>88 * <Thread>817124 #> 127.0.0.1 - - [27/Dec/2018 19:15:45] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:15:45: <F#>_internal.py:<L#>88 * <Thread>817064 #> 127.0.0.1 - - [27/Dec/2018 19:15:45] "GET /swaggerui/bower/swagger-ui/dist/swagger-ui.min.js HTTP/1.1" 200 -
+INFO: 2018-12-27 19:15:45: <F#>_internal.py:<L#>88 * <Thread>814816 #> 127.0.0.1 - - [27/Dec/2018 19:15:45] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 19:15:45: <F#>_internal.py:<L#>88 * <Thread>816184 #> 127.0.0.1 - - [27/Dec/2018 19:15:45] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-27 19:15:53: <F#>_internal.py:<L#>88 * <Thread>816492 #> 127.0.0.1 - - [27/Dec/2018 19:15:53] "POST /netbackup/api/bp.bat HTTP/1.1" 400 -
+INFO: 2018-12-27 19:16:00: <F#>_internal.py:<L#>88 * <Thread>816700 #> 127.0.0.1 - - [27/Dec/2018 19:16:00] "POST /netbackup/api/bp2 HTTP/1.1" 400 -
+INFO: 2018-12-27 19:16:05: <F#>_internal.py:<L#>88 * <Thread>816648 #> 127.0.0.1 - - [27/Dec/2018 19:16:05] "POST /netbackup/api/bp3 HTTP/1.1" 400 -
+INFO: 2018-12-27 19:16:09: <F#>nbuapi.py:<L#>98 * <Thread>816404 #> Start execute command
+WARNING: 2018-12-27 19:16:09: <F#>nbuapi.py:<L#>181 * <Thread>816404 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:16:09: <F#>nbuapi.py:<L#>182 * <Thread>816404 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:16:09: <F#>_internal.py:<L#>88 * <Thread>816404 #> 127.0.0.1 - - [27/Dec/2018 19:16:09] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:16:13: <F#>_internal.py:<L#>88 * <Thread>807336 #> 127.0.0.1 - - [27/Dec/2018 19:16:13] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:14: <F#>_internal.py:<L#>88 * <Thread>816388 #> 127.0.0.1 - - [27/Dec/2018 19:16:14] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-27 19:16:15: <F#>_internal.py:<L#>88 * <Thread>816756 #> 127.0.0.1 - - [27/Dec/2018 19:16:15] "GET /myloginview/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:16: <F#>_internal.py:<L#>88 * <Thread>816368 #> 127.0.0.1 - - [27/Dec/2018 19:16:16] "POST /myloginview/ HTTP/1.1" 302 -
+INFO: 2018-12-27 19:16:16: <F#>_internal.py:<L#>88 * <Thread>817128 #> 127.0.0.1 - - [27/Dec/2018 19:16:16] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:16: <F#>_internal.py:<L#>88 * <Thread>814816 #> 127.0.0.1 - - [27/Dec/2018 19:16:16] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>816824 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>811772 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>816224 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>814588 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>811824 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>807336 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>816388 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:17: <F#>_internal.py:<L#>88 * <Thread>816856 #> 127.0.0.1 - - [27/Dec/2018 19:16:17] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:18: <F#>_internal.py:<L#>88 * <Thread>816792 #> 127.0.0.1 - - [27/Dec/2018 19:16:18] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:25: <F#>_internal.py:<L#>88 * <Thread>816844 #> 127.0.0.1 - - [27/Dec/2018 19:16:25] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:27: <F#>_internal.py:<L#>88 * <Thread>816884 #> 127.0.0.1 - - [27/Dec/2018 19:16:27] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:37: <F#>_internal.py:<L#>88 * <Thread>807336 #> 127.0.0.1 - - [27/Dec/2018 19:16:37] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:42: <F#>_internal.py:<L#>88 * <Thread>816512 #> 127.0.0.1 - - [27/Dec/2018 19:16:42] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:42: <F#>_internal.py:<L#>88 * <Thread>817136 #> 127.0.0.1 - - [27/Dec/2018 19:16:42] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 19:16:48: <F#>nbuapi.py:<L#>98 * <Thread>815748 #> Start execute command
+WARNING: 2018-12-27 19:16:48: <F#>nbuapi.py:<L#>181 * <Thread>815748 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:16:48: <F#>nbuapi.py:<L#>182 * <Thread>815748 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:16:48: <F#>_internal.py:<L#>88 * <Thread>815748 #> 127.0.0.1 - - [27/Dec/2018 19:16:48] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:17:20: <F#>_internal.py:<L#>88 * <Thread>813980 #> 127.0.0.1 - - [27/Dec/2018 19:17:20] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:22: <F#>_internal.py:<L#>88 * <Thread>817056 #> 127.0.0.1 - - [27/Dec/2018 19:17:22] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:23: <F#>_internal.py:<L#>88 * <Thread>816268 #> 127.0.0.1 - - [27/Dec/2018 19:17:23] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:25: <F#>_internal.py:<L#>88 * <Thread>817228 #> 127.0.0.1 - - [27/Dec/2018 19:17:25] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:26: <F#>_internal.py:<L#>88 * <Thread>817300 #> 127.0.0.1 - - [27/Dec/2018 19:17:26] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:33: <F#>_internal.py:<L#>88 * <Thread>817308 #> 127.0.0.1 - - [27/Dec/2018 19:17:33] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 19:17:33: <F#>_internal.py:<L#>88 * <Thread>817684 #> 127.0.0.1 - - [27/Dec/2018 19:17:33] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:33: <F#>_internal.py:<L#>88 * <Thread>817732 #> 127.0.0.1 - - [27/Dec/2018 19:17:33] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:33: <F#>_internal.py:<L#>88 * <Thread>817728 #> 127.0.0.1 - - [27/Dec/2018 19:17:33] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:33: <F#>_internal.py:<L#>88 * <Thread>817736 #> 127.0.0.1 - - [27/Dec/2018 19:17:33] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:33: <F#>_internal.py:<L#>88 * <Thread>817764 #> 127.0.0.1 - - [27/Dec/2018 19:17:33] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:40: <F#>_internal.py:<L#>88 * <Thread>817768 #> 127.0.0.1 - - [27/Dec/2018 19:17:40] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 19:17:40: <F#>_internal.py:<L#>88 * <Thread>817856 #> 127.0.0.1 - - [27/Dec/2018 19:17:40] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:40: <F#>_internal.py:<L#>88 * <Thread>817900 #> 127.0.0.1 - - [27/Dec/2018 19:17:40] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:41: <F#>_internal.py:<L#>88 * <Thread>817920 #> 127.0.0.1 - - [27/Dec/2018 19:17:41] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:49: <F#>_internal.py:<L#>88 * <Thread>817924 #> 127.0.0.1 - - [27/Dec/2018 19:17:49] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 19:17:49: <F#>_internal.py:<L#>88 * <Thread>818156 #> 127.0.0.1 - - [27/Dec/2018 19:17:49] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:49: <F#>_internal.py:<L#>88 * <Thread>816268 #> 127.0.0.1 - - [27/Dec/2018 19:17:49] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:49: <F#>_internal.py:<L#>88 * <Thread>817232 #> 127.0.0.1 - - [27/Dec/2018 19:17:49] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:49: <F#>_internal.py:<L#>88 * <Thread>817220 #> 127.0.0.1 - - [27/Dec/2018 19:17:49] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:51: <F#>_internal.py:<L#>88 * <Thread>816512 #> 127.0.0.1 - - [27/Dec/2018 19:17:51] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:17:54: <F#>nbuapi.py:<L#>98 * <Thread>817348 #> Start execute command
+WARNING: 2018-12-27 19:17:54: <F#>nbuapi.py:<L#>181 * <Thread>817348 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:17:54: <F#>nbuapi.py:<L#>182 * <Thread>817348 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:17:54: <F#>_internal.py:<L#>88 * <Thread>817348 #> 127.0.0.1 - - [27/Dec/2018 19:17:54] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>98 * <Thread>817412 #> Start execute command
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>181 * <Thread>817412 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>182 * <Thread>817412 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:17:55: <F#>_internal.py:<L#>88 * <Thread>817412 #> 127.0.0.1 - - [27/Dec/2018 19:17:55] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>98 * <Thread>817436 #> Start execute command
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>181 * <Thread>817436 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>182 * <Thread>817436 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:17:55: <F#>_internal.py:<L#>88 * <Thread>817436 #> 127.0.0.1 - - [27/Dec/2018 19:17:55] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>98 * <Thread>817448 #> Start execute command
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>181 * <Thread>817448 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>182 * <Thread>817448 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:17:55: <F#>_internal.py:<L#>88 * <Thread>817448 #> 127.0.0.1 - - [27/Dec/2018 19:17:55] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>98 * <Thread>817068 #> Start execute command
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>181 * <Thread>817068 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:17:55: <F#>nbuapi.py:<L#>182 * <Thread>817068 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:17:55: <F#>_internal.py:<L#>88 * <Thread>817068 #> 127.0.0.1 - - [27/Dec/2018 19:17:55] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:18:30: <F#>manage.py:<L#>29 * <Thread>807696 #> logging starts
+INFO: 2018-12-27 19:18:30: <F#>frun.py:<L#>10 * <Thread>807696 #> logging starts
+INFO: 2018-12-27 19:18:30: <F#>_internal.py:<L#>88 * <Thread>807696 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 19:18:33: <F#>nbuapi.py:<L#>98 * <Thread>817856 #> Start execute command
+WARNING: 2018-12-27 19:18:33: <F#>nbuapi.py:<L#>181 * <Thread>817856 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:18:33: <F#>nbuapi.py:<L#>182 * <Thread>817856 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:18:33: <F#>_internal.py:<L#>88 * <Thread>817856 #> 127.0.0.1 - - [27/Dec/2018 19:18:33] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:18:35: <F#>nbuapi.py:<L#>98 * <Thread>817916 #> Start execute command
+WARNING: 2018-12-27 19:18:35: <F#>nbuapi.py:<L#>181 * <Thread>817916 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:18:35: <F#>nbuapi.py:<L#>182 * <Thread>817916 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:18:35: <F#>_internal.py:<L#>88 * <Thread>817916 #> 127.0.0.1 - - [27/Dec/2018 19:18:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:18:37: <F#>nbuapi.py:<L#>98 * <Thread>817932 #> Start execute command
+WARNING: 2018-12-27 19:18:37: <F#>nbuapi.py:<L#>181 * <Thread>817932 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:18:37: <F#>nbuapi.py:<L#>182 * <Thread>817932 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:18:37: <F#>_internal.py:<L#>88 * <Thread>817932 #> 127.0.0.1 - - [27/Dec/2018 19:18:37] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:19:02: <F#>nbuapi.py:<L#>98 * <Thread>817644 #> Start execute command
+WARNING: 2018-12-27 19:19:42: <F#>nbuapi.py:<L#>181 * <Thread>817644 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:19:42: <F#>nbuapi.py:<L#>182 * <Thread>817644 #> Type names and field names cannot be a keyword: 'is'
+INFO: 2018-12-27 19:19:42: <F#>_internal.py:<L#>88 * <Thread>817644 #> 127.0.0.1 - - [27/Dec/2018 19:19:42] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:06: <F#>manage.py:<L#>29 * <Thread>817028 #> logging starts
+INFO: 2018-12-27 19:20:06: <F#>frun.py:<L#>10 * <Thread>817028 #> logging starts
+INFO: 2018-12-27 19:20:07: <F#>_internal.py:<L#>88 * <Thread>817028 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 19:20:07: <F#>nbuapi.py:<L#>98 * <Thread>818132 #> Start execute command
+WARNING: 2018-12-27 19:20:13: <F#>nbuapi.py:<L#>181 * <Thread>818132 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:13: <F#>nbuapi.py:<L#>182 * <Thread>818132 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:13: <F#>_internal.py:<L#>88 * <Thread>818132 #> 127.0.0.1 - - [27/Dec/2018 19:20:13] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:20: <F#>nbuapi.py:<L#>98 * <Thread>817372 #> Start execute command
+WARNING: 2018-12-27 19:20:20: <F#>nbuapi.py:<L#>181 * <Thread>817372 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:20: <F#>nbuapi.py:<L#>182 * <Thread>817372 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:20: <F#>_internal.py:<L#>88 * <Thread>817372 #> 127.0.0.1 - - [27/Dec/2018 19:20:20] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:22: <F#>nbuapi.py:<L#>98 * <Thread>816600 #> Start execute command
+WARNING: 2018-12-27 19:20:22: <F#>nbuapi.py:<L#>181 * <Thread>816600 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:22: <F#>nbuapi.py:<L#>182 * <Thread>816600 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:22: <F#>_internal.py:<L#>88 * <Thread>816600 #> 127.0.0.1 - - [27/Dec/2018 19:20:22] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:27: <F#>nbuapi.py:<L#>98 * <Thread>810804 #> Start execute command
+WARNING: 2018-12-27 19:20:27: <F#>nbuapi.py:<L#>181 * <Thread>810804 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:27: <F#>nbuapi.py:<L#>182 * <Thread>810804 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:27: <F#>_internal.py:<L#>88 * <Thread>810804 #> 127.0.0.1 - - [27/Dec/2018 19:20:27] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:28: <F#>nbuapi.py:<L#>98 * <Thread>813104 #> Start execute command
+WARNING: 2018-12-27 19:20:28: <F#>nbuapi.py:<L#>181 * <Thread>813104 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:28: <F#>nbuapi.py:<L#>182 * <Thread>813104 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:28: <F#>_internal.py:<L#>88 * <Thread>813104 #> 127.0.0.1 - - [27/Dec/2018 19:20:28] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>98 * <Thread>816808 #> Start execute command
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>181 * <Thread>816808 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>182 * <Thread>816808 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:29: <F#>_internal.py:<L#>88 * <Thread>816808 #> 127.0.0.1 - - [27/Dec/2018 19:20:29] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>98 * <Thread>815916 #> Start execute command
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>181 * <Thread>815916 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>182 * <Thread>815916 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:29: <F#>_internal.py:<L#>88 * <Thread>815916 #> 127.0.0.1 - - [27/Dec/2018 19:20:29] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>98 * <Thread>817492 #> Start execute command
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>181 * <Thread>817492 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>182 * <Thread>817492 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:29: <F#>_internal.py:<L#>88 * <Thread>817492 #> 127.0.0.1 - - [27/Dec/2018 19:20:29] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>98 * <Thread>816724 #> Start execute command
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>181 * <Thread>816724 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:20:29: <F#>nbuapi.py:<L#>182 * <Thread>816724 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:20:29: <F#>_internal.py:<L#>88 * <Thread>816724 #> 127.0.0.1 - - [27/Dec/2018 19:20:29] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:20:49: <F#>manage.py:<L#>29 * <Thread>815156 #> logging starts
+INFO: 2018-12-27 19:20:49: <F#>frun.py:<L#>10 * <Thread>815156 #> logging starts
+INFO: 2018-12-27 19:20:49: <F#>_internal.py:<L#>88 * <Thread>815156 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 19:20:49: <F#>nbuapi.py:<L#>98 * <Thread>817636 #> Start execute command
+INFO: 2018-12-27 19:23:20: <F#>nbuapi.py:<L#>98 * <Thread>818764 #> Start execute command
+WARNING: 2018-12-27 19:23:20: <F#>nbuapi.py:<L#>181 * <Thread>818764 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:20: <F#>nbuapi.py:<L#>182 * <Thread>818764 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:20: <F#>_internal.py:<L#>88 * <Thread>818764 #> 127.0.0.1 - - [27/Dec/2018 19:23:20] "POST /netbackup/api/bp HTTP/1.1" 400 -
+WARNING: 2018-12-27 19:23:24: <F#>nbuapi.py:<L#>181 * <Thread>817636 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+INFO: 2018-12-27 19:23:33: <F#>nbuapi.py:<L#>98 * <Thread>819096 #> Start execute command
+WARNING: 2018-12-27 19:23:33: <F#>nbuapi.py:<L#>181 * <Thread>819096 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:33: <F#>nbuapi.py:<L#>182 * <Thread>819096 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:33: <F#>_internal.py:<L#>88 * <Thread>819096 #> 127.0.0.1 - - [27/Dec/2018 19:23:33] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>98 * <Thread>818644 #> Start execute command
+WARNING: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>181 * <Thread>818644 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>182 * <Thread>818644 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:34: <F#>_internal.py:<L#>88 * <Thread>818644 #> 127.0.0.1 - - [27/Dec/2018 19:23:34] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>98 * <Thread>819156 #> Start execute command
+WARNING: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>181 * <Thread>819156 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>182 * <Thread>819156 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:34: <F#>_internal.py:<L#>88 * <Thread>819156 #> 127.0.0.1 - - [27/Dec/2018 19:23:34] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:34: <F#>nbuapi.py:<L#>98 * <Thread>819180 #> Start execute command
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>181 * <Thread>819180 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>182 * <Thread>819180 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:35: <F#>_internal.py:<L#>88 * <Thread>819180 #> 127.0.0.1 - - [27/Dec/2018 19:23:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>98 * <Thread>811876 #> Start execute command
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>181 * <Thread>811876 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>182 * <Thread>811876 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:35: <F#>_internal.py:<L#>88 * <Thread>811876 #> 127.0.0.1 - - [27/Dec/2018 19:23:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>98 * <Thread>817892 #> Start execute command
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>181 * <Thread>817892 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>182 * <Thread>817892 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:35: <F#>_internal.py:<L#>88 * <Thread>817892 #> 127.0.0.1 - - [27/Dec/2018 19:23:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>98 * <Thread>818024 #> Start execute command
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>181 * <Thread>818024 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>182 * <Thread>818024 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:35: <F#>_internal.py:<L#>88 * <Thread>818024 #> 127.0.0.1 - - [27/Dec/2018 19:23:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>98 * <Thread>811440 #> Start execute command
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>181 * <Thread>811440 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>182 * <Thread>811440 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:35: <F#>_internal.py:<L#>88 * <Thread>811440 #> 127.0.0.1 - - [27/Dec/2018 19:23:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>98 * <Thread>818424 #> Start execute command
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>181 * <Thread>818424 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:35: <F#>nbuapi.py:<L#>182 * <Thread>818424 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:35: <F#>_internal.py:<L#>88 * <Thread>818424 #> 127.0.0.1 - - [27/Dec/2018 19:23:35] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>98 * <Thread>818292 #> Start execute command
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>181 * <Thread>818292 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>182 * <Thread>818292 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:36: <F#>_internal.py:<L#>88 * <Thread>818292 #> 127.0.0.1 - - [27/Dec/2018 19:23:36] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>98 * <Thread>811872 #> Start execute command
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>181 * <Thread>811872 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>182 * <Thread>811872 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:36: <F#>_internal.py:<L#>88 * <Thread>811872 #> 127.0.0.1 - - [27/Dec/2018 19:23:36] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>98 * <Thread>817844 #> Start execute command
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>181 * <Thread>817844 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>182 * <Thread>817844 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:36: <F#>_internal.py:<L#>88 * <Thread>817844 #> 127.0.0.1 - - [27/Dec/2018 19:23:36] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>98 * <Thread>817952 #> Start execute command
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>181 * <Thread>817952 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>182 * <Thread>817952 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:36: <F#>_internal.py:<L#>88 * <Thread>817952 #> 127.0.0.1 - - [27/Dec/2018 19:23:36] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>98 * <Thread>753488 #> Start execute command
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>181 * <Thread>753488 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:36: <F#>nbuapi.py:<L#>182 * <Thread>753488 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:36: <F#>_internal.py:<L#>88 * <Thread>753488 #> 127.0.0.1 - - [27/Dec/2018 19:23:36] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:37: <F#>nbuapi.py:<L#>98 * <Thread>818400 #> Start execute command
+WARNING: 2018-12-27 19:23:37: <F#>nbuapi.py:<L#>181 * <Thread>818400 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:23:37: <F#>nbuapi.py:<L#>182 * <Thread>818400 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:23:37: <F#>_internal.py:<L#>88 * <Thread>818400 #> 127.0.0.1 - - [27/Dec/2018 19:23:37] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:23:43: <F#>_internal.py:<L#>88 * <Thread>818536 #> 127.0.0.1 - - [27/Dec/2018 19:23:43] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:23:44: <F#>_internal.py:<L#>88 * <Thread>818564 #> 127.0.0.1 - - [27/Dec/2018 19:23:44] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 19:23:54: <F#>_internal.py:<L#>88 * <Thread>811508 #> 127.0.0.1 - - [27/Dec/2018 19:23:54] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 19:23:54: <F#>_internal.py:<L#>88 * <Thread>818464 #> 127.0.0.1 - - [27/Dec/2018 19:23:54] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:23:54: <F#>_internal.py:<L#>88 * <Thread>819012 #> 127.0.0.1 - - [27/Dec/2018 19:23:54] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:23:54: <F#>_internal.py:<L#>88 * <Thread>819000 #> 127.0.0.1 - - [27/Dec/2018 19:23:54] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:23:54: <F#>_internal.py:<L#>88 * <Thread>818992 #> 127.0.0.1 - - [27/Dec/2018 19:23:54] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:00: <F#>nbuapi.py:<L#>98 * <Thread>819096 #> Start execute command
+INFO: 2018-12-27 19:24:00: <F#>_internal.py:<L#>88 * <Thread>819096 #> 127.0.0.1 - - [27/Dec/2018 19:24:00] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:08: <F#>_internal.py:<L#>88 * <Thread>807552 #> 127.0.0.1 - - [27/Dec/2018 19:24:08] "POST /shellfile/delete/ HTTP/1.1" 302 -
+INFO: 2018-12-27 19:24:08: <F#>_internal.py:<L#>88 * <Thread>806944 #> 127.0.0.1 - - [27/Dec/2018 19:24:08] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:08: <F#>_internal.py:<L#>88 * <Thread>809404 #> 127.0.0.1 - - [27/Dec/2018 19:24:08] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:10: <F#>_internal.py:<L#>88 * <Thread>809532 #> 127.0.0.1 - - [27/Dec/2018 19:24:10] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:11: <F#>_internal.py:<L#>88 * <Thread>818264 #> 127.0.0.1 - - [27/Dec/2018 19:24:11] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:13: <F#>_internal.py:<L#>88 * <Thread>817276 #> 127.0.0.1 - - [27/Dec/2018 19:24:13] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:20: <F#>_internal.py:<L#>88 * <Thread>818580 #> 127.0.0.1 - - [27/Dec/2018 19:24:20] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 19:24:20: <F#>_internal.py:<L#>88 * <Thread>812076 #> 127.0.0.1 - - [27/Dec/2018 19:24:20] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:20: <F#>_internal.py:<L#>88 * <Thread>818480 #> 127.0.0.1 - - [27/Dec/2018 19:24:20] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:20: <F#>_internal.py:<L#>88 * <Thread>818484 #> 127.0.0.1 - - [27/Dec/2018 19:24:20] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:20: <F#>_internal.py:<L#>88 * <Thread>818864 #> 127.0.0.1 - - [27/Dec/2018 19:24:20] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:24: <F#>_internal.py:<L#>88 * <Thread>819036 #> 127.0.0.1 - - [27/Dec/2018 19:24:24] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:25: <F#>_internal.py:<L#>88 * <Thread>819024 #> 127.0.0.1 - - [27/Dec/2018 19:24:25] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:26: <F#>_internal.py:<L#>88 * <Thread>818564 #> 127.0.0.1 - - [27/Dec/2018 19:24:26] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:30: <F#>nbuapi.py:<L#>98 * <Thread>811540 #> Start execute command
+INFO: 2018-12-27 19:24:30: <F#>_internal.py:<L#>88 * <Thread>811540 #> 127.0.0.1 - - [27/Dec/2018 19:24:30] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:32: <F#>nbuapi.py:<L#>98 * <Thread>810916 #> Start execute command
+INFO: 2018-12-27 19:24:32: <F#>_internal.py:<L#>88 * <Thread>810916 #> 127.0.0.1 - - [27/Dec/2018 19:24:32] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:32: <F#>nbuapi.py:<L#>98 * <Thread>810528 #> Start execute command
+INFO: 2018-12-27 19:24:32: <F#>_internal.py:<L#>88 * <Thread>810528 #> 127.0.0.1 - - [27/Dec/2018 19:24:32] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:32: <F#>nbuapi.py:<L#>98 * <Thread>794376 #> Start execute command
+INFO: 2018-12-27 19:24:32: <F#>_internal.py:<L#>88 * <Thread>794376 #> 127.0.0.1 - - [27/Dec/2018 19:24:32] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:33: <F#>nbuapi.py:<L#>98 * <Thread>817380 #> Start execute command
+INFO: 2018-12-27 19:24:33: <F#>_internal.py:<L#>88 * <Thread>817380 #> 127.0.0.1 - - [27/Dec/2018 19:24:33] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:33: <F#>nbuapi.py:<L#>98 * <Thread>819096 #> Start execute command
+INFO: 2018-12-27 19:24:33: <F#>_internal.py:<L#>88 * <Thread>819096 #> 127.0.0.1 - - [27/Dec/2018 19:24:33] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:24:40: <F#>nbuapi.py:<L#>98 * <Thread>818264 #> Start execute command
+WARNING: 2018-12-27 19:24:40: <F#>nbuapi.py:<L#>181 * <Thread>818264 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', 'string', 'string']
+WARNING: 2018-12-27 19:24:40: <F#>nbuapi.py:<L#>182 * <Thread>818264 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:24:40: <F#>_internal.py:<L#>88 * <Thread>818264 #> 127.0.0.1 - - [27/Dec/2018 19:24:40] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:26:03: <F#>nbuapi.py:<L#>98 * <Thread>818372 #> Start execute command
+INFO: 2018-12-27 19:26:03: <F#>_internal.py:<L#>88 * <Thread>818372 #> 127.0.0.1 - - [27/Dec/2018 19:26:03] "POST /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 19:28:39: <F#>nbuapi.py:<L#>98 * <Thread>813440 #> Start execute command
+INFO: 2018-12-27 19:28:39: <F#>_internal.py:<L#>88 * <Thread>813440 #> 127.0.0.1 - - [27/Dec/2018 19:28:39] "POST /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 19:28:42: <F#>nbuapi.py:<L#>98 * <Thread>816700 #> Start execute command
+INFO: 2018-12-27 19:28:42: <F#>_internal.py:<L#>88 * <Thread>816700 #> 127.0.0.1 - - [27/Dec/2018 19:28:42] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:28:57: <F#>nbuapi.py:<L#>98 * <Thread>818212 #> Start execute command
+INFO: 2018-12-27 19:28:57: <F#>_internal.py:<L#>88 * <Thread>818212 #> 127.0.0.1 - - [27/Dec/2018 19:28:57] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:29:25: <F#>nbuapi.py:<L#>98 * <Thread>818788 #> Start execute command
+WARNING: 2018-12-27 19:31:39: <F#>nbuapi.py:<L#>182 * <Thread>817636 #> Type names and field names cannot start with a number: '111'
+INFO: 2018-12-27 19:31:39: <F#>_internal.py:<L#>88 * <Thread>818788 #> 127.0.0.1 - - [27/Dec/2018 19:31:39] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:31:39: <F#>_internal.py:<L#>88 * <Thread>817636 #> 127.0.0.1 - - [27/Dec/2018 19:31:39] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-27 19:31:44: <F#>nbuapi.py:<L#>98 * <Thread>814628 #> Start execute command
+INFO: 2018-12-27 19:31:49: <F#>_internal.py:<L#>88 * <Thread>814628 #> 127.0.0.1 - - [27/Dec/2018 19:31:49] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:32:13: <F#>nbuapi.py:<L#>98 * <Thread>818868 #> Start execute command
+INFO: 2018-12-27 19:32:49: <F#>_internal.py:<L#>88 * <Thread>818868 #> 127.0.0.1 - - [27/Dec/2018 19:32:49] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:33:51: <F#>nbuapi.py:<L#>98 * <Thread>820164 #> Start execute command
+INFO: 2018-12-27 19:33:55: <F#>_internal.py:<L#>88 * <Thread>820164 #> 127.0.0.1 - - [27/Dec/2018 19:33:55] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:39:20: <F#>_internal.py:<L#>88 * <Thread>819648 #> 127.0.0.1 - - [27/Dec/2018 19:39:20] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:16: <F#>manage.py:<L#>29 * <Thread>790108 #> logging starts
+INFO: 2018-12-27 19:58:16: <F#>brun.py:<L#>21 * <Thread>790108 #> logging starts
+INFO: 2018-12-27 19:58:16: <F#>_internal.py:<L#>88 * <Thread>790108 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 19:58:29: <F#>_internal.py:<L#>88 * <Thread>314372 #> 127.0.0.1 - - [27/Dec/2018 19:58:29] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:29: <F#>_internal.py:<L#>88 * <Thread>403908 #> 127.0.0.1 - - [27/Dec/2018 19:58:29] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:30: <F#>_internal.py:<L#>88 * <Thread>418180 #> 127.0.0.1 - - [27/Dec/2018 19:58:30] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:32: <F#>_internal.py:<L#>88 * <Thread>344552 #> 127.0.0.1 - - [27/Dec/2018 19:58:32] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:32: <F#>_internal.py:<L#>88 * <Thread>817576 #> 127.0.0.1 - - [27/Dec/2018 19:58:32] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:32: <F#>_internal.py:<L#>88 * <Thread>822092 #> 127.0.0.1 - - [27/Dec/2018 19:58:32] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:32: <F#>_internal.py:<L#>88 * <Thread>815672 #> 127.0.0.1 - - [27/Dec/2018 19:58:32] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:32: <F#>_internal.py:<L#>88 * <Thread>821588 #> 127.0.0.1 - - [27/Dec/2018 19:58:32] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:34: <F#>_internal.py:<L#>88 * <Thread>417608 #> 127.0.0.1 - - [27/Dec/2018 19:58:34] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:36: <F#>_internal.py:<L#>88 * <Thread>417628 #> 127.0.0.1 - - [27/Dec/2018 19:58:36] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:40: <F#>_internal.py:<L#>88 * <Thread>560492 #> 127.0.0.1 - - [27/Dec/2018 19:58:40] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 19:58:40: <F#>_internal.py:<L#>88 * <Thread>390592 #> 127.0.0.1 - - [27/Dec/2018 19:58:40] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:40: <F#>_internal.py:<L#>88 * <Thread>416420 #> 127.0.0.1 - - [27/Dec/2018 19:58:40] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:40: <F#>_internal.py:<L#>88 * <Thread>415220 #> 127.0.0.1 - - [27/Dec/2018 19:58:40] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:40: <F#>_internal.py:<L#>88 * <Thread>417088 #> 127.0.0.1 - - [27/Dec/2018 19:58:40] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:41: <F#>_internal.py:<L#>88 * <Thread>792648 #> 127.0.0.1 - - [27/Dec/2018 19:58:41] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:45: <F#>_internal.py:<L#>88 * <Thread>818448 #> 127.0.0.1 - - [27/Dec/2018 19:58:45] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 19:58:45: <F#>_internal.py:<L#>88 * <Thread>11020 #> 127.0.0.1 - - [27/Dec/2018 19:58:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:45: <F#>_internal.py:<L#>88 * <Thread>87632 #> 127.0.0.1 - - [27/Dec/2018 19:58:45] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:45: <F#>_internal.py:<L#>88 * <Thread>11592 #> 127.0.0.1 - - [27/Dec/2018 19:58:45] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:45: <F#>_internal.py:<L#>88 * <Thread>140480 #> 127.0.0.1 - - [27/Dec/2018 19:58:45] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:46: <F#>_internal.py:<L#>88 * <Thread>219804 #> 127.0.0.1 - - [27/Dec/2018 19:58:46] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:47: <F#>_internal.py:<L#>88 * <Thread>254280 #> 127.0.0.1 - - [27/Dec/2018 19:58:47] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:47: <F#>_internal.py:<L#>88 * <Thread>103176 #> 127.0.0.1 - - [27/Dec/2018 19:58:47] "GET /static/admin/vendor/x-editable/css/bootstrap3-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:47: <F#>_internal.py:<L#>88 * <Thread>100316 #> 127.0.0.1 - - [27/Dec/2018 19:58:47] "GET /static/admin/vendor/x-editable/js/bootstrap3-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 19:58:47: <F#>_internal.py:<L#>88 * <Thread>817020 #> 127.0.0.1 - - [27/Dec/2018 19:58:47] "GET /apsjoblogs/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:05:28: <F#>_internal.py:<L#>88 * <Thread>605700 #> 127.0.0.1 - - [27/Dec/2018 20:05:28] "GET /apsjoblogs/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:08:37: <F#>_internal.py:<L#>88 * <Thread>415788 #> 127.0.0.1 - - [27/Dec/2018 20:08:37] "GET /apsjoblogs/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:24: <F#>manage.py:<L#>29 * <Thread>811748 #> logging starts
+INFO: 2018-12-27 20:27:24: <F#>frun.py:<L#>10 * <Thread>811748 #> logging starts
+INFO: 2018-12-27 20:27:24: <F#>_internal.py:<L#>88 * <Thread>811748 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 20:27:27: <F#>manage.py:<L#>29 * <Thread>820312 #> logging starts
+INFO: 2018-12-27 20:27:27: <F#>brun.py:<L#>21 * <Thread>820312 #> logging starts
+INFO: 2018-12-27 20:27:28: <F#>_internal.py:<L#>88 * <Thread>820312 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 20:27:32: <F#>_internal.py:<L#>88 * <Thread>393268 #> 127.0.0.1 - - [27/Dec/2018 20:27:32] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:33: <F#>_internal.py:<L#>88 * <Thread>12088 #> 127.0.0.1 - - [27/Dec/2018 20:27:33] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:45: <F#>_internal.py:<L#>88 * <Thread>8308 #> 127.0.0.1 - - [27/Dec/2018 20:27:45] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:46: <F#>_internal.py:<L#>88 * <Thread>564060 #> 127.0.0.1 - - [27/Dec/2018 20:27:46] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:48: <F#>_internal.py:<L#>88 * <Thread>6792 #> 127.0.0.1 - - [27/Dec/2018 20:27:48] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:48: <F#>_internal.py:<L#>88 * <Thread>5484 #> 127.0.0.1 - - [27/Dec/2018 20:27:48] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:48: <F#>_internal.py:<L#>88 * <Thread>28504 #> 127.0.0.1 - - [27/Dec/2018 20:27:48] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:48: <F#>_internal.py:<L#>88 * <Thread>817028 #> 127.0.0.1 - - [27/Dec/2018 20:27:48] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:48: <F#>_internal.py:<L#>88 * <Thread>813344 #> 127.0.0.1 - - [27/Dec/2018 20:27:48] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:48: <F#>_internal.py:<L#>88 * <Thread>96696 #> 127.0.0.1 - - [27/Dec/2018 20:27:48] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:49: <F#>_internal.py:<L#>88 * <Thread>813648 #> 127.0.0.1 - - [27/Dec/2018 20:27:49] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:50: <F#>_internal.py:<L#>88 * <Thread>665748 #> 127.0.0.1 - - [27/Dec/2018 20:27:50] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:56: <F#>_internal.py:<L#>88 * <Thread>415584 #> 127.0.0.1 - - [27/Dec/2018 20:27:56] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 20:27:56: <F#>_internal.py:<L#>88 * <Thread>815456 #> 127.0.0.1 - - [27/Dec/2018 20:27:56] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:56: <F#>_internal.py:<L#>88 * <Thread>822156 #> 127.0.0.1 - - [27/Dec/2018 20:27:56] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:56: <F#>_internal.py:<L#>88 * <Thread>416316 #> 127.0.0.1 - - [27/Dec/2018 20:27:56] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:56: <F#>_internal.py:<L#>88 * <Thread>821156 #> 127.0.0.1 - - [27/Dec/2018 20:27:56] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:27:57: <F#>_internal.py:<L#>88 * <Thread>566092 #> 127.0.0.1 - - [27/Dec/2018 20:27:57] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:05: <F#>_internal.py:<L#>88 * <Thread>395536 #> 127.0.0.1 - - [27/Dec/2018 20:28:05] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 20:28:05: <F#>_internal.py:<L#>88 * <Thread>407864 #> 127.0.0.1 - - [27/Dec/2018 20:28:05] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:06: <F#>_internal.py:<L#>88 * <Thread>817984 #> 127.0.0.1 - - [27/Dec/2018 20:28:06] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:06: <F#>_internal.py:<L#>88 * <Thread>139232 #> 127.0.0.1 - - [27/Dec/2018 20:28:06] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:12: <F#>_internal.py:<L#>88 * <Thread>785744 #> 127.0.0.1 - - [27/Dec/2018 20:28:12] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 20:28:12: <F#>_internal.py:<L#>88 * <Thread>409396 #> 127.0.0.1 - - [27/Dec/2018 20:28:12] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:12: <F#>_internal.py:<L#>88 * <Thread>728988 #> 127.0.0.1 - - [27/Dec/2018 20:28:12] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:12: <F#>_internal.py:<L#>88 * <Thread>654672 #> 127.0.0.1 - - [27/Dec/2018 20:28:12] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:12: <F#>_internal.py:<L#>88 * <Thread>820720 #> 127.0.0.1 - - [27/Dec/2018 20:28:12] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:16: <F#>_internal.py:<L#>88 * <Thread>605768 #> 127.0.0.1 - - [27/Dec/2018 20:28:16] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:28:44: <F#>nbuapi.py:<L#>98 * <Thread>787912 #> Start execute command
+INFO: 2018-12-27 20:28:44: <F#>_internal.py:<L#>88 * <Thread>787912 #> 127.0.0.1 - - [27/Dec/2018 20:28:44] "POST /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:29:44: <F#>nbuapi.py:<L#>98 * <Thread>416384 #> Start execute command
+INFO: 2018-12-27 20:29:44: <F#>_internal.py:<L#>88 * <Thread>416384 #> 127.0.0.1 - - [27/Dec/2018 20:29:44] "POST /netbackup/api/bp HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:40: <F#>manage.py:<L#>29 * <Thread>812928 #> logging starts
+INFO: 2018-12-27 20:33:40: <F#>brun.py:<L#>21 * <Thread>812928 #> logging starts
+INFO: 2018-12-27 20:33:40: <F#>_internal.py:<L#>88 * <Thread>812928 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 20:33:45: <F#>_internal.py:<L#>88 * <Thread>820328 #> 127.0.0.1 - - [27/Dec/2018 20:33:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:49: <F#>_internal.py:<L#>88 * <Thread>137872 #> 127.0.0.1 - - [27/Dec/2018 20:33:49] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 20:33:49: <F#>_internal.py:<L#>88 * <Thread>814712 #> 127.0.0.1 - - [27/Dec/2018 20:33:49] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:49: <F#>_internal.py:<L#>88 * <Thread>781164 #> 127.0.0.1 - - [27/Dec/2018 20:33:49] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:50: <F#>_internal.py:<L#>88 * <Thread>821336 #> 127.0.0.1 - - [27/Dec/2018 20:33:50] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:54: <F#>_internal.py:<L#>88 * <Thread>416404 #> 127.0.0.1 - - [27/Dec/2018 20:33:54] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 20:33:54: <F#>_internal.py:<L#>88 * <Thread>24772 #> 127.0.0.1 - - [27/Dec/2018 20:33:54] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:54: <F#>_internal.py:<L#>88 * <Thread>815124 #> 127.0.0.1 - - [27/Dec/2018 20:33:54] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:55: <F#>_internal.py:<L#>88 * <Thread>677592 #> 127.0.0.1 - - [27/Dec/2018 20:33:55] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:59: <F#>_internal.py:<L#>88 * <Thread>811328 #> 127.0.0.1 - - [27/Dec/2018 20:33:59] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-27 20:33:59: <F#>_internal.py:<L#>88 * <Thread>821484 #> 127.0.0.1 - - [27/Dec/2018 20:33:59] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:33:59: <F#>_internal.py:<L#>88 * <Thread>822228 #> 127.0.0.1 - - [27/Dec/2018 20:33:59] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:34:01: <F#>_internal.py:<L#>88 * <Thread>412748 #> 127.0.0.1 - - [27/Dec/2018 20:34:01] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>824332 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>822416 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>823848 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>825304 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>823640 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>822420 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:13: <F#>_internal.py:<L#>88 * <Thread>824032 #> 127.0.0.1 - - [27/Dec/2018 20:56:13] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:15: <F#>_internal.py:<L#>88 * <Thread>825296 #> 127.0.0.1 - - [27/Dec/2018 20:56:15] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:15: <F#>_internal.py:<L#>88 * <Thread>824036 #> 127.0.0.1 - - [27/Dec/2018 20:56:15] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:16: <F#>_internal.py:<L#>88 * <Thread>824912 #> 127.0.0.1 - - [27/Dec/2018 20:56:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:18: <F#>_internal.py:<L#>88 * <Thread>823900 #> 127.0.0.1 - - [27/Dec/2018 20:56:18] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>823916 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>824344 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>35812 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>94904 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>93456 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>416108 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:25: <F#>_internal.py:<L#>88 * <Thread>817256 #> 127.0.0.1 - - [27/Dec/2018 20:56:25] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:35: <F#>_internal.py:<L#>88 * <Thread>810296 #> 127.0.0.1 - - [27/Dec/2018 20:56:35] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:35: <F#>_internal.py:<L#>88 * <Thread>409388 #> 127.0.0.1 - - [27/Dec/2018 20:56:35] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:36: <F#>_internal.py:<L#>88 * <Thread>821924 #> 127.0.0.1 - - [27/Dec/2018 20:56:36] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 20:56:45: <F#>nbuapi.py:<L#>98 * <Thread>821588 #> Start execute command
+INFO: 2018-12-27 20:56:45: <F#>_internal.py:<L#>88 * <Thread>821588 #> 127.0.0.1 - - [27/Dec/2018 20:56:45] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:57:12: <F#>nbuapi.py:<L#>98 * <Thread>788592 #> Start execute command
+INFO: 2018-12-27 20:57:12: <F#>_internal.py:<L#>88 * <Thread>788592 #> 127.0.0.1 - - [27/Dec/2018 20:57:12] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:57:13: <F#>nbuapi.py:<L#>98 * <Thread>431604 #> Start execute command
+INFO: 2018-12-27 20:57:13: <F#>_internal.py:<L#>88 * <Thread>431604 #> 127.0.0.1 - - [27/Dec/2018 20:57:13] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:57:13: <F#>nbuapi.py:<L#>98 * <Thread>813120 #> Start execute command
+INFO: 2018-12-27 20:57:13: <F#>_internal.py:<L#>88 * <Thread>813120 #> 127.0.0.1 - - [27/Dec/2018 20:57:13] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:57:13: <F#>nbuapi.py:<L#>98 * <Thread>812948 #> Start execute command
+INFO: 2018-12-27 20:57:13: <F#>_internal.py:<L#>88 * <Thread>812948 #> 127.0.0.1 - - [27/Dec/2018 20:57:13] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 20:57:23: <F#>nbuapi.py:<L#>98 * <Thread>824128 #> Start execute command
+INFO: 2018-12-27 20:57:23: <F#>_internal.py:<L#>88 * <Thread>824128 #> 127.0.0.1 - - [27/Dec/2018 20:57:23] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:00:22: <F#>manage.py:<L#>29 * <Thread>785176 #> logging starts
+INFO: 2018-12-27 21:00:22: <F#>frun.py:<L#>10 * <Thread>785176 #> logging starts
+INFO: 2018-12-27 21:00:22: <F#>_internal.py:<L#>88 * <Thread>785176 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 21:00:25: <F#>nbuapi.py:<L#>98 * <Thread>818196 #> Start execute command
+INFO: 2018-12-27 21:00:25: <F#>_internal.py:<L#>88 * <Thread>818196 #> 127.0.0.1 - - [27/Dec/2018 21:00:25] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:00:27: <F#>nbuapi.py:<L#>98 * <Thread>823624 #> Start execute command
+INFO: 2018-12-27 21:00:27: <F#>_internal.py:<L#>88 * <Thread>823624 #> 127.0.0.1 - - [27/Dec/2018 21:00:27] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:00:29: <F#>nbuapi.py:<L#>98 * <Thread>823344 #> Start execute command
+INFO: 2018-12-27 21:00:29: <F#>_internal.py:<L#>88 * <Thread>823344 #> 127.0.0.1 - - [27/Dec/2018 21:00:29] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:00:30: <F#>nbuapi.py:<L#>98 * <Thread>820272 #> Start execute command
+INFO: 2018-12-27 21:00:30: <F#>_internal.py:<L#>88 * <Thread>820272 #> 127.0.0.1 - - [27/Dec/2018 21:00:30] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:01:18: <F#>manage.py:<L#>29 * <Thread>399532 #> logging starts
+INFO: 2018-12-27 21:01:18: <F#>brun.py:<L#>21 * <Thread>399532 #> logging starts
+INFO: 2018-12-27 21:01:18: <F#>_internal.py:<L#>88 * <Thread>399532 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-27 21:01:26: <F#>_internal.py:<L#>88 * <Thread>810104 #> 127.0.0.1 - - [27/Dec/2018 21:01:26] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-27 21:01:27: <F#>_internal.py:<L#>88 * <Thread>822964 #> 127.0.0.1 - - [27/Dec/2018 21:01:27] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-27 21:01:29: <F#>nbuapi.py:<L#>98 * <Thread>427972 #> Start execute command
+INFO: 2018-12-27 21:01:29: <F#>_internal.py:<L#>88 * <Thread>427972 #> 127.0.0.1 - - [27/Dec/2018 21:01:29] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:01:37: <F#>_internal.py:<L#>88 * <Thread>808180 #> 127.0.0.1 - - [27/Dec/2018 21:01:37] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:01:38: <F#>_internal.py:<L#>88 * <Thread>823736 #> 127.0.0.1 - - [27/Dec/2018 21:01:38] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:01:44: <F#>nbuapi.py:<L#>98 * <Thread>824128 #> Start execute command
+INFO: 2018-12-27 21:01:44: <F#>_internal.py:<L#>88 * <Thread>824128 #> 127.0.0.1 - - [27/Dec/2018 21:01:44] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:11: <F#>manage.py:<L#>29 * <Thread>821600 #> logging starts
+INFO: 2018-12-27 21:02:11: <F#>frun.py:<L#>10 * <Thread>821600 #> logging starts
+INFO: 2018-12-27 21:02:11: <F#>_internal.py:<L#>88 * <Thread>821600 #>  * Restarting with stat
+INFO: 2018-12-27 21:02:13: <F#>manage.py:<L#>29 * <Thread>411588 #> logging starts
+INFO: 2018-12-27 21:02:13: <F#>frun.py:<L#>10 * <Thread>411588 #> logging starts
+WARNING: 2018-12-27 21:02:13: <F#>_internal.py:<L#>88 * <Thread>411588 #>  * Debugger is active!
+INFO: 2018-12-27 21:02:13: <F#>_internal.py:<L#>88 * <Thread>411588 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 21:02:13: <F#>_internal.py:<L#>88 * <Thread>815528 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 21:02:15: <F#>nbuapi.py:<L#>98 * <Thread>824016 #> Start execute command
+INFO: 2018-12-27 21:02:15: <F#>_internal.py:<L#>88 * <Thread>824016 #> 127.0.0.1 - - [27/Dec/2018 21:02:15] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:26: <F#>nbuapi.py:<L#>98 * <Thread>99424 #> Start execute command
+INFO: 2018-12-27 21:02:26: <F#>_internal.py:<L#>88 * <Thread>99424 #> 127.0.0.1 - - [27/Dec/2018 21:02:26] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:28: <F#>nbuapi.py:<L#>98 * <Thread>822736 #> Start execute command
+INFO: 2018-12-27 21:02:28: <F#>_internal.py:<L#>88 * <Thread>822736 #> 127.0.0.1 - - [27/Dec/2018 21:02:28] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:28: <F#>nbuapi.py:<L#>98 * <Thread>822132 #> Start execute command
+INFO: 2018-12-27 21:02:28: <F#>_internal.py:<L#>88 * <Thread>822132 #> 127.0.0.1 - - [27/Dec/2018 21:02:28] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:28: <F#>nbuapi.py:<L#>98 * <Thread>822184 #> Start execute command
+INFO: 2018-12-27 21:02:28: <F#>_internal.py:<L#>88 * <Thread>822184 #> 127.0.0.1 - - [27/Dec/2018 21:02:28] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:28: <F#>nbuapi.py:<L#>98 * <Thread>813868 #> Start execute command
+INFO: 2018-12-27 21:02:28: <F#>_internal.py:<L#>88 * <Thread>813868 #> 127.0.0.1 - - [27/Dec/2018 21:02:28] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:28: <F#>nbuapi.py:<L#>98 * <Thread>415028 #> Start execute command
+INFO: 2018-12-27 21:02:28: <F#>_internal.py:<L#>88 * <Thread>415028 #> 127.0.0.1 - - [27/Dec/2018 21:02:28] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:29: <F#>nbuapi.py:<L#>98 * <Thread>105360 #> Start execute command
+INFO: 2018-12-27 21:02:29: <F#>_internal.py:<L#>88 * <Thread>105360 #> 127.0.0.1 - - [27/Dec/2018 21:02:29] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:29: <F#>nbuapi.py:<L#>98 * <Thread>824900 #> Start execute command
+INFO: 2018-12-27 21:02:29: <F#>_internal.py:<L#>88 * <Thread>824900 #> 127.0.0.1 - - [27/Dec/2018 21:02:29] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:29: <F#>nbuapi.py:<L#>98 * <Thread>824588 #> Start execute command
+INFO: 2018-12-27 21:02:29: <F#>_internal.py:<L#>88 * <Thread>824588 #> 127.0.0.1 - - [27/Dec/2018 21:02:29] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:02:37: <F#>nbuapi.py:<L#>98 * <Thread>414244 #> Start execute command
+INFO: 2018-12-27 21:02:37: <F#>_internal.py:<L#>88 * <Thread>414244 #> 127.0.0.1 - - [27/Dec/2018 21:02:37] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:14: <F#>manage.py:<L#>29 * <Thread>826260 #> logging starts
+INFO: 2018-12-27 21:03:14: <F#>frun.py:<L#>10 * <Thread>826260 #> logging starts
+INFO: 2018-12-27 21:03:15: <F#>_internal.py:<L#>88 * <Thread>826260 #>  * Restarting with stat
+INFO: 2018-12-27 21:03:15: <F#>nbuapi.py:<L#>98 * <Thread>236976 #> Start execute command
+INFO: 2018-12-27 21:03:15: <F#>_internal.py:<L#>88 * <Thread>236976 #> 127.0.0.1 - - [27/Dec/2018 21:03:15] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:16: <F#>nbuapi.py:<L#>98 * <Thread>826072 #> Start execute command
+INFO: 2018-12-27 21:03:16: <F#>_internal.py:<L#>88 * <Thread>826072 #> 127.0.0.1 - - [27/Dec/2018 21:03:16] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:16: <F#>nbuapi.py:<L#>98 * <Thread>826104 #> Start execute command
+INFO: 2018-12-27 21:03:16: <F#>_internal.py:<L#>88 * <Thread>826104 #> 127.0.0.1 - - [27/Dec/2018 21:03:16] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:17: <F#>nbuapi.py:<L#>98 * <Thread>826136 #> Start execute command
+INFO: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>826136 #> 127.0.0.1 - - [27/Dec/2018 21:03:17] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:17: <F#>nbuapi.py:<L#>98 * <Thread>826160 #> Start execute command
+INFO: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>826160 #> 127.0.0.1 - - [27/Dec/2018 21:03:17] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:17: <F#>nbuapi.py:<L#>98 * <Thread>826204 #> Start execute command
+INFO: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>826204 #> 127.0.0.1 - - [27/Dec/2018 21:03:17] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:17: <F#>manage.py:<L#>29 * <Thread>825684 #> logging starts
+INFO: 2018-12-27 21:03:17: <F#>frun.py:<L#>10 * <Thread>825684 #> logging starts
+INFO: 2018-12-27 21:03:17: <F#>nbuapi.py:<L#>98 * <Thread>826240 #> Start execute command
+INFO: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>826240 #> 127.0.0.1 - - [27/Dec/2018 21:03:17] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+WARNING: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>825684 #>  * Debugger is active!
+INFO: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>825684 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 21:03:17: <F#>_internal.py:<L#>88 * <Thread>820984 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 21:03:19: <F#>_internal.py:<L#>88 * <Thread>819216 #> 127.0.0.1 - - [27/Dec/2018 21:03:19] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:19: <F#>_internal.py:<L#>88 * <Thread>826244 #> 127.0.0.1 - - [27/Dec/2018 21:03:19] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:35: <F#>_internal.py:<L#>88 * <Thread>826220 #> 127.0.0.1 - - [27/Dec/2018 21:03:35] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:35: <F#>_internal.py:<L#>88 * <Thread>569240 #> 127.0.0.1 - - [27/Dec/2018 21:03:35] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:37: <F#>_internal.py:<L#>88 * <Thread>813488 #> 127.0.0.1 - - [27/Dec/2018 21:03:37] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:37: <F#>_internal.py:<L#>88 * <Thread>563700 #> 127.0.0.1 - - [27/Dec/2018 21:03:37] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:39: <F#>_internal.py:<L#>88 * <Thread>236976 #> 127.0.0.1 - - [27/Dec/2018 21:03:39] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:39: <F#>_internal.py:<L#>88 * <Thread>825712 #> 127.0.0.1 - - [27/Dec/2018 21:03:39] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:51: <F#>_internal.py:<L#>88 * <Thread>824008 #> 127.0.0.1 - - [27/Dec/2018 21:03:51] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:03:52: <F#>_internal.py:<L#>88 * <Thread>825684 #> 127.0.0.1 - - [27/Dec/2018 21:03:52] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:04:09: <F#>manage.py:<L#>29 * <Thread>823884 #> logging starts
+INFO: 2018-12-27 21:04:09: <F#>frun.py:<L#>10 * <Thread>823884 #> logging starts
+INFO: 2018-12-27 21:04:09: <F#>_internal.py:<L#>88 * <Thread>823884 #>  * Restarting with stat
+INFO: 2018-12-27 21:04:12: <F#>manage.py:<L#>29 * <Thread>822844 #> logging starts
+INFO: 2018-12-27 21:04:12: <F#>frun.py:<L#>10 * <Thread>822844 #> logging starts
+WARNING: 2018-12-27 21:04:12: <F#>_internal.py:<L#>88 * <Thread>822844 #>  * Debugger is active!
+INFO: 2018-12-27 21:04:12: <F#>_internal.py:<L#>88 * <Thread>822844 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-27 21:04:12: <F#>_internal.py:<L#>88 * <Thread>822524 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-27 21:04:12: <F#>_internal.py:<L#>88 * <Thread>824008 #> 127.0.0.1 - - [27/Dec/2018 21:04:12] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-27 21:04:13: <F#>_internal.py:<L#>88 * <Thread>824524 #> 127.0.0.1 - - [27/Dec/2018 21:04:13] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-27 21:04:19: <F#>nbuapi.py:<L#>99 * <Thread>826136 #> Start execute command
+INFO: 2018-12-27 21:05:00: <F#>_internal.py:<L#>88 * <Thread>826136 #> 127.0.0.1 - - [27/Dec/2018 21:05:00] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
