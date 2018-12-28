@@ -11,10 +11,8 @@ from bpdbjobs import *
 from popen import *
 from nbuapi import *
 from decorators import *
-
-
 import logging
-logging.basicConfig()
+
 
 
 # api_blueprint = Blueprint('baas', __name__, url_prefix='/baas')

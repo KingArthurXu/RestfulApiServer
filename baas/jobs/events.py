@@ -56,4 +56,3 @@ def events_listener(events):
         # print("Job executed id in: %s " % str(events.job_id))
         # job_id = events.job_id
         # save_job_logs(events)
-

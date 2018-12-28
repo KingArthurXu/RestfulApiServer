@@ -7,8 +7,10 @@ debug = True
 proc_name = 'frun.gunicorn.proc'
 pidfile = 'frun.gunicorn.pid'
 errorlog = 'frun.error.log'
+# errorlog = '-'
 loglevel = 'debug'
 daemon = True
 raw_env = ["FLASK_CONFIG=production"]
 accesslog = 'frun.access.log'
+# accesslog = '-'
 access_log_format= '%(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"'

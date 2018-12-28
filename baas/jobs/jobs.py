@@ -10,7 +10,7 @@ import subprocess
 import logging
 from flask import current_app
 
-logging.basicConfig()
+# logging.basicConfig()
 logger_jobs = logging.getLogger('jobs')
 
 

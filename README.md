@@ -65,3 +65,7 @@ job目录不能cython
     session.commit()
     
     exit()
+
+# 20181228
+Remove SAWarning by change field from unicode to string
+Remove SAWarning by add listener

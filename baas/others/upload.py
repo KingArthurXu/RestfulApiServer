@@ -9,8 +9,6 @@ from flask import Blueprint
 from werkzeug.utils import secure_filename
 import os
 
-log = logging.getLogger(__name__)
-
 site_blueprint = Blueprint('site', __name__, url_prefix='/upload')
 
 upload_html = u'''

@@ -6,25 +6,27 @@ import logging.config
 from manage import app
 from flask_cors import CORS
 
-logging.config.fileConfig('logging.conf')
-logging.info('logging starts')
 
 CORS(app)
-logging.getLogger('flask_cors').level = logging.DEBUG
+# logging.getLogger('flask_cors').level = logging.DEBUG
 
 from baas.others.upload import site_blueprint
 from baas.endpoints import api_blueprint
 app.register_blueprint(blueprint=api_blueprint)
 app.register_blueprint(blueprint=site_blueprint)
 
+if __name__ != '__main__':
+    gunicorn_logger = logging.getLogger('gunicorn')
+    app.logger.handlers = gunicorn_logger.handlers
+    app.logger.setLevel(gunicorn_logger.level)
 
 if __name__ == '__main__':
-
     flask_host = os.getenv("FLASK_HOST") if os.getenv("FLASK_HOST") else '0.0.0.0'
     flask_port = os.getenv("FLASK_PORT") if os.getenv("FLASK_PORT") else '5000'
-    flask_debug = app.config['DEBUG']
+    # flask_debug = app.config['DEBUG']
     # application.run(host=flask_host, port=int(flask_port), debug=bool(flask_debug))
-    app.run(host=flask_host, port=int(flask_port), debug=app.config['DEBUG'])
+    # app.run(host=flask_host, port=int(flask_port), debug=app.config['DEBUG'])
+    app.run(host=flask_host, port=int(flask_port), debug=False)
     # flask_ssl_context = os.getenv("FLASK_SSL_CONTEXT") if os.getenv("FLASK_SSL_CONTEXT") else 'None'
     # app.run(ssl_context=flask_ssl_context, host=flask_host, port=int(flask_port), debug=bool(flask_debug))
     # 证书玩法
@@ -32,3 +34,5 @@ if __name__ == '__main__':
     #     "server/server-cert.pem",
     #     "server/server-key.pem")
     # )
+
+
