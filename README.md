@@ -73,3 +73,5 @@ Remove SAWarning by add listener
 # 20181229
 add exception on OSError
 add netbackup/api [patch]
+    show no parameter if shell not configurable
+    
