@@ -74,4 +74,4 @@ Remove SAWarning by add listener
 add exception on OSError
 add netbackup/api [patch]
     show no parameter if shell not configurable
-    
+    bp - bp (not bp.sh)
