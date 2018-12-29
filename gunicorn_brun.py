@@ -1,6 +1,6 @@
 import os
 bind = '0.0.0.0:5001'
-workers = 1
+workers = 2
 backlog = 2048
 worker_class = "sync"
 debug = True

@@ -1,0 +1,703 @@
+INFO: 2018-12-28 15:07:47: <F#>manage.py:<L#>29 * <Thread>939036 #> logging starts
+INFO: 2018-12-28 15:07:47: <F#>_internal.py:<L#>88 * <Thread>939036 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:07:50: <F#>_internal.py:<L#>88 * <Thread>956096 #> 127.0.0.1 - - [28/Dec/2018 15:07:50] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 15:07:50: <F#>_internal.py:<L#>88 * <Thread>947556 #> 127.0.0.1 - - [28/Dec/2018 15:07:50] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-28 15:07:51: <F#>_internal.py:<L#>88 * <Thread>944080 #> 127.0.0.1 - - [28/Dec/2018 15:07:51] "GET /favicon.ico HTTP/1.1" 404 -
+ERROR: 2018-12-28 15:07:55: <F#>nbuapi.py:<L#>211 * <Thread>955408 #> error error error error error error 
+INFO: 2018-12-28 15:07:55: <F#>nbuapi.py:<L#>213 * <Thread>955408 #> info info info info info info 
+INFO: 2018-12-28 15:07:55: <F#>_internal.py:<L#>88 * <Thread>955408 #> 127.0.0.1 - - [28/Dec/2018 15:07:55] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:01: <F#>manage.py:<L#>29 * <Thread>952972 #> logging starts
+INFO: 2018-12-28 15:10:01: <F#>_internal.py:<L#>88 * <Thread>952972 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:10:05: <F#>nbuapi.py:<L#>91 * <Thread>948596 #> API not foundbp.sh
+INFO: 2018-12-28 15:10:05: <F#>_internal.py:<L#>88 * <Thread>948596 #> 127.0.0.1 - - [28/Dec/2018 15:10:05] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:13: <F#>nbuapi.py:<L#>91 * <Thread>956252 #> API not foundbp.sh
+INFO: 2018-12-28 15:10:13: <F#>_internal.py:<L#>88 * <Thread>956252 #> 127.0.0.1 - - [28/Dec/2018 15:10:13] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:14: <F#>nbuapi.py:<L#>91 * <Thread>955920 #> API not foundbp.sh
+INFO: 2018-12-28 15:10:14: <F#>_internal.py:<L#>88 * <Thread>955920 #> 127.0.0.1 - - [28/Dec/2018 15:10:14] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:14: <F#>nbuapi.py:<L#>91 * <Thread>954556 #> API not foundbp.sh
+INFO: 2018-12-28 15:10:14: <F#>_internal.py:<L#>88 * <Thread>954556 #> 127.0.0.1 - - [28/Dec/2018 15:10:14] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:14: <F#>nbuapi.py:<L#>91 * <Thread>944160 #> API not foundbp.sh
+INFO: 2018-12-28 15:10:14: <F#>_internal.py:<L#>88 * <Thread>944160 #> 127.0.0.1 - - [28/Dec/2018 15:10:14] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:38: <F#>manage.py:<L#>29 * <Thread>932876 #> logging starts
+INFO: 2018-12-28 15:10:38: <F#>_internal.py:<L#>88 * <Thread>932876 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:10:40: <F#>nbuapi.py:<L#>91 * <Thread>953944 #> API not found bp.sh
+INFO: 2018-12-28 15:10:41: <F#>_internal.py:<L#>88 * <Thread>953944 #> 127.0.0.1 - - [28/Dec/2018 15:10:41] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:10:48: <F#>nbuapi.py:<L#>91 * <Thread>956020 #> API not found bp.sh
+INFO: 2018-12-28 15:10:48: <F#>_internal.py:<L#>88 * <Thread>956020 #> 127.0.0.1 - - [28/Dec/2018 15:10:48] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:11:52: <F#>manage.py:<L#>29 * <Thread>956228 #> logging starts
+INFO: 2018-12-28 15:11:52: <F#>_internal.py:<L#>88 * <Thread>956228 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:12:18: <F#>manage.py:<L#>29 * <Thread>953720 #> logging starts
+INFO: 2018-12-28 15:12:19: <F#>_internal.py:<L#>88 * <Thread>953720 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR: 2018-12-28 15:12:25: <F#>nbuapi.py:<L#>91 * <Thread>955224 #> API not found bp.sh
+INFO: 2018-12-28 15:12:25: <F#>_internal.py:<L#>88 * <Thread>955224 #> 127.0.0.1 - - [28/Dec/2018 15:12:25] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:12:31: <F#>nbuapi.py:<L#>91 * <Thread>952496 #> API not found bp.sh
+INFO: 2018-12-28 15:12:31: <F#>_internal.py:<L#>88 * <Thread>952496 #> 127.0.0.1 - - [28/Dec/2018 15:12:31] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:13:42: <F#>manage.py:<L#>29 * <Thread>953468 #> logging starts
+INFO: 2018-12-28 15:13:42: <F#>_internal.py:<L#>88 * <Thread>953468 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR: 2018-12-28 15:13:46: <F#>nbuapi.py:<L#>91 * <Thread>957420 #> API not found bp.sh
+INFO: 2018-12-28 15:13:46: <F#>_internal.py:<L#>88 * <Thread>957420 #> 127.0.0.1 - - [28/Dec/2018 15:13:46] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:13:48: <F#>nbuapi.py:<L#>91 * <Thread>956424 #> API not found bp.sh
+INFO: 2018-12-28 15:13:48: <F#>_internal.py:<L#>88 * <Thread>956424 #> 127.0.0.1 - - [28/Dec/2018 15:13:48] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:13:49: <F#>nbuapi.py:<L#>91 * <Thread>956520 #> API not found bp.sh
+INFO: 2018-12-28 15:13:49: <F#>_internal.py:<L#>88 * <Thread>956520 #> 127.0.0.1 - - [28/Dec/2018 15:13:49] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:13:49: <F#>nbuapi.py:<L#>91 * <Thread>956504 #> API not found bp.sh
+INFO: 2018-12-28 15:13:49: <F#>_internal.py:<L#>88 * <Thread>956504 #> 127.0.0.1 - - [28/Dec/2018 15:13:49] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:13:49: <F#>nbuapi.py:<L#>91 * <Thread>956532 #> API not found bp.sh
+INFO: 2018-12-28 15:13:49: <F#>_internal.py:<L#>88 * <Thread>956532 #> 127.0.0.1 - - [28/Dec/2018 15:13:49] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:16:02: <F#>nbuapi.py:<L#>91 * <Thread>957272 #> API not found bp.sh
+INFO: 2018-12-28 15:16:02: <F#>_internal.py:<L#>88 * <Thread>957272 #> 127.0.0.1 - - [28/Dec/2018 15:16:02] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:16:03: <F#>nbuapi.py:<L#>91 * <Thread>955656 #> API not found bp.sh
+INFO: 2018-12-28 15:16:03: <F#>_internal.py:<L#>88 * <Thread>955656 #> 127.0.0.1 - - [28/Dec/2018 15:16:03] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:16:03: <F#>nbuapi.py:<L#>91 * <Thread>956636 #> API not found bp.sh
+INFO: 2018-12-28 15:16:03: <F#>_internal.py:<L#>88 * <Thread>956636 #> 127.0.0.1 - - [28/Dec/2018 15:16:03] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:16:04: <F#>nbuapi.py:<L#>91 * <Thread>956752 #> API not found bp.sh
+INFO: 2018-12-28 15:16:04: <F#>_internal.py:<L#>88 * <Thread>956752 #> 127.0.0.1 - - [28/Dec/2018 15:16:04] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:16:04: <F#>nbuapi.py:<L#>91 * <Thread>956764 #> API not found bp.sh
+INFO: 2018-12-28 15:16:04: <F#>_internal.py:<L#>88 * <Thread>956764 #> 127.0.0.1 - - [28/Dec/2018 15:16:04] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:16:04: <F#>nbuapi.py:<L#>91 * <Thread>957256 #> API not found bp.sh
+INFO: 2018-12-28 15:16:04: <F#>_internal.py:<L#>88 * <Thread>957256 #> 127.0.0.1 - - [28/Dec/2018 15:16:04] "POST /netbackup/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 15:16:16: <F#>_internal.py:<L#>88 * <Thread>956336 #> 127.0.0.1 - - [28/Dec/2018 15:16:16] "POST /netbackup/api/bp.bat HTTP/1.1" 201 -
+INFO: 2018-12-28 15:16:30: <F#>_internal.py:<L#>88 * <Thread>938072 #> 127.0.0.1 - - [28/Dec/2018 15:16:30] "POST /auth HTTP/1.1" 200 -
+INFO: 2018-12-28 15:16:41: <F#>_internal.py:<L#>88 * <Thread>956708 #> 127.0.0.1 - - [28/Dec/2018 15:16:41] "GET /swagger.json HTTP/1.1" 200 -
+ERROR: 2018-12-28 15:16:53: <F#>nbuapi.py:<L#>91 * <Thread>957092 #> API not found bp
+INFO: 2018-12-28 15:16:53: <F#>_internal.py:<L#>88 * <Thread>957092 #> 127.0.0.1 - - [28/Dec/2018 15:16:53] "POST /netbackup/api/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:17:07: <F#>nbuapi.py:<L#>91 * <Thread>953612 #> API not found bp.bat
+INFO: 2018-12-28 15:17:07: <F#>_internal.py:<L#>88 * <Thread>953612 #> 127.0.0.1 - - [28/Dec/2018 15:17:07] "POST /netbackup/api/bp.bat HTTP/1.1" 400 -
+ERROR: 2018-12-28 15:17:16: <F#>nbuapi.py:<L#>91 * <Thread>946240 #> API not found bp2.bat
+INFO: 2018-12-28 15:17:16: <F#>_internal.py:<L#>88 * <Thread>946240 #> 127.0.0.1 - - [28/Dec/2018 15:17:16] "POST /netbackup/api/bp2.bat HTTP/1.1" 400 -
+INFO: 2018-12-28 15:17:27: <F#>manage.py:<L#>29 * <Thread>954860 #> logging starts
+INFO: 2018-12-28 15:17:28: <F#>base.py:<L#>162 * <Thread>954860 #> Scheduler started
+INFO: 2018-12-28 15:17:28: <F#>_internal.py:<L#>88 * <Thread>954860 #>  * Restarting with stat
+INFO: 2018-12-28 15:17:29: <F#>manage.py:<L#>29 * <Thread>957308 #> logging starts
+INFO: 2018-12-28 15:17:29: <F#>base.py:<L#>162 * <Thread>957308 #> Scheduler started
+WARNING: 2018-12-28 15:17:29: <F#>_internal.py:<L#>88 * <Thread>957308 #>  * Debugger is active!
+INFO: 2018-12-28 15:17:29: <F#>_internal.py:<L#>88 * <Thread>957308 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:17:29: <F#>_internal.py:<L#>88 * <Thread>956944 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:17:49: <F#>_internal.py:<L#>88 * <Thread>948780 #> 127.0.0.1 - - [28/Dec/2018 15:17:49] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:50: <F#>_internal.py:<L#>88 * <Thread>956932 #> 127.0.0.1 - - [28/Dec/2018 15:17:50] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>957400 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>953664 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>957516 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>957520 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>946552 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/admin/css/bootstrap3/submenu.css HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>928128 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>957328 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/admin/css/bootstrap3/admin.css?v=1.1.1 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>956632 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/bootstrap/bootstrap3/js/bootstrap.min.js?v=3.3.5 HTTP/1.1" 304 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>957528 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:52: <F#>_internal.py:<L#>88 * <Thread>957556 #> 127.0.0.1 - - [28/Dec/2018 15:17:52] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957572 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957576 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957596 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957600 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957604 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957608 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957612 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:54: <F#>_internal.py:<L#>88 * <Thread>957624 #> 127.0.0.1 - - [28/Dec/2018 15:17:54] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:55: <F#>_internal.py:<L#>88 * <Thread>957720 #> 127.0.0.1 - - [28/Dec/2018 15:17:55] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:17:56: <F#>_internal.py:<L#>88 * <Thread>957724 #> 127.0.0.1 - - [28/Dec/2018 15:17:56] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:18:07: <F#>nbuapi.py:<L#>99 * <Thread>958080 #> Start execute command
+INFO: 2018-12-28 15:18:07: <F#>_internal.py:<L#>88 * <Thread>958080 #> 127.0.0.1 - - [28/Dec/2018 15:18:07] "POST /netbackup/api/bp3 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:26:03: <F#>manage.py:<L#>29 * <Thread>957836 #> logging starts
+INFO: 2018-12-28 15:26:03: <F#>base.py:<L#>162 * <Thread>957836 #> Scheduler started
+INFO: 2018-12-28 15:26:03: <F#>_internal.py:<L#>88 * <Thread>957836 #>  * Restarting with stat
+INFO: 2018-12-28 15:26:04: <F#>manage.py:<L#>29 * <Thread>952420 #> logging starts
+INFO: 2018-12-28 15:26:04: <F#>base.py:<L#>162 * <Thread>952420 #> Scheduler started
+WARNING: 2018-12-28 15:26:04: <F#>_internal.py:<L#>88 * <Thread>952420 #>  * Debugger is active!
+INFO: 2018-12-28 15:26:04: <F#>_internal.py:<L#>88 * <Thread>952420 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:26:04: <F#>_internal.py:<L#>88 * <Thread>932924 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:26:13: <F#>manage.py:<L#>29 * <Thread>937520 #> logging starts
+INFO: 2018-12-28 15:26:13: <F#>base.py:<L#>162 * <Thread>937520 #> Scheduler started
+INFO: 2018-12-28 15:26:13: <F#>_internal.py:<L#>88 * <Thread>937520 #>  * Restarting with stat
+INFO: 2018-12-28 15:26:15: <F#>manage.py:<L#>29 * <Thread>953272 #> logging starts
+INFO: 2018-12-28 15:26:16: <F#>base.py:<L#>162 * <Thread>953272 #> Scheduler started
+WARNING: 2018-12-28 15:26:16: <F#>_internal.py:<L#>88 * <Thread>953272 #>  * Debugger is active!
+INFO: 2018-12-28 15:26:16: <F#>_internal.py:<L#>88 * <Thread>953272 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:26:16: <F#>_internal.py:<L#>88 * <Thread>957732 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:26:20: <F#>manage.py:<L#>29 * <Thread>957136 #> logging starts
+INFO: 2018-12-28 15:26:20: <F#>base.py:<L#>162 * <Thread>957136 #> Scheduler started
+INFO: 2018-12-28 15:26:20: <F#>_internal.py:<L#>88 * <Thread>957136 #>  * Restarting with stat
+INFO: 2018-12-28 15:26:22: <F#>manage.py:<L#>29 * <Thread>953200 #> logging starts
+INFO: 2018-12-28 15:26:23: <F#>base.py:<L#>162 * <Thread>953200 #> Scheduler started
+WARNING: 2018-12-28 15:26:23: <F#>_internal.py:<L#>88 * <Thread>953200 #>  * Debugger is active!
+INFO: 2018-12-28 15:26:23: <F#>_internal.py:<L#>88 * <Thread>953200 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:26:23: <F#>_internal.py:<L#>88 * <Thread>946212 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:26:36: <F#>manage.py:<L#>29 * <Thread>923328 #> logging starts
+INFO: 2018-12-28 15:26:36: <F#>base.py:<L#>162 * <Thread>923328 #> Scheduler started
+INFO: 2018-12-28 15:26:36: <F#>_internal.py:<L#>88 * <Thread>923328 #>  * Restarting with stat
+INFO: 2018-12-28 15:26:38: <F#>manage.py:<L#>29 * <Thread>958164 #> logging starts
+INFO: 2018-12-28 15:26:38: <F#>base.py:<L#>162 * <Thread>958164 #> Scheduler started
+WARNING: 2018-12-28 15:26:38: <F#>_internal.py:<L#>88 * <Thread>958164 #>  * Debugger is active!
+INFO: 2018-12-28 15:26:38: <F#>_internal.py:<L#>88 * <Thread>958164 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:26:38: <F#>_internal.py:<L#>88 * <Thread>927968 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:27:00: <F#>_internal.py:<L#>88 * <Thread>957624 #> 127.0.0.1 - - [28/Dec/2018 15:27:00] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 15:27:02: <F#>_internal.py:<L#>88 * <Thread>958040 #> 127.0.0.1 - - [28/Dec/2018 15:27:02] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:27:03: <F#>_internal.py:<L#>88 * <Thread>950576 #> 127.0.0.1 - - [28/Dec/2018 15:27:03] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:30:48: <F#>manage.py:<L#>29 * <Thread>958180 #> logging starts
+INFO: 2018-12-28 15:30:49: <F#>base.py:<L#>162 * <Thread>958180 #> Scheduler started
+INFO: 2018-12-28 15:30:49: <F#>_internal.py:<L#>88 * <Thread>958180 #>  * Restarting with stat
+INFO: 2018-12-28 15:30:49: <F#>_internal.py:<L#>88 * <Thread>958408 #> 127.0.0.1 - - [28/Dec/2018 15:30:49] "GET /role/new/?url=%2Frole%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 15:30:51: <F#>manage.py:<L#>29 * <Thread>950188 #> logging starts
+INFO: 2018-12-28 15:30:51: <F#>base.py:<L#>162 * <Thread>950188 #> Scheduler started
+WARNING: 2018-12-28 15:30:51: <F#>_internal.py:<L#>88 * <Thread>950188 #>  * Debugger is active!
+INFO: 2018-12-28 15:30:51: <F#>_internal.py:<L#>88 * <Thread>950188 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:30:51: <F#>_internal.py:<L#>88 * <Thread>950224 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:30:53: <F#>_internal.py:<L#>88 * <Thread>957880 #> 127.0.0.1 - - [28/Dec/2018 15:30:53] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:30:54: <F#>_internal.py:<L#>88 * <Thread>954816 #> 127.0.0.1 - - [28/Dec/2018 15:30:54] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>948204 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>953668 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>935864 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>956552 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/admin/css/bootstrap3/admin.css?v=1.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>956044 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>958140 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/admin/css/bootstrap3/submenu.css HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>927968 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>957888 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>947588 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>950708 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:05: <F#>_internal.py:<L#>88 * <Thread>956256 #> 127.0.0.1 - - [28/Dec/2018 15:31:05] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:31:58: <F#>manage.py:<L#>29 * <Thread>951032 #> logging starts
+INFO: 2018-12-28 15:31:58: <F#>base.py:<L#>162 * <Thread>951032 #> Scheduler started
+INFO: 2018-12-28 15:31:58: <F#>_internal.py:<L#>88 * <Thread>951032 #>  * Restarting with stat
+INFO: 2018-12-28 15:31:59: <F#>_internal.py:<L#>88 * <Thread>950776 #> 127.0.0.1 - - [28/Dec/2018 15:31:59] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:00: <F#>manage.py:<L#>29 * <Thread>953548 #> logging starts
+INFO: 2018-12-28 15:32:00: <F#>base.py:<L#>162 * <Thread>953548 #> Scheduler started
+WARNING: 2018-12-28 15:32:00: <F#>_internal.py:<L#>88 * <Thread>953548 #>  * Debugger is active!
+INFO: 2018-12-28 15:32:00: <F#>_internal.py:<L#>88 * <Thread>953548 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:32:00: <F#>_internal.py:<L#>88 * <Thread>957660 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>955992 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>956148 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>956256 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>949120 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>957948 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/admin/css/bootstrap3/admin.css?v=1.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>950776 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/admin/css/bootstrap3/submenu.css HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>915672 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>948204 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:32:07: <F#>_internal.py:<L#>88 * <Thread>957488 #> 127.0.0.1 - - [28/Dec/2018 15:32:07] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 15:42:21: <F#>_internal.py:<L#>88 * <Thread>957308 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-28 15:42:21: <F#>_internal.py:<L#>88 * <Thread>954860 #>  * Restarting with stat
+INFO: 2018-12-28 15:42:23: <F#>manage.py:<L#>29 * <Thread>959068 #> logging starts
+INFO: 2018-12-28 15:42:23: <F#>base.py:<L#>162 * <Thread>959068 #> Scheduler started
+WARNING: 2018-12-28 15:42:23: <F#>_internal.py:<L#>88 * <Thread>959068 #>  * Debugger is active!
+INFO: 2018-12-28 15:42:23: <F#>_internal.py:<L#>88 * <Thread>959068 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:42:23: <F#>_internal.py:<L#>88 * <Thread>959124 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:42:28: <F#>manage.py:<L#>29 * <Thread>959916 #> logging starts
+INFO: 2018-12-28 15:42:29: <F#>base.py:<L#>162 * <Thread>959916 #> Scheduler started
+INFO: 2018-12-28 15:42:29: <F#>_internal.py:<L#>88 * <Thread>959916 #>  * Restarting with stat
+INFO: 2018-12-28 15:42:31: <F#>manage.py:<L#>29 * <Thread>959996 #> logging starts
+INFO: 2018-12-28 15:42:31: <F#>base.py:<L#>162 * <Thread>959996 #> Scheduler started
+WARNING: 2018-12-28 15:42:31: <F#>_internal.py:<L#>88 * <Thread>959996 #>  * Debugger is active!
+INFO: 2018-12-28 15:42:31: <F#>_internal.py:<L#>88 * <Thread>959996 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:42:31: <F#>_internal.py:<L#>88 * <Thread>960436 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:45:23: <F#>_internal.py:<L#>88 * <Thread>959996 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\views.py', reloading
+INFO: 2018-12-28 15:45:23: <F#>_internal.py:<L#>88 * <Thread>959916 #>  * Restarting with stat
+INFO: 2018-12-28 15:45:23: <F#>_internal.py:<L#>88 * <Thread>959068 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\views.py', reloading
+INFO: 2018-12-28 15:45:23: <F#>_internal.py:<L#>88 * <Thread>954860 #>  * Restarting with stat
+INFO: 2018-12-28 15:45:25: <F#>manage.py:<L#>29 * <Thread>960216 #> logging starts
+INFO: 2018-12-28 15:45:25: <F#>manage.py:<L#>29 * <Thread>960380 #> logging starts
+INFO: 2018-12-28 15:49:22: <F#>manage.py:<L#>29 * <Thread>960184 #> logging starts
+INFO: 2018-12-28 15:50:19: <F#>manage.py:<L#>29 * <Thread>959556 #> logging starts
+INFO: 2018-12-28 15:50:19: <F#>base.py:<L#>162 * <Thread>959556 #> Scheduler started
+INFO: 2018-12-28 15:50:19: <F#>_internal.py:<L#>88 * <Thread>959556 #>  * Restarting with stat
+INFO: 2018-12-28 15:50:21: <F#>manage.py:<L#>29 * <Thread>955628 #> logging starts
+INFO: 2018-12-28 15:50:21: <F#>base.py:<L#>162 * <Thread>955628 #> Scheduler started
+WARNING: 2018-12-28 15:50:21: <F#>_internal.py:<L#>88 * <Thread>955628 #>  * Debugger is active!
+INFO: 2018-12-28 15:50:21: <F#>_internal.py:<L#>88 * <Thread>955628 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:50:21: <F#>_internal.py:<L#>88 * <Thread>960540 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 15:51:40: <F#>_internal.py:<L#>88 * <Thread>955628 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\views.py', reloading
+INFO: 2018-12-28 15:51:40: <F#>_internal.py:<L#>88 * <Thread>959556 #>  * Restarting with stat
+INFO: 2018-12-28 15:51:41: <F#>manage.py:<L#>29 * <Thread>961044 #> logging starts
+INFO: 2018-12-28 15:51:42: <F#>base.py:<L#>162 * <Thread>961044 #> Scheduler started
+WARNING: 2018-12-28 15:51:42: <F#>_internal.py:<L#>88 * <Thread>961044 #>  * Debugger is active!
+INFO: 2018-12-28 15:51:42: <F#>_internal.py:<L#>88 * <Thread>961044 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 15:51:42: <F#>_internal.py:<L#>88 * <Thread>960508 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 16:01:45: <F#>_internal.py:<L#>88 * <Thread>961044 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\dbs.py', reloading
+INFO: 2018-12-28 16:01:45: <F#>_internal.py:<L#>88 * <Thread>959556 #>  * Restarting with stat
+INFO: 2018-12-28 16:01:46: <F#>manage.py:<L#>29 * <Thread>953140 #> logging starts
+INFO: 2018-12-28 16:01:47: <F#>base.py:<L#>162 * <Thread>953140 #> Scheduler started
+WARNING: 2018-12-28 16:01:47: <F#>_internal.py:<L#>88 * <Thread>953140 #>  * Debugger is active!
+INFO: 2018-12-28 16:01:47: <F#>_internal.py:<L#>88 * <Thread>953140 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 16:01:47: <F#>_internal.py:<L#>88 * <Thread>961796 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 16:33:35: <F#>_internal.py:<L#>88 * <Thread>953140 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\dbs.py', reloading
+INFO: 2018-12-28 16:37:09: <F#>manage.py:<L#>29 * <Thread>966164 #> logging starts
+INFO: 2018-12-28 16:37:09: <F#>base.py:<L#>162 * <Thread>966164 #> Scheduler started
+INFO: 2018-12-28 16:37:09: <F#>_internal.py:<L#>88 * <Thread>966164 #>  * Restarting with stat
+INFO: 2018-12-28 16:37:10: <F#>manage.py:<L#>29 * <Thread>957424 #> logging starts
+INFO: 2018-12-28 16:37:10: <F#>base.py:<L#>162 * <Thread>957424 #> Scheduler started
+WARNING: 2018-12-28 16:37:10: <F#>_internal.py:<L#>88 * <Thread>957424 #>  * Debugger is active!
+INFO: 2018-12-28 16:37:10: <F#>_internal.py:<L#>88 * <Thread>957424 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 16:37:10: <F#>_internal.py:<L#>88 * <Thread>965932 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 16:37:17: <F#>_internal.py:<L#>88 * <Thread>933684 #> 127.0.0.1 - - [28/Dec/2018 16:37:17] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 16:37:18: <F#>_internal.py:<L#>88 * <Thread>937444 #> 127.0.0.1 - - [28/Dec/2018 16:37:18] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 16:37:23: <F#>_internal.py:<L#>88 * <Thread>936460 #> 127.0.0.1 - - [28/Dec/2018 16:37:23] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 16:37:23: <F#>_internal.py:<L#>88 * <Thread>960808 #> 127.0.0.1 - - [28/Dec/2018 16:37:23] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 16:37:24: <F#>_internal.py:<L#>88 * <Thread>956220 #> 127.0.0.1 - - [28/Dec/2018 16:37:24] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 16:37:24: <F#>_internal.py:<L#>88 * <Thread>966176 #> 127.0.0.1 - - [28/Dec/2018 16:37:24] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 16:37:24: <F#>_internal.py:<L#>88 * <Thread>966028 #> 127.0.0.1 - - [28/Dec/2018 16:37:24] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 16:37:28: <F#>_internal.py:<L#>88 * <Thread>965288 #> 127.0.0.1 - - [28/Dec/2018 16:37:28] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 16:49:50: <F#>_internal.py:<L#>88 * <Thread>967732 #> 127.0.0.1 - - [28/Dec/2018 16:49:50] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 16:49:57: <F#>_internal.py:<L#>88 * <Thread>954468 #> 127.0.0.1 - - [28/Dec/2018 16:49:57] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 16:49:57: <F#>_internal.py:<L#>88 * <Thread>967920 #> 127.0.0.1 - - [28/Dec/2018 16:49:57] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 16:49:57: <F#>_internal.py:<L#>88 * <Thread>967988 #> 127.0.0.1 - - [28/Dec/2018 16:49:57] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 16:49:57: <F#>_internal.py:<L#>88 * <Thread>967972 #> 127.0.0.1 - - [28/Dec/2018 16:49:57] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 16:49:57: <F#>_internal.py:<L#>88 * <Thread>968128 #> 127.0.0.1 - - [28/Dec/2018 16:49:57] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 16:49:58: <F#>_internal.py:<L#>88 * <Thread>967976 #> 127.0.0.1 - - [28/Dec/2018 16:49:58] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:34: <F#>manage.py:<L#>29 * <Thread>446500 #> logging starts
+INFO: 2018-12-28 17:32:34: <F#>base.py:<L#>162 * <Thread>446500 #> Scheduler started
+INFO: 2018-12-28 17:32:34: <F#>_internal.py:<L#>88 * <Thread>446500 #>  * Restarting with stat
+INFO: 2018-12-28 17:32:36: <F#>manage.py:<L#>29 * <Thread>969864 #> logging starts
+INFO: 2018-12-28 17:32:36: <F#>base.py:<L#>162 * <Thread>969864 #> Scheduler started
+WARNING: 2018-12-28 17:32:36: <F#>_internal.py:<L#>88 * <Thread>969864 #>  * Debugger is active!
+INFO: 2018-12-28 17:32:36: <F#>_internal.py:<L#>88 * <Thread>969864 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 17:32:36: <F#>_internal.py:<L#>88 * <Thread>471156 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 17:32:38: <F#>_internal.py:<L#>88 * <Thread>970628 #> 127.0.0.1 - - [28/Dec/2018 17:32:38] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:39: <F#>_internal.py:<L#>88 * <Thread>932948 #> 127.0.0.1 - - [28/Dec/2018 17:32:39] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:39: <F#>_internal.py:<L#>88 * <Thread>6112 #> 127.0.0.1 - - [28/Dec/2018 17:32:39] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:39: <F#>_internal.py:<L#>88 * <Thread>428856 #> 127.0.0.1 - - [28/Dec/2018 17:32:39] "GET /static/admin/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:39: <F#>_internal.py:<L#>88 * <Thread>952832 #> 127.0.0.1 - - [28/Dec/2018 17:32:39] "GET /static/admin/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:40: <F#>_internal.py:<L#>88 * <Thread>434652 #> 127.0.0.1 - - [28/Dec/2018 17:32:40] "GET /static/admin/admin/css/bootstrap3/submenu.css HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:40: <F#>_internal.py:<L#>88 * <Thread>969564 #> 127.0.0.1 - - [28/Dec/2018 17:32:40] "GET /static/admin/bootstrap/bootstrap3/js/bootstrap.min.js?v=3.3.5 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:40: <F#>_internal.py:<L#>88 * <Thread>4444 #> 127.0.0.1 - - [28/Dec/2018 17:32:40] "GET /static/admin/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:40: <F#>_internal.py:<L#>88 * <Thread>959364 #> 127.0.0.1 - - [28/Dec/2018 17:32:40] "GET /static/admin/admin/css/bootstrap3/admin.css?v=1.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:40: <F#>_internal.py:<L#>88 * <Thread>12568 #> 127.0.0.1 - - [28/Dec/2018 17:32:40] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-28 17:32:41: <F#>_internal.py:<L#>88 * <Thread>11324 #> 127.0.0.1 - - [28/Dec/2018 17:32:41] "GET /myloginview/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:43: <F#>_internal.py:<L#>88 * <Thread>972796 #> 127.0.0.1 - - [28/Dec/2018 17:32:43] "POST /myloginview/ HTTP/1.1" 302 -
+INFO: 2018-12-28 17:32:43: <F#>_internal.py:<L#>88 * <Thread>964672 #> 127.0.0.1 - - [28/Dec/2018 17:32:43] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:43: <F#>_internal.py:<L#>88 * <Thread>955592 #> 127.0.0.1 - - [28/Dec/2018 17:32:43] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>173832 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>802844 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>952464 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>653396 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>971852 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>970280 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>970908 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:44: <F#>_internal.py:<L#>88 * <Thread>972404 #> 127.0.0.1 - - [28/Dec/2018 17:32:44] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:45: <F#>_internal.py:<L#>88 * <Thread>964568 #> 127.0.0.1 - - [28/Dec/2018 17:32:45] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:46: <F#>_internal.py:<L#>88 * <Thread>972712 #> 127.0.0.1 - - [28/Dec/2018 17:32:46] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:56: <F#>_internal.py:<L#>88 * <Thread>680240 #> 127.0.0.1 - - [28/Dec/2018 17:32:56] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 17:32:56: <F#>_internal.py:<L#>88 * <Thread>966460 #> 127.0.0.1 - - [28/Dec/2018 17:32:56] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:56: <F#>_internal.py:<L#>88 * <Thread>9684 #> 127.0.0.1 - - [28/Dec/2018 17:32:56] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:56: <F#>_internal.py:<L#>88 * <Thread>462168 #> 127.0.0.1 - - [28/Dec/2018 17:32:56] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:32:56: <F#>_internal.py:<L#>88 * <Thread>912936 #> 127.0.0.1 - - [28/Dec/2018 17:32:56] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:57:41: <F#>_internal.py:<L#>88 * <Thread>969864 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\models\\dbs.py', reloading
+INFO: 2018-12-28 17:57:41: <F#>_internal.py:<L#>88 * <Thread>446500 #>  * Restarting with stat
+INFO: 2018-12-28 17:57:59: <F#>manage.py:<L#>29 * <Thread>98560 #> logging starts
+INFO: 2018-12-28 17:58:00: <F#>base.py:<L#>162 * <Thread>98560 #> Scheduler started
+INFO: 2018-12-28 17:58:00: <F#>_internal.py:<L#>88 * <Thread>98560 #>  * Restarting with stat
+INFO: 2018-12-28 17:58:01: <F#>manage.py:<L#>29 * <Thread>30236 #> logging starts
+INFO: 2018-12-28 17:58:01: <F#>base.py:<L#>162 * <Thread>30236 #> Scheduler started
+WARNING: 2018-12-28 17:58:01: <F#>_internal.py:<L#>88 * <Thread>30236 #>  * Debugger is active!
+INFO: 2018-12-28 17:58:01: <F#>_internal.py:<L#>88 * <Thread>30236 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 17:58:01: <F#>_internal.py:<L#>88 * <Thread>973308 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 17:58:08: <F#>_internal.py:<L#>88 * <Thread>973600 #> 127.0.0.1 - - [28/Dec/2018 17:58:08] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:11: <F#>_internal.py:<L#>88 * <Thread>480148 #> 127.0.0.1 - - [28/Dec/2018 17:58:11] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:13: <F#>_internal.py:<L#>88 * <Thread>970504 #> 127.0.0.1 - - [28/Dec/2018 17:58:13] "GET /shellfile/ HTTP/1.1" 200 -
+WARNING: 2018-12-28 17:58:16: <F#>dbs.py:<L#>141 * <Thread>973788 #> Delete Shell Filebp.bat failed!
+WARNING: 2018-12-28 17:58:16: <F#>dbs.py:<L#>141 * <Thread>973788 #> Delete Shell Filebp.bat failed!
+WARNING: 2018-12-28 17:58:16: <F#>dbs.py:<L#>141 * <Thread>973788 #> Delete Shell Filebp3.bat failed!
+INFO: 2018-12-28 17:58:16: <F#>_internal.py:<L#>88 * <Thread>973788 #> 127.0.0.1 - - [28/Dec/2018 17:58:16] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 17:58:16: <F#>_internal.py:<L#>88 * <Thread>960784 #> 127.0.0.1 - - [28/Dec/2018 17:58:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:17: <F#>_internal.py:<L#>88 * <Thread>828892 #> 127.0.0.1 - - [28/Dec/2018 17:58:17] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:18: <F#>_internal.py:<L#>88 * <Thread>969824 #> 127.0.0.1 - - [28/Dec/2018 17:58:18] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:18: <F#>_internal.py:<L#>88 * <Thread>972712 #> 127.0.0.1 - - [28/Dec/2018 17:58:18] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:19: <F#>_internal.py:<L#>88 * <Thread>970672 #> 127.0.0.1 - - [28/Dec/2018 17:58:19] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:27: <F#>_internal.py:<L#>88 * <Thread>973296 #> 127.0.0.1 - - [28/Dec/2018 17:58:27] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 17:58:27: <F#>_internal.py:<L#>88 * <Thread>972956 #> 127.0.0.1 - - [28/Dec/2018 17:58:27] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:27: <F#>_internal.py:<L#>88 * <Thread>965272 #> 127.0.0.1 - - [28/Dec/2018 17:58:27] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:27: <F#>_internal.py:<L#>88 * <Thread>970504 #> 127.0.0.1 - - [28/Dec/2018 17:58:27] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 17:58:27: <F#>_internal.py:<L#>88 * <Thread>433764 #> 127.0.0.1 - - [28/Dec/2018 17:58:27] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:01:36: <F#>manage.py:<L#>29 * <Thread>973600 #> logging starts
+INFO: 2018-12-28 18:01:37: <F#>manage.py:<L#>29 * <Thread>973600 #> logging starts
+INFO: 2018-12-28 18:01:56: <F#>manage.py:<L#>29 * <Thread>966180 #> logging starts
+INFO: 2018-12-28 18:01:56: <F#>base.py:<L#>162 * <Thread>966180 #> Scheduler started
+WARNING: 2018-12-28 18:01:56: <F#>manage.py:<L#>183 * <Thread>966180 #> Add Job <[baas.jobs.jobs:job1-1]> baas.jobs.jobs:job1
+INFO: 2018-12-28 18:01:56: <F#>base.py:<L#>878 * <Thread>966180 #> Added job "[baas.jobs.jobs:job1-1]" to job store "default"
+WARNING: 2018-12-28 18:01:56: <F#>manage.py:<L#>183 * <Thread>966180 #> Add Job <[baas.jobs.jobs:shell_job]> baas.jobs.jobs:shell_job
+INFO: 2018-12-28 18:01:56: <F#>base.py:<L#>878 * <Thread>966180 #> Added job "[baas.jobs.jobs:shell_job]" to job store "default"
+INFO: 2018-12-28 18:01:56: <F#>_internal.py:<L#>88 * <Thread>966180 #>  * Restarting with stat
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:00 CST)" (scheduled at 2018-12-28 18:01:58+08:00)
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:00 CST)" (scheduled at 2018-12-28 18:01:58+08:00)
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:00 CST)" executed successfully
+ERROR: 2018-12-28 18:01:58: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:01:58: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:00 CST)" executed successfully
+INFO: 2018-12-28 18:01:58: <F#>manage.py:<L#>29 * <Thread>970572 #> logging starts
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>162 * <Thread>970572 #> Scheduler started
+WARNING: 2018-12-28 18:01:58: <F#>manage.py:<L#>183 * <Thread>970572 #> Add Job <[baas.jobs.jobs:job1-1]> baas.jobs.jobs:job1
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>878 * <Thread>970572 #> Added job "[baas.jobs.jobs:job1-1]" to job store "default"
+WARNING: 2018-12-28 18:01:58: <F#>manage.py:<L#>183 * <Thread>970572 #> Add Job <[baas.jobs.jobs:shell_job]> baas.jobs.jobs:shell_job
+INFO: 2018-12-28 18:01:58: <F#>base.py:<L#>878 * <Thread>970572 #> Added job "[baas.jobs.jobs:shell_job]" to job store "default"
+WARNING: 2018-12-28 18:01:58: <F#>_internal.py:<L#>88 * <Thread>970572 #>  * Debugger is active!
+INFO: 2018-12-28 18:01:58: <F#>_internal.py:<L#>88 * <Thread>970572 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 18:01:58: <F#>_internal.py:<L#>88 * <Thread>973844 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 18:01:59: <F#>_internal.py:<L#>88 * <Thread>973992 #> 127.0.0.1 - - [28/Dec/2018 18:01:59] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:00 CST)" (scheduled at 2018-12-28 18:02:00+08:00)
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" executed successfully
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" (scheduled at 2018-12-28 18:02:00+08:00)
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" executed successfully
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>123 * <Thread>974020 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" (scheduled at 2018-12-28 18:02:00+08:00)
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>123 * <Thread>974024 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" (scheduled at 2018-12-28 18:02:00+08:00)
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>144 * <Thread>974020 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" executed successfully
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>89 * <Thread>974024 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>90 * <Thread>974024 #> [Error 2] 
+INFO: 2018-12-28 18:02:00: <F#>base.py:<L#>144 * <Thread>974024 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:02 CST)" executed successfully
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" (scheduled at 2018-12-28 18:02:02+08:00)
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>123 * <Thread>974020 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" (scheduled at 2018-12-28 18:02:02+08:00)
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" (scheduled at 2018-12-28 18:02:02+08:00)
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" executed successfully
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>123 * <Thread>974024 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" (scheduled at 2018-12-28 18:02:02+08:00)
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" executed successfully
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>144 * <Thread>974020 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" executed successfully
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>89 * <Thread>974024 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>90 * <Thread>974024 #> [Error 2] 
+INFO: 2018-12-28 18:02:02: <F#>base.py:<L#>144 * <Thread>974024 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:04 CST)" executed successfully
+INFO: 2018-12-28 18:02:02: <F#>_internal.py:<L#>88 * <Thread>973996 #> 127.0.0.1 - - [28/Dec/2018 18:02:02] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:03: <F#>_internal.py:<L#>88 * <Thread>974056 #> 127.0.0.1 - - [28/Dec/2018 18:02:03] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" (scheduled at 2018-12-28 18:02:04+08:00)
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>123 * <Thread>974048 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" (scheduled at 2018-12-28 18:02:04+08:00)
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" (scheduled at 2018-12-28 18:02:04+08:00)
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" executed successfully
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>123 * <Thread>974052 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" (scheduled at 2018-12-28 18:02:04+08:00)
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" executed successfully
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>144 * <Thread>974048 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" executed successfully
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>89 * <Thread>974052 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>90 * <Thread>974052 #> [Error 2] 
+INFO: 2018-12-28 18:02:04: <F#>base.py:<L#>144 * <Thread>974052 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" executed successfully
+INFO: 2018-12-28 18:02:04: <F#>_internal.py:<L#>88 * <Thread>974072 #> 127.0.0.1 - - [28/Dec/2018 18:02:04] "GET /static/admin/vendor/x-editable/css/bootstrap3-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:04: <F#>_internal.py:<L#>88 * <Thread>974084 #> 127.0.0.1 - - [28/Dec/2018 18:02:04] "GET /static/admin/vendor/x-editable/js/bootstrap3-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>123 * <Thread>974040 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" (scheduled at 2018-12-28 18:02:06+08:00)
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>144 * <Thread>974040 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:08 CST)" executed successfully
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>123 * <Thread>974020 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:06 CST)" (scheduled at 2018-12-28 18:02:06+08:00)
+)
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>144 * <Thread>974044 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:08 CST)" executed successfully
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>144 * <Thread>974020 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:08 CST)" executed successfully
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>123 * <Thread>974024 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:08 CST)" (scheduled at 2018-12-28 18:02:06+08:00)
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>89 * <Thread>974024 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>90 * <Thread>974024 #> [Error 2] 
+INFO: 2018-12-28 18:02:06: <F#>base.py:<L#>144 * <Thread>974024 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:08 CST)" executed successfully
+INFO: 2018-12-28 18:02:07: <F#>base.py:<L#>624 * <Thread>974316 #> Removed job [baas.jobs.jobs:job1-1]
+INFO: 2018-12-28 18:02:07: <F#>base.py:<L#>624 * <Thread>974316 #> Removed job [baas.jobs.jobs:shell_job]
+INFO: 2018-12-28 18:02:08: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:10 CST)" (scheduled at 2018-12-28 18:02:08+08:00)
+INFO: 2018-12-28 18:02:08: <F#>_internal.py:<L#>88 * <Thread>974316 #> 127.0.0.1 - - [28/Dec/2018 18:02:08] "POST /apsjobs/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:02:08: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:10 CST)" (scheduled at 2018-12-28 18:02:08+08:00)
+INFO: 2018-12-28 18:02:08: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:10 CST)" executed successfully
+ERROR: 2018-12-28 18:02:08: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:08: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:08: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:10 CST)" executed successfully
+INFO: 2018-12-28 18:02:08: <F#>_internal.py:<L#>88 * <Thread>974320 #> 127.0.0.1 - - [28/Dec/2018 18:02:08] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:08: <F#>_internal.py:<L#>88 * <Thread>974404 #> 127.0.0.1 - - [28/Dec/2018 18:02:08] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:08: <F#>_internal.py:<L#>88 * <Thread>974408 #> 127.0.0.1 - - [28/Dec/2018 18:02:08] "GET /static/admin/vendor/x-editable/css/bootstrap3-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:08: <F#>_internal.py:<L#>88 * <Thread>974476 #> 127.0.0.1 - - [28/Dec/2018 18:02:08] "GET /apsjoblogs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:10: <F#>base.py:<L#>123 * <Thread>974088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:12 CST)" (scheduled at 2018-12-28 18:02:10+08:00)
+INFO: 2018-12-28 18:02:10: <F#>base.py:<L#>123 * <Thread>974096 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:12 CST)" (scheduled at 2018-12-28 18:02:10+08:00)
+INFO: 2018-12-28 18:02:10: <F#>base.py:<L#>144 * <Thread>974088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:12 CST)" executed successfully
+ERROR: 2018-12-28 18:02:10: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:10: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+INFO: 2018-12-28 18:02:10: <F#>base.py:<L#>144 * <Thread>974096 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:12 CST)" executed successfully
+INFO: 2018-12-28 18:02:11: <F#>_internal.py:<L#>88 * <Thread>974480 #> 127.0.0.1 - - [28/Dec/2018 18:02:11] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:12: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:14 CST)" (scheduled at 2018-12-28 18:02:12+08:00)
+INFO: 2018-12-28 18:02:12: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:14 CST)" (scheduled at 2018-12-28 18:02:12+08:00)
+INFO: 2018-12-28 18:02:12: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:14 CST)" executed successfully
+ERROR: 2018-12-28 18:02:12: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:12: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:12: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:14 CST)" executed successfully
+INFO: 2018-12-28 18:02:12: <F#>_internal.py:<L#>88 * <Thread>974552 #> 127.0.0.1 - - [28/Dec/2018 18:02:12] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:14: <F#>base.py:<L#>123 * <Thread>974168 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:16 CST)" (scheduled at 2018-12-28 18:02:14+08:00)
+INFO: 2018-12-28 18:02:14: <F#>base.py:<L#>123 * <Thread>974172 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:16 CST)" (scheduled at 2018-12-28 18:02:14+08:00)
+INFO: 2018-12-28 18:02:14: <F#>base.py:<L#>144 * <Thread>974168 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:16 CST)" executed successfully
+ERROR: 2018-12-28 18:02:14: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:14: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+INFO: 2018-12-28 18:02:14: <F#>base.py:<L#>144 * <Thread>974172 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:16 CST)" executed successfully
+INFO: 2018-12-28 18:02:16: <F#>base.py:<L#>123 * <Thread>974040 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:18 CST)" (scheduled at 2018-12-28 18:02:16+08:00)
+INFO: 2018-12-28 18:02:16: <F#>base.py:<L#>123 * <Thread>974044 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:18 CST)" (scheduled at 2018-12-28 18:02:16+08:00)
+INFO: 2018-12-28 18:02:16: <F#>base.py:<L#>144 * <Thread>974040 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:18 CST)" executed successfully
+ERROR: 2018-12-28 18:02:16: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:16: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+INFO: 2018-12-28 18:02:16: <F#>base.py:<L#>144 * <Thread>974044 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:18 CST)" executed successfully
+INFO: 2018-12-28 18:02:18: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:20 CST)" (scheduled at 2018-12-28 18:02:18+08:00)
+INFO: 2018-12-28 18:02:18: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:20 CST)" (scheduled at 2018-12-28 18:02:18+08:00)
+INFO: 2018-12-28 18:02:18: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:20 CST)" executed successfully
+ERROR: 2018-12-28 18:02:18: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:18: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:18: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:20 CST)" executed successfully
+WARNING: 2018-12-28 18:02:18: <F#>dbs.py:<L#>141 * <Thread>974564 #> Delete Shell Filebp.sh failed!
+WARNING: 2018-12-28 18:02:18: <F#>dbs.py:<L#>141 * <Thread>974564 #> Delete Shell Filebefore.sh failed!
+WARNING: 2018-12-28 18:02:18: <F#>dbs.py:<L#>141 * <Thread>974564 #> Delete Shell Fileafter.sh failed!
+INFO: 2018-12-28 18:02:18: <F#>_internal.py:<L#>88 * <Thread>974564 #> 127.0.0.1 - - [28/Dec/2018 18:02:18] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:02:18: <F#>_internal.py:<L#>88 * <Thread>974772 #> 127.0.0.1 - - [28/Dec/2018 18:02:18] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:20: <F#>base.py:<L#>123 * <Thread>974088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:22 CST)" (scheduled at 2018-12-28 18:02:20+08:00)
+INFO: 2018-12-28 18:02:20: <F#>base.py:<L#>123 * <Thread>974096 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:22 CST)" (scheduled at 2018-12-28 18:02:20+08:00)
+INFO: 2018-12-28 18:02:20: <F#>base.py:<L#>144 * <Thread>974088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:22 CST)" executed successfully
+ERROR: 2018-12-28 18:02:20: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:20: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+INFO: 2018-12-28 18:02:20: <F#>base.py:<L#>144 * <Thread>974096 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:22 CST)" executed successfully
+INFO: 2018-12-28 18:02:20: <F#>_internal.py:<L#>88 * <Thread>967616 #> 127.0.0.1 - - [28/Dec/2018 18:02:20] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:20: <F#>_internal.py:<L#>88 * <Thread>973868 #> 127.0.0.1 - - [28/Dec/2018 18:02:20] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:21: <F#>_internal.py:<L#>88 * <Thread>973968 #> 127.0.0.1 - - [28/Dec/2018 18:02:21] "GET /shellparam/new/?url=%2Fshellparam%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:21: <F#>_internal.py:<L#>88 * <Thread>973964 #> 127.0.0.1 - - [28/Dec/2018 18:02:21] "GET /static/admin/vendor/select2/select2.png HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:22: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:24 CST)" (scheduled at 2018-12-28 18:02:22+08:00)
+INFO: 2018-12-28 18:02:22: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:24 CST)" (scheduled at 2018-12-28 18:02:22+08:00)
+INFO: 2018-12-28 18:02:22: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:24 CST)" executed successfully
+ERROR: 2018-12-28 18:02:22: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:22: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:22: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:24 CST)" executed successfully
+INFO: 2018-12-28 18:02:22: <F#>_internal.py:<L#>88 * <Thread>973912 #> 127.0.0.1 - - [28/Dec/2018 18:02:22] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:22: <F#>_internal.py:<L#>88 * <Thread>973920 #> 127.0.0.1 - - [28/Dec/2018 18:02:22] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:22: <F#>_internal.py:<L#>88 * <Thread>973924 #> 127.0.0.1 - - [28/Dec/2018 18:02:22] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:23: <F#>_internal.py:<L#>88 * <Thread>973864 #> 127.0.0.1 - - [28/Dec/2018 18:02:23] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:24: <F#>base.py:<L#>123 * <Thread>974168 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:26 CST)" (scheduled at 2018-12-28 18:02:24+08:00)
+INFO: 2018-12-28 18:02:24: <F#>base.py:<L#>123 * <Thread>974172 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:26 CST)" (scheduled at 2018-12-28 18:02:24+08:00)
+INFO: 2018-12-28 18:02:24: <F#>base.py:<L#>144 * <Thread>974168 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:26 CST)" executed successfully
+ERROR: 2018-12-28 18:02:24: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:24: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+INFO: 2018-12-28 18:02:24: <F#>base.py:<L#>144 * <Thread>974172 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:26 CST)" executed successfully
+INFO: 2018-12-28 18:02:26: <F#>base.py:<L#>123 * <Thread>974040 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:28 CST)" (scheduled at 2018-12-28 18:02:26+08:00)
+INFO: 2018-12-28 18:02:26: <F#>base.py:<L#>123 * <Thread>974044 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:28 CST)" (scheduled at 2018-12-28 18:02:26+08:00)
+INFO: 2018-12-28 18:02:26: <F#>base.py:<L#>144 * <Thread>974040 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:28 CST)" executed successfully
+ERROR: 2018-12-28 18:02:26: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:26: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+INFO: 2018-12-28 18:02:26: <F#>base.py:<L#>144 * <Thread>974044 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:28 CST)" executed successfully
+INFO: 2018-12-28 18:02:28: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:30 CST)" (scheduled at 2018-12-28 18:02:28+08:00)
+INFO: 2018-12-28 18:02:28: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:30 CST)" (scheduled at 2018-12-28 18:02:28+08:00)
+INFO: 2018-12-28 18:02:28: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:30 CST)" executed successfully
+ERROR: 2018-12-28 18:02:28: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:28: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:28: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:30 CST)" executed successfully
+INFO: 2018-12-28 18:02:30: <F#>base.py:<L#>123 * <Thread>974088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:32 CST)" (scheduled at 2018-12-28 18:02:30+08:00)
+INFO: 2018-12-28 18:02:30: <F#>base.py:<L#>123 * <Thread>974096 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:32 CST)" (scheduled at 2018-12-28 18:02:30+08:00)
+INFO: 2018-12-28 18:02:30: <F#>base.py:<L#>144 * <Thread>974088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:32 CST)" executed successfully
+ERROR: 2018-12-28 18:02:30: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:30: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+INFO: 2018-12-28 18:02:30: <F#>base.py:<L#>144 * <Thread>974096 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:32 CST)" executed successfully
+INFO: 2018-12-28 18:02:30: <F#>_internal.py:<L#>88 * <Thread>973860 #> 127.0.0.1 - - [28/Dec/2018 18:02:30] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 18:02:30: <F#>_internal.py:<L#>88 * <Thread>974228 #> 127.0.0.1 - - [28/Dec/2018 18:02:30] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:30: <F#>_internal.py:<L#>88 * <Thread>974356 #> 127.0.0.1 - - [28/Dec/2018 18:02:30] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:32: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:34 CST)" (scheduled at 2018-12-28 18:02:32+08:00)
+INFO: 2018-12-28 18:02:32: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:34 CST)" (scheduled at 2018-12-28 18:02:32+08:00)
+INFO: 2018-12-28 18:02:32: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:34 CST)" executed successfully
+ERROR: 2018-12-28 18:02:32: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:32: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:32: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:34 CST)" executed successfully
+INFO: 2018-12-28 18:02:34: <F#>base.py:<L#>123 * <Thread>974168 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:36 CST)" (scheduled at 2018-12-28 18:02:34+08:00)
+INFO: 2018-12-28 18:02:34: <F#>base.py:<L#>123 * <Thread>974172 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:36 CST)" (scheduled at 2018-12-28 18:02:34+08:00)
+INFO: 2018-12-28 18:02:34: <F#>base.py:<L#>144 * <Thread>974168 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:36 CST)" executed successfully
+ERROR: 2018-12-28 18:02:34: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:34: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+INFO: 2018-12-28 18:02:34: <F#>base.py:<L#>144 * <Thread>974172 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:36 CST)" executed successfully
+INFO: 2018-12-28 18:02:35: <F#>_internal.py:<L#>88 * <Thread>974628 #> 127.0.0.1 - - [28/Dec/2018 18:02:35] "GET /apsjoblogs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:36: <F#>base.py:<L#>123 * <Thread>974040 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:38 CST)" (scheduled at 2018-12-28 18:02:36+08:00)
+INFO: 2018-12-28 18:02:36: <F#>base.py:<L#>123 * <Thread>974044 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:38 CST)" (scheduled at 2018-12-28 18:02:36+08:00)
+INFO: 2018-12-28 18:02:36: <F#>base.py:<L#>144 * <Thread>974040 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:38 CST)" executed successfully
+ERROR: 2018-12-28 18:02:36: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:36: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+INFO: 2018-12-28 18:02:36: <F#>base.py:<L#>144 * <Thread>974044 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:38 CST)" executed successfully
+INFO: 2018-12-28 18:02:38: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:40 CST)" (scheduled at 2018-12-28 18:02:38+08:00)
+INFO: 2018-12-28 18:02:38: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:40 CST)" (scheduled at 2018-12-28 18:02:38+08:00)
+INFO: 2018-12-28 18:02:38: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:40 CST)" executed successfully
+ERROR: 2018-12-28 18:02:38: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:38: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:38: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:40 CST)" executed successfully
+INFO: 2018-12-28 18:02:40: <F#>base.py:<L#>123 * <Thread>974088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:42 CST)" (scheduled at 2018-12-28 18:02:40+08:00)
+INFO: 2018-12-28 18:02:40: <F#>base.py:<L#>123 * <Thread>974096 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:42 CST)" (scheduled at 2018-12-28 18:02:40+08:00)
+INFO: 2018-12-28 18:02:40: <F#>base.py:<L#>144 * <Thread>974088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:42 CST)" executed successfully
+ERROR: 2018-12-28 18:02:40: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:40: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+INFO: 2018-12-28 18:02:40: <F#>base.py:<L#>144 * <Thread>974096 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:42 CST)" executed successfully
+INFO: 2018-12-28 18:02:41: <F#>_internal.py:<L#>88 * <Thread>974716 #> 127.0.0.1 - - [28/Dec/2018 18:02:41] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:41: <F#>_internal.py:<L#>88 * <Thread>974564 #> 127.0.0.1 - - [28/Dec/2018 18:02:41] "GET /static/admin/vendor/x-editable/css/bootstrap3-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:41: <F#>_internal.py:<L#>88 * <Thread>974772 #> 127.0.0.1 - - [28/Dec/2018 18:02:41] "GET /static/admin/vendor/x-editable/js/bootstrap3-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:42: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:44 CST)" (scheduled at 2018-12-28 18:02:42+08:00)
+INFO: 2018-12-28 18:02:42: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:44 CST)" (scheduled at 2018-12-28 18:02:42+08:00)
+INFO: 2018-12-28 18:02:42: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:44 CST)" executed successfully
+ERROR: 2018-12-28 18:02:42: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:42: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:42: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:44 CST)" executed successfully
+INFO: 2018-12-28 18:02:42: <F#>_internal.py:<L#>88 * <Thread>973948 #> 127.0.0.1 - - [28/Dec/2018 18:02:42] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:44: <F#>base.py:<L#>123 * <Thread>974168 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:46 CST)" (scheduled at 2018-12-28 18:02:44+08:00)
+INFO: 2018-12-28 18:02:44: <F#>base.py:<L#>123 * <Thread>974172 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:46 CST)" (scheduled at 2018-12-28 18:02:44+08:00)
+INFO: 2018-12-28 18:02:44: <F#>base.py:<L#>144 * <Thread>974168 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:46 CST)" executed successfully
+ERROR: 2018-12-28 18:02:44: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:44: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+INFO: 2018-12-28 18:02:44: <F#>base.py:<L#>144 * <Thread>974172 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:46 CST)" executed successfully
+INFO: 2018-12-28 18:02:46: <F#>base.py:<L#>123 * <Thread>974040 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:48 CST)" (scheduled at 2018-12-28 18:02:46+08:00)
+INFO: 2018-12-28 18:02:46: <F#>base.py:<L#>123 * <Thread>974044 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:48 CST)" (scheduled at 2018-12-28 18:02:46+08:00)
+INFO: 2018-12-28 18:02:46: <F#>base.py:<L#>144 * <Thread>974040 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:48 CST)" executed successfully
+ERROR: 2018-12-28 18:02:46: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:46: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+INFO: 2018-12-28 18:02:46: <F#>base.py:<L#>144 * <Thread>974044 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:48 CST)" executed successfully
+INFO: 2018-12-28 18:02:48: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:50 CST)" (scheduled at 2018-12-28 18:02:48+08:00)
+INFO: 2018-12-28 18:02:48: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:50 CST)" (scheduled at 2018-12-28 18:02:48+08:00)
+INFO: 2018-12-28 18:02:48: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:50 CST)" executed successfully
+ERROR: 2018-12-28 18:02:48: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:48: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:48: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:50 CST)" executed successfully
+INFO: 2018-12-28 18:02:50: <F#>base.py:<L#>123 * <Thread>974088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:52 CST)" (scheduled at 2018-12-28 18:02:50+08:00)
+INFO: 2018-12-28 18:02:50: <F#>base.py:<L#>123 * <Thread>974096 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:52 CST)" (scheduled at 2018-12-28 18:02:50+08:00)
+INFO: 2018-12-28 18:02:50: <F#>base.py:<L#>144 * <Thread>974088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:52 CST)" executed successfully
+ERROR: 2018-12-28 18:02:50: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:50: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+INFO: 2018-12-28 18:02:50: <F#>base.py:<L#>144 * <Thread>974096 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:52 CST)" executed successfully
+INFO: 2018-12-28 18:02:52: <F#>base.py:<L#>123 * <Thread>972088 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:54 CST)" (scheduled at 2018-12-28 18:02:52+08:00)
+INFO: 2018-12-28 18:02:52: <F#>base.py:<L#>123 * <Thread>972276 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:54 CST)" (scheduled at 2018-12-28 18:02:52+08:00)
+INFO: 2018-12-28 18:02:52: <F#>base.py:<L#>144 * <Thread>972088 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:54 CST)" executed successfully
+ERROR: 2018-12-28 18:02:52: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:52: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+INFO: 2018-12-28 18:02:52: <F#>base.py:<L#>144 * <Thread>972276 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:54 CST)" executed successfully
+INFO: 2018-12-28 18:02:53: <F#>_internal.py:<L#>88 * <Thread>974528 #> 127.0.0.1 - - [28/Dec/2018 18:02:53] "GET /mylogoutview/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:02:53: <F#>_internal.py:<L#>88 * <Thread>974448 #> 127.0.0.1 - - [28/Dec/2018 18:02:53] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 18:02:54: <F#>base.py:<L#>123 * <Thread>974168 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:56 CST)" (scheduled at 2018-12-28 18:02:54+08:00)
+INFO: 2018-12-28 18:02:54: <F#>base.py:<L#>123 * <Thread>974172 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:56 CST)" (scheduled at 2018-12-28 18:02:54+08:00)
+INFO: 2018-12-28 18:02:54: <F#>base.py:<L#>144 * <Thread>974168 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:56 CST)" executed successfully
+ERROR: 2018-12-28 18:02:54: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:54: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+INFO: 2018-12-28 18:02:54: <F#>base.py:<L#>144 * <Thread>974172 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:56 CST)" executed successfully
+INFO: 2018-12-28 18:02:56: <F#>base.py:<L#>123 * <Thread>974040 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:58 CST)" (scheduled at 2018-12-28 18:02:56+08:00)
+INFO: 2018-12-28 18:02:56: <F#>base.py:<L#>123 * <Thread>974044 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:58 CST)" (scheduled at 2018-12-28 18:02:56+08:00)
+INFO: 2018-12-28 18:02:56: <F#>base.py:<L#>144 * <Thread>974040 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:58 CST)" executed successfully
+ERROR: 2018-12-28 18:02:56: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:56: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+INFO: 2018-12-28 18:02:56: <F#>base.py:<L#>144 * <Thread>974044 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:02:58 CST)" executed successfully
+INFO: 2018-12-28 18:02:58: <F#>base.py:<L#>123 * <Thread>974012 #> Running job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:03:00 CST)" (scheduled at 2018-12-28 18:02:58+08:00)
+INFO: 2018-12-28 18:02:58: <F#>base.py:<L#>123 * <Thread>974016 #> Running job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:03:00 CST)" (scheduled at 2018-12-28 18:02:58+08:00)
+INFO: 2018-12-28 18:02:58: <F#>base.py:<L#>144 * <Thread>974012 #> Job "[baas.jobs.jobs:job1-1] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:03:00 CST)" executed successfully
+ERROR: 2018-12-28 18:02:58: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:58: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+INFO: 2018-12-28 18:02:58: <F#>base.py:<L#>144 * <Thread>974016 #> Job "[baas.jobs.jobs:shell_job] (trigger: cron[year='*', month='*', day='*', day_of_week='*', hour='*', minute='*', second='*/2'], next run at: 2018-12-28 18:03:00 CST)" executed successfully
+INFO: 2018-12-28 18:03:01: <F#>manage.py:<L#>29 * <Thread>974840 #> logging starts
+INFO: 2018-12-28 18:03:01: <F#>base.py:<L#>162 * <Thread>974840 #> Scheduler started
+INFO: 2018-12-28 18:03:01: <F#>_internal.py:<L#>88 * <Thread>974840 #>  * Restarting with stat
+INFO: 2018-12-28 18:03:02: <F#>manage.py:<L#>29 * <Thread>973544 #> logging starts
+INFO: 2018-12-28 18:03:02: <F#>base.py:<L#>162 * <Thread>973544 #> Scheduler started
+WARNING: 2018-12-28 18:03:02: <F#>_internal.py:<L#>88 * <Thread>973544 #>  * Debugger is active!
+INFO: 2018-12-28 18:03:03: <F#>_internal.py:<L#>88 * <Thread>973544 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 18:03:03: <F#>_internal.py:<L#>88 * <Thread>974268 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 18:03:03: <F#>_internal.py:<L#>88 * <Thread>974280 #> 127.0.0.1 - - [28/Dec/2018 18:03:03] "GET /myloginview/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:04: <F#>_internal.py:<L#>88 * <Thread>974276 #> 127.0.0.1 - - [28/Dec/2018 18:03:04] "POST /myloginview/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:03:04: <F#>_internal.py:<L#>88 * <Thread>974288 #> 127.0.0.1 - - [28/Dec/2018 18:03:04] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:08: <F#>_internal.py:<L#>88 * <Thread>974620 #> 127.0.0.1 - - [28/Dec/2018 18:03:08] "GET /apsjoblogs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974640 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974224 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974624 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974212 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>973844 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974592 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>968684 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>970196 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974704 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/vendor/x-editable/css/bootstrap3-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:10: <F#>_internal.py:<L#>88 * <Thread>974808 #> 127.0.0.1 - - [28/Dec/2018 18:03:10] "GET /static/admin/vendor/x-editable/js/bootstrap3-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:11: <F#>_internal.py:<L#>88 * <Thread>974836 #> 127.0.0.1 - - [28/Dec/2018 18:03:11] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:12: <F#>_internal.py:<L#>88 * <Thread>974260 #> 127.0.0.1 - - [28/Dec/2018 18:03:12] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:13: <F#>_internal.py:<L#>88 * <Thread>974376 #> 127.0.0.1 - - [28/Dec/2018 18:03:13] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:13: <F#>_internal.py:<L#>88 * <Thread>973912 #> 127.0.0.1 - - [28/Dec/2018 18:03:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:15: <F#>_internal.py:<L#>88 * <Thread>973864 #> 127.0.0.1 - - [28/Dec/2018 18:03:15] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:21: <F#>_internal.py:<L#>88 * <Thread>973940 #> 127.0.0.1 - - [28/Dec/2018 18:03:21] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 18:03:21: <F#>_internal.py:<L#>88 * <Thread>974148 #> 127.0.0.1 - - [28/Dec/2018 18:03:21] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:21: <F#>_internal.py:<L#>88 * <Thread>972856 #> 127.0.0.1 - - [28/Dec/2018 18:03:21] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:21: <F#>_internal.py:<L#>88 * <Thread>973464 #> 127.0.0.1 - - [28/Dec/2018 18:03:21] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:21: <F#>_internal.py:<L#>88 * <Thread>972392 #> 127.0.0.1 - - [28/Dec/2018 18:03:21] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:25: <F#>_internal.py:<L#>88 * <Thread>969868 #> 127.0.0.1 - - [28/Dec/2018 18:03:25] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:32: <F#>_internal.py:<L#>88 * <Thread>484220 #> 127.0.0.1 - - [28/Dec/2018 18:03:32] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 18:03:32: <F#>_internal.py:<L#>88 * <Thread>974096 #> 127.0.0.1 - - [28/Dec/2018 18:03:32] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:32: <F#>_internal.py:<L#>88 * <Thread>974612 #> 127.0.0.1 - - [28/Dec/2018 18:03:32] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:34: <F#>_internal.py:<L#>88 * <Thread>974212 #> 127.0.0.1 - - [28/Dec/2018 18:03:34] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:47: <F#>_internal.py:<L#>88 * <Thread>974452 #> 127.0.0.1 - - [28/Dec/2018 18:03:47] "GET /shellfile/ HTTP/1.1" 200 -
+WARNING: 2018-12-28 18:03:53: <F#>dbs.py:<L#>141 * <Thread>974408 #> Delete Shell Filebp3.bat failed!
+INFO: 2018-12-28 18:03:53: <F#>_internal.py:<L#>88 * <Thread>974408 #> 127.0.0.1 - - [28/Dec/2018 18:03:53] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:03:53: <F#>_internal.py:<L#>88 * <Thread>974448 #> 127.0.0.1 - - [28/Dec/2018 18:03:53] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:53: <F#>_internal.py:<L#>88 * <Thread>974588 #> 127.0.0.1 - - [28/Dec/2018 18:03:53] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:53: <F#>_internal.py:<L#>88 * <Thread>974604 #> 127.0.0.1 - - [28/Dec/2018 18:03:53] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:57: <F#>_internal.py:<L#>88 * <Thread>974744 #> 127.0.0.1 - - [28/Dec/2018 18:03:57] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:03:57: <F#>_internal.py:<L#>88 * <Thread>974564 #> 127.0.0.1 - - [28/Dec/2018 18:03:57] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:57: <F#>_internal.py:<L#>88 * <Thread>974836 #> 127.0.0.1 - - [28/Dec/2018 18:03:57] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:03:58: <F#>_internal.py:<L#>88 * <Thread>967724 #> 127.0.0.1 - - [28/Dec/2018 18:03:58] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:01: <F#>_internal.py:<L#>88 * <Thread>974780 #> 127.0.0.1 - - [28/Dec/2018 18:04:01] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:04:01: <F#>_internal.py:<L#>88 * <Thread>974124 #> 127.0.0.1 - - [28/Dec/2018 18:04:01] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:01: <F#>_internal.py:<L#>88 * <Thread>973308 #> 127.0.0.1 - - [28/Dec/2018 18:04:01] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:03: <F#>_internal.py:<L#>88 * <Thread>974608 #> 127.0.0.1 - - [28/Dec/2018 18:04:03] "GET /apsjobs/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:03: <F#>_internal.py:<L#>88 * <Thread>974116 #> 127.0.0.1 - - [28/Dec/2018 18:04:03] "GET /static/admin/vendor/x-editable/css/bootstrap3-editable.css?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:03: <F#>_internal.py:<L#>88 * <Thread>970720 #> 127.0.0.1 - - [28/Dec/2018 18:04:03] "GET /static/admin/vendor/x-editable/js/bootstrap3-editable.min.js?v=1.5.1.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:03: <F#>_internal.py:<L#>88 * <Thread>974800 #> 127.0.0.1 - - [28/Dec/2018 18:04:03] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:06: <F#>_internal.py:<L#>88 * <Thread>974772 #> 127.0.0.1 - - [28/Dec/2018 18:04:06] "GET /mylogoutview/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:04:06: <F#>_internal.py:<L#>88 * <Thread>974836 #> 127.0.0.1 - - [28/Dec/2018 18:04:06] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:08: <F#>_internal.py:<L#>88 * <Thread>972956 #> 127.0.0.1 - - [28/Dec/2018 18:04:08] "GET /myloginview/ HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:09: <F#>_internal.py:<L#>88 * <Thread>375516 #> 127.0.0.1 - - [28/Dec/2018 18:04:09] "POST /myloginview/ HTTP/1.1" 302 -
+INFO: 2018-12-28 18:04:09: <F#>_internal.py:<L#>88 * <Thread>973084 #> 127.0.0.1 - - [28/Dec/2018 18:04:09] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 18:04:17: <F#>_internal.py:<L#>88 * <Thread>974832 #> 127.0.0.1 - - [28/Dec/2018 18:04:17] "GET /admin/mylogoutview HTTP/1.1" 404 -
+INFO: 2018-12-28 19:18:59: <F#>manage.py:<L#>29 * <Thread>984888 #> logging starts
+INFO: 2018-12-28 19:18:59: <F#>base.py:<L#>162 * <Thread>984888 #> Scheduler started
+INFO: 2018-12-28 19:18:59: <F#>_internal.py:<L#>88 * <Thread>984888 #>  * Restarting with stat
+INFO: 2018-12-28 19:19:01: <F#>manage.py:<L#>29 * <Thread>984744 #> logging starts
+INFO: 2018-12-28 19:19:01: <F#>base.py:<L#>162 * <Thread>984744 #> Scheduler started
+WARNING: 2018-12-28 19:19:01: <F#>_internal.py:<L#>88 * <Thread>984744 #>  * Debugger is active!
+INFO: 2018-12-28 19:19:01: <F#>_internal.py:<L#>88 * <Thread>984744 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 19:19:12: <F#>manage.py:<L#>29 * <Thread>984696 #> logging starts
+INFO: 2018-12-28 19:19:12: <F#>base.py:<L#>162 * <Thread>984696 #> Scheduler started
+INFO: 2018-12-28 19:19:12: <F#>_internal.py:<L#>88 * <Thread>984696 #>  * Restarting with stat
+INFO: 2018-12-28 19:19:14: <F#>manage.py:<L#>29 * <Thread>984732 #> logging starts
+INFO: 2018-12-28 19:19:14: <F#>base.py:<L#>162 * <Thread>984732 #> Scheduler started
+WARNING: 2018-12-28 19:19:14: <F#>_internal.py:<L#>88 * <Thread>984732 #>  * Debugger is active!
+INFO: 2018-12-28 19:19:14: <F#>_internal.py:<L#>88 * <Thread>984732 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 19:19:15: <F#>_internal.py:<L#>88 * <Thread>983076 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 19:19:18: <F#>manage.py:<L#>29 * <Thread>983064 #> logging starts
+INFO: 2018-12-28 19:19:18: <F#>base.py:<L#>162 * <Thread>983064 #> Scheduler started
+INFO: 2018-12-28 19:19:18: <F#>_internal.py:<L#>88 * <Thread>983064 #>  * Restarting with stat
+INFO: 2018-12-28 19:19:20: <F#>manage.py:<L#>29 * <Thread>984256 #> logging starts
+INFO: 2018-12-28 19:19:21: <F#>base.py:<L#>162 * <Thread>984256 #> Scheduler started
+WARNING: 2018-12-28 19:19:21: <F#>_internal.py:<L#>88 * <Thread>984256 #>  * Debugger is active!
+INFO: 2018-12-28 19:19:21: <F#>_internal.py:<L#>88 * <Thread>984256 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 19:19:22: <F#>_internal.py:<L#>88 * <Thread>983648 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 19:19:23: <F#>_internal.py:<L#>88 * <Thread>982180 #> 127.0.0.1 - - [28/Dec/2018 19:19:23] "GET /admin/mylogoutview HTTP/1.1" 404 -
+INFO: 2018-12-28 19:19:50: <F#>manage.py:<L#>29 * <Thread>984216 #> logging starts
+INFO: 2018-12-28 19:19:50: <F#>_internal.py:<L#>88 * <Thread>984216 #>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-28 19:19:51: <F#>_internal.py:<L#>88 * <Thread>980968 #> 127.0.0.1 - - [28/Dec/2018 19:19:51] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 19:19:51: <F#>_internal.py:<L#>88 * <Thread>969860 #> 127.0.0.1 - - [28/Dec/2018 19:19:51] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-28 19:19:51: <F#>_internal.py:<L#>88 * <Thread>984716 #> 127.0.0.1 - - [28/Dec/2018 19:19:51] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-28 19:19:58: <F#>_internal.py:<L#>88 * <Thread>983076 #> 127.0.0.1 - - [28/Dec/2018 19:19:58] "POST /netbackup/api/test HTTP/1.1" 201 -
+INFO: 2018-12-28 19:20:06: <F#>_internal.py:<L#>88 * <Thread>978244 #> 127.0.0.1 - - [28/Dec/2018 19:20:06] "POST /auth HTTP/1.1" 200 -
+INFO: 2018-12-28 19:20:16: <F#>_internal.py:<L#>88 * <Thread>969764 #> 127.0.0.1 - - [28/Dec/2018 19:20:16] "GET /swagger.json HTTP/1.1" 200 -
+ERROR: 2018-12-28 19:20:23: <F#>nbuapi.py:<L#>94 * <Thread>977768 #> API not found bp.sh
+INFO: 2018-12-28 19:20:23: <F#>_internal.py:<L#>88 * <Thread>977768 #> 127.0.0.1 - - [28/Dec/2018 19:20:23] "POST /netbackup/bp HTTP/1.1" 400 -
+ERROR: 2018-12-28 19:20:37: <F#>nbuapi.py:<L#>94 * <Thread>984604 #> API not found bp2.sh
+INFO: 2018-12-28 19:20:37: <F#>_internal.py:<L#>88 * <Thread>984604 #> 127.0.0.1 - - [28/Dec/2018 19:20:37] "POST /netbackup/api/bp2.sh HTTP/1.1" 400 -
+ERROR: 2018-12-28 19:20:42: <F#>nbuapi.py:<L#>94 * <Thread>982240 #> API not found bp2.bat
+INFO: 2018-12-28 19:20:42: <F#>_internal.py:<L#>88 * <Thread>982240 #> 127.0.0.1 - - [28/Dec/2018 19:20:42] "POST /netbackup/api/bp2.bat HTTP/1.1" 400 -
+ERROR: 2018-12-28 19:21:02: <F#>nbuapi.py:<L#>94 * <Thread>984776 #> API not found bp
+INFO: 2018-12-28 19:21:02: <F#>_internal.py:<L#>88 * <Thread>984776 #> 127.0.0.1 - - [28/Dec/2018 19:21:02] "POST /netbackup/api/bp HTTP/1.1" 400 -
+INFO: 2018-12-28 19:21:16: <F#>manage.py:<L#>29 * <Thread>985060 #> logging starts
+INFO: 2018-12-28 19:21:17: <F#>base.py:<L#>162 * <Thread>985060 #> Scheduler started
+INFO: 2018-12-28 19:21:17: <F#>_internal.py:<L#>88 * <Thread>985060 #>  * Restarting with stat
+INFO: 2018-12-28 19:21:18: <F#>manage.py:<L#>29 * <Thread>981176 #> logging starts
+INFO: 2018-12-28 19:21:18: <F#>base.py:<L#>162 * <Thread>981176 #> Scheduler started
+WARNING: 2018-12-28 19:21:18: <F#>_internal.py:<L#>88 * <Thread>981176 #>  * Debugger is active!
+INFO: 2018-12-28 19:21:18: <F#>_internal.py:<L#>88 * <Thread>981176 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-28 19:21:20: <F#>_internal.py:<L#>88 * <Thread>984152 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-28 19:21:26: <F#>_internal.py:<L#>88 * <Thread>984252 #> 127.0.0.1 - - [28/Dec/2018 19:21:26] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:26: <F#>_internal.py:<L#>88 * <Thread>456812 #> 127.0.0.1 - - [28/Dec/2018 19:21:26] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:30: <F#>_internal.py:<L#>88 * <Thread>670948 #> 127.0.0.1 - - [28/Dec/2018 19:21:30] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:30: <F#>_internal.py:<L#>88 * <Thread>959276 #> 127.0.0.1 - - [28/Dec/2018 19:21:30] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>981020 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /user/ HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>984252 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>957724 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>982320 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>983072 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>984632 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>959276 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:32: <F#>_internal.py:<L#>88 * <Thread>983516 #> 127.0.0.1 - - [28/Dec/2018 19:21:32] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:33: <F#>_internal.py:<L#>88 * <Thread>983072 #> 127.0.0.1 - - [28/Dec/2018 19:21:33] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:34: <F#>_internal.py:<L#>88 * <Thread>984632 #> 127.0.0.1 - - [28/Dec/2018 19:21:34] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 19:21:58: <F#>_internal.py:<L#>88 * <Thread>980496 #> 127.0.0.1 - - [28/Dec/2018 19:21:58] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-28 19:22:09: <F#>_internal.py:<L#>88 * <Thread>983760 #> 127.0.0.1 - - [28/Dec/2018 19:22:09] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-28 19:22:09: <F#>_internal.py:<L#>88 * <Thread>983772 #> 127.0.0.1 - - [28/Dec/2018 19:22:09] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-28 19:22:10: <F#>_internal.py:<L#>88 * <Thread>972940 #> 127.0.0.1 - - [28/Dec/2018 19:22:10] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:22:10: <F#>_internal.py:<L#>88 * <Thread>976516 #> 127.0.0.1 - - [28/Dec/2018 19:22:10] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:22:10: <F#>_internal.py:<L#>88 * <Thread>974876 #> 127.0.0.1 - - [28/Dec/2018 19:22:10] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-28 19:22:15: <F#>nbuapi.py:<L#>102 * <Thread>984116 #> Start execute command
+ERROR: 2018-12-28 19:22:15: <F#>nbuapi.py:<L#>186 * <Thread>984116 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
+INFO: 2018-12-29 15:47:46: <F#>manage.py:<L#>29 * <Thread>59636 #> logging starts
+INFO: 2018-12-29 15:47:47: <F#>_internal.py:<L#>88 * <Thread>59636 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)

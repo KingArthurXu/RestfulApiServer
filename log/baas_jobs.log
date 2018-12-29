@@ -1,0 +1,490 @@
+DEBUG: 2018-12-28 18:01:58: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:01:58.003000
+finish_at : 2018-12-28 18:01:58.003000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:01:58: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:01:58: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:01:58: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:01:58.005000
+finish_at : 2018-12-28 18:01:58.007000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:00: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:00.007000
+finish_at : 2018-12-28 18:02:00.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:00: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:00.009000
+finish_at : 2018-12-28 18:02:00.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:00: <F#>jobs.py:<L#>125 * <Thread>974020 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:00.016000
+finish_at : 2018-12-28 18:02:00.016000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>89 * <Thread>974024 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:00: <F#>jobs.py:<L#>90 * <Thread>974024 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:00: <F#>jobs.py:<L#>125 * <Thread>974024 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:00.019000
+finish_at : 2018-12-28 18:02:00.022000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:02: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:02.008000
+finish_at : 2018-12-28 18:02:02.008000
+Output    : 888 888
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:02: <F#>jobs.py:<L#>125 * <Thread>974020 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:02.010000
+finish_at : 2018-12-28 18:02:02.010000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:02: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:02.010000
+finish_at : 2018-12-28 18:02:02.012000
+Output    : 
+-----------------------------------------
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>89 * <Thread>974024 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:02: <F#>jobs.py:<L#>90 * <Thread>974024 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:02: <F#>jobs.py:<L#>125 * <Thread>974024 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:02.012000
+finish_at : 2018-12-28 18:02:02.014000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:04: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:04.007000
+finish_at : 2018-12-28 18:02:04.007000
+Output    : 888 888
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:04: <F#>jobs.py:<L#>125 * <Thread>974048 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:04.008000
+finish_at : 2018-12-28 18:02:04.008000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:04: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:04.009000
+finish_at : 2018-12-28 18:02:04.011000
+Output    : 
+-----------------------------------------
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>89 * <Thread>974052 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:04: <F#>jobs.py:<L#>90 * <Thread>974052 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:04: <F#>jobs.py:<L#>125 * <Thread>974052 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:04.011000
+finish_at : 2018-12-28 18:02:04.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:06: <F#>jobs.py:<L#>125 * <Thread>974040 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:06.006000
+finish_at : 2018-12-28 18:02:06.006000
+Output    : 888 888
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:06: <F#>jobs.py:<L#>125 * <Thread>974020 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:06.009000
+finish_at : 2018-12-28 18:02:06.009000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:06: <F#>jobs.py:<L#>125 * <Thread>974044 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:06.009000
+finish_at : 2018-12-28 18:02:06.011000
+Output    : 
+-----------------------------------------
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>89 * <Thread>974024 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:06: <F#>jobs.py:<L#>90 * <Thread>974024 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:06: <F#>jobs.py:<L#>125 * <Thread>974024 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:06.013000
+finish_at : 2018-12-28 18:02:06.014000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:08: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:08.008000
+finish_at : 2018-12-28 18:02:08.008000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:08: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:08: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:08: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:08.009000
+finish_at : 2018-12-28 18:02:08.011000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:10: <F#>jobs.py:<L#>125 * <Thread>974088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:10.006000
+finish_at : 2018-12-28 18:02:10.006000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:10: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:10: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:10: <F#>jobs.py:<L#>125 * <Thread>974096 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:10.007000
+finish_at : 2018-12-28 18:02:10.008000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:12: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:12.005000
+finish_at : 2018-12-28 18:02:12.005000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:12: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:12: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:12: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:12.007000
+finish_at : 2018-12-28 18:02:12.008000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:14: <F#>jobs.py:<L#>125 * <Thread>974168 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:14.007000
+finish_at : 2018-12-28 18:02:14.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:14: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:14: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:14: <F#>jobs.py:<L#>125 * <Thread>974172 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:14.009000
+finish_at : 2018-12-28 18:02:14.011000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:16: <F#>jobs.py:<L#>125 * <Thread>974040 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:16.009000
+finish_at : 2018-12-28 18:02:16.009000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:16: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:16: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:16: <F#>jobs.py:<L#>125 * <Thread>974044 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:16.011000
+finish_at : 2018-12-28 18:02:16.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:18: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:18.007000
+finish_at : 2018-12-28 18:02:18.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:18: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:18: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:18: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:18.008000
+finish_at : 2018-12-28 18:02:18.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:20: <F#>jobs.py:<L#>125 * <Thread>974088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:20.007000
+finish_at : 2018-12-28 18:02:20.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:20: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:20: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:20: <F#>jobs.py:<L#>125 * <Thread>974096 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:20.009000
+finish_at : 2018-12-28 18:02:20.011000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:22: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:22.007000
+finish_at : 2018-12-28 18:02:22.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:22: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:22: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:22: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:22.009000
+finish_at : 2018-12-28 18:02:22.010000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:24: <F#>jobs.py:<L#>125 * <Thread>974168 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:24.008000
+finish_at : 2018-12-28 18:02:24.008000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:24: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:24: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:24: <F#>jobs.py:<L#>125 * <Thread>974172 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:24.010000
+finish_at : 2018-12-28 18:02:24.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:26: <F#>jobs.py:<L#>125 * <Thread>974040 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:26.011000
+finish_at : 2018-12-28 18:02:26.011000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:26: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:26: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:26: <F#>jobs.py:<L#>125 * <Thread>974044 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:26.013000
+finish_at : 2018-12-28 18:02:26.014000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:28: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:28.009000
+finish_at : 2018-12-28 18:02:28.009000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:28: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:28: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:28: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:28.010000
+finish_at : 2018-12-28 18:02:28.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:30: <F#>jobs.py:<L#>125 * <Thread>974088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:30.009000
+finish_at : 2018-12-28 18:02:30.009000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:30: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:30: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:30: <F#>jobs.py:<L#>125 * <Thread>974096 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:30.011000
+finish_at : 2018-12-28 18:02:30.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:32: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:32.008000
+finish_at : 2018-12-28 18:02:32.008000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:32: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:32: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:32: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:32.009000
+finish_at : 2018-12-28 18:02:32.010000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:34: <F#>jobs.py:<L#>125 * <Thread>974168 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:34.008000
+finish_at : 2018-12-28 18:02:34.008000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:34: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:34: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:34: <F#>jobs.py:<L#>125 * <Thread>974172 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:34.010000
+finish_at : 2018-12-28 18:02:34.011000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:36: <F#>jobs.py:<L#>125 * <Thread>974040 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:36.009000
+finish_at : 2018-12-28 18:02:36.009000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:36: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:36: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:36: <F#>jobs.py:<L#>125 * <Thread>974044 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:36.010000
+finish_at : 2018-12-28 18:02:36.012000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:38: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:38.007000
+finish_at : 2018-12-28 18:02:38.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:38: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:38: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:38: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:38.008000
+finish_at : 2018-12-28 18:02:38.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:40: <F#>jobs.py:<L#>125 * <Thread>974088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:40.005000
+finish_at : 2018-12-28 18:02:40.005000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:40: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:40: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:40: <F#>jobs.py:<L#>125 * <Thread>974096 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:40.007000
+finish_at : 2018-12-28 18:02:40.008000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:42: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:42.006000
+finish_at : 2018-12-28 18:02:42.006000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:42: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:42: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:42: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:42.007000
+finish_at : 2018-12-28 18:02:42.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:44: <F#>jobs.py:<L#>125 * <Thread>974168 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:44.007000
+finish_at : 2018-12-28 18:02:44.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:44: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:44: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:44: <F#>jobs.py:<L#>125 * <Thread>974172 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:44.008000
+finish_at : 2018-12-28 18:02:44.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:46: <F#>jobs.py:<L#>125 * <Thread>974040 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:46.006000
+finish_at : 2018-12-28 18:02:46.006000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:46: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:46: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:46: <F#>jobs.py:<L#>125 * <Thread>974044 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:46.008000
+finish_at : 2018-12-28 18:02:46.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:48: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:48.007000
+finish_at : 2018-12-28 18:02:48.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:48: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:48: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:48: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:48.008000
+finish_at : 2018-12-28 18:02:48.010000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:50: <F#>jobs.py:<L#>125 * <Thread>974088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:50.008000
+finish_at : 2018-12-28 18:02:50.008000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:50: <F#>jobs.py:<L#>89 * <Thread>974096 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:50: <F#>jobs.py:<L#>90 * <Thread>974096 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:50: <F#>jobs.py:<L#>125 * <Thread>974096 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:50.010000
+finish_at : 2018-12-28 18:02:50.011000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:52: <F#>jobs.py:<L#>125 * <Thread>972088 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:52.009000
+finish_at : 2018-12-28 18:02:52.009000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:52: <F#>jobs.py:<L#>89 * <Thread>972276 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:52: <F#>jobs.py:<L#>90 * <Thread>972276 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:52: <F#>jobs.py:<L#>125 * <Thread>972276 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:52.010000
+finish_at : 2018-12-28 18:02:52.013000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:54: <F#>jobs.py:<L#>125 * <Thread>974168 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:54.007000
+finish_at : 2018-12-28 18:02:54.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:54: <F#>jobs.py:<L#>89 * <Thread>974172 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:54: <F#>jobs.py:<L#>90 * <Thread>974172 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:54: <F#>jobs.py:<L#>125 * <Thread>974172 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:54.008000
+finish_at : 2018-12-28 18:02:54.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:56: <F#>jobs.py:<L#>125 * <Thread>974040 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:56.007000
+finish_at : 2018-12-28 18:02:56.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:56: <F#>jobs.py:<L#>89 * <Thread>974044 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:56: <F#>jobs.py:<L#>90 * <Thread>974044 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:56: <F#>jobs.py:<L#>125 * <Thread>974044 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:56.008000
+finish_at : 2018-12-28 18:02:56.009000
+Output    : 
+-----------------------------------------
+DEBUG: 2018-12-28 18:02:58: <F#>jobs.py:<L#>125 * <Thread>974012 #> 
+job_id    : [baas.jobs.jobs:job1-1]
+run_at    : 2018-12-28 18:02:58.007000
+finish_at : 2018-12-28 18:02:58.007000
+Output    : 888 888
+-----------------------------------------
+ERROR: 2018-12-28 18:02:58: <F#>jobs.py:<L#>89 * <Thread>974016 #> ['C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\bp.bat', '999', '999']
+ERROR: 2018-12-28 18:02:58: <F#>jobs.py:<L#>90 * <Thread>974016 #> [Error 2] 
+DEBUG: 2018-12-28 18:02:58: <F#>jobs.py:<L#>125 * <Thread>974016 #> 
+job_id    : [baas.jobs.jobs:shell_job]
+run_at    : 2018-12-28 18:02:58.007000
+finish_at : 2018-12-28 18:02:58.009000
+Output    : 
+-----------------------------------------
