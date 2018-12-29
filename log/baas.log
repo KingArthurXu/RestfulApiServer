@@ -701,3 +701,1304 @@ INFO: 2018-12-28 19:22:15: <F#>nbuapi.py:<L#>102 * <Thread>984116 #> Start execu
 ERROR: 2018-12-28 19:22:15: <F#>nbuapi.py:<L#>186 * <Thread>984116 #> Failed to execute [u'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\static/uploads\\check_client', u'-host=string', u'-port=string']
 INFO: 2018-12-29 15:47:46: <F#>manage.py:<L#>29 * <Thread>59636 #> logging starts
 INFO: 2018-12-29 15:47:47: <F#>_internal.py:<L#>88 * <Thread>59636 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:23:50: <F#>manage.py:<L#>29 * <Thread>75592 #> logging starts
+INFO: 2018-12-29 17:23:51: <F#>_internal.py:<L#>88 * <Thread>75592 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:23:55: <F#>manage.py:<L#>29 * <Thread>75608 #> logging starts
+INFO: 2018-12-29 17:23:55: <F#>base.py:<L#>162 * <Thread>75608 #> Scheduler started
+INFO: 2018-12-29 17:23:55: <F#>_internal.py:<L#>88 * <Thread>75608 #>  * Restarting with stat
+INFO: 2018-12-29 17:23:56: <F#>manage.py:<L#>29 * <Thread>13016 #> logging starts
+INFO: 2018-12-29 17:23:57: <F#>base.py:<L#>162 * <Thread>13016 #> Scheduler started
+WARNING: 2018-12-29 17:23:57: <F#>_internal.py:<L#>88 * <Thread>13016 #>  * Debugger is active!
+INFO: 2018-12-29 17:23:57: <F#>_internal.py:<L#>88 * <Thread>13016 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-29 17:23:57: <F#>_internal.py:<L#>88 * <Thread>75112 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:24:04: <F#>_internal.py:<L#>88 * <Thread>75536 #> 127.0.0.1 - - [29/Dec/2018 17:24:04] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:05: <F#>_internal.py:<L#>88 * <Thread>68740 #> 127.0.0.1 - - [29/Dec/2018 17:24:05] "GET /static/admin/bootstrap/bootstrap3/css/bootstrap-theme.min.css?v=3.3.5 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:05: <F#>_internal.py:<L#>88 * <Thread>75772 #> 127.0.0.1 - - [29/Dec/2018 17:24:05] "GET /static/admin/bootstrap/bootstrap3/swatch/default/bootstrap.min.css?v=3.3.5 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:05: <F#>_internal.py:<L#>88 * <Thread>75724 #> 127.0.0.1 - - [29/Dec/2018 17:24:05] "GET /static/admin/vendor/moment.min.js?v=2.9.0 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:05: <F#>_internal.py:<L#>88 * <Thread>75684 #> 127.0.0.1 - - [29/Dec/2018 17:24:05] "GET /static/admin/vendor/select2/select2.min.js?v=3.5.2 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:06: <F#>_internal.py:<L#>88 * <Thread>75512 #> 127.0.0.1 - - [29/Dec/2018 17:24:06] "GET /static/admin/admin/css/bootstrap3/admin.css?v=1.1.1 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:06: <F#>_internal.py:<L#>88 * <Thread>75368 #> 127.0.0.1 - - [29/Dec/2018 17:24:06] "GET /static/admin/admin/css/bootstrap3/submenu.css HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:06: <F#>_internal.py:<L#>88 * <Thread>73036 #> 127.0.0.1 - - [29/Dec/2018 17:24:06] "GET /static/admin/vendor/jquery.min.js?v=2.1.4 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:06: <F#>_internal.py:<L#>88 * <Thread>75432 #> 127.0.0.1 - - [29/Dec/2018 17:24:06] "GET /static/admin/bootstrap/bootstrap3/js/bootstrap.min.js?v=3.3.5 HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:06: <F#>_internal.py:<L#>88 * <Thread>73820 #> 127.0.0.1 - - [29/Dec/2018 17:24:06] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-29 17:24:07: <F#>_internal.py:<L#>88 * <Thread>73384 #> 127.0.0.1 - - [29/Dec/2018 17:24:07] "GET /myloginview/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:08: <F#>_internal.py:<L#>88 * <Thread>72404 #> 127.0.0.1 - - [29/Dec/2018 17:24:08] "POST /myloginview/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:24:08: <F#>_internal.py:<L#>88 * <Thread>74152 #> 127.0.0.1 - - [29/Dec/2018 17:24:08] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:08: <F#>_internal.py:<L#>88 * <Thread>74528 #> 127.0.0.1 - - [29/Dec/2018 17:24:08] "GET /static/admin/bootstrap/bootstrap3/swatch/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>75512 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>75368 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>73036 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/vendor/select2/select2-bootstrap3.css?v=1.4.6 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>75432 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker-bs3.css?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>73820 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>73680 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/vendor/bootstrap-daterangepicker/daterangepicker.js?v=1.3.22 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>75536 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/admin/js/form.js?v=1.0.1 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:11: <F#>_internal.py:<L#>88 * <Thread>73824 #> 127.0.0.1 - - [29/Dec/2018 17:24:11] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:12: <F#>_internal.py:<L#>88 * <Thread>73100 #> 127.0.0.1 - - [29/Dec/2018 17:24:12] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:12: <F#>_internal.py:<L#>88 * <Thread>69944 #> 127.0.0.1 - - [29/Dec/2018 17:24:12] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:13: <F#>_internal.py:<L#>88 * <Thread>74196 #> 127.0.0.1 - - [29/Dec/2018 17:24:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:13: <F#>_internal.py:<L#>88 * <Thread>67676 #> 127.0.0.1 - - [29/Dec/2018 17:24:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:13: <F#>_internal.py:<L#>88 * <Thread>68584 #> 127.0.0.1 - - [29/Dec/2018 17:24:13] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:13: <F#>_internal.py:<L#>88 * <Thread>50104 #> 127.0.0.1 - - [29/Dec/2018 17:24:13] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:15: <F#>_internal.py:<L#>88 * <Thread>72728 #> 127.0.0.1 - - [29/Dec/2018 17:24:15] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:16: <F#>_internal.py:<L#>88 * <Thread>67688 #> 127.0.0.1 - - [29/Dec/2018 17:24:16] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:21: <F#>_internal.py:<L#>88 * <Thread>72408 #> 127.0.0.1 - - [29/Dec/2018 17:24:21] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:22: <F#>_internal.py:<L#>88 * <Thread>74196 #> 127.0.0.1 - - [29/Dec/2018 17:24:22] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:34: <F#>_internal.py:<L#>88 * <Thread>74916 #> 127.0.0.1 - - [29/Dec/2018 17:24:34] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-29 17:24:34: <F#>_internal.py:<L#>88 * <Thread>75296 #> 127.0.0.1 - - [29/Dec/2018 17:24:34] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:35: <F#>_internal.py:<L#>88 * <Thread>12276 #> 127.0.0.1 - - [29/Dec/2018 17:24:35] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:35: <F#>_internal.py:<L#>88 * <Thread>75148 #> 127.0.0.1 - - [29/Dec/2018 17:24:35] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:35: <F#>_internal.py:<L#>88 * <Thread>75256 #> 127.0.0.1 - - [29/Dec/2018 17:24:35] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:36: <F#>_internal.py:<L#>88 * <Thread>75512 #> 127.0.0.1 - - [29/Dec/2018 17:24:36] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:42: <F#>_internal.py:<L#>88 * <Thread>74768 #> 127.0.0.1 - - [29/Dec/2018 17:24:42] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:45: <F#>_internal.py:<L#>88 * <Thread>63352 #> 127.0.0.1 - - [29/Dec/2018 17:24:45] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>70668 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/css/reset.css HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>74768 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/css/typography.css HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75876 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.ba-bbq.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75872 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.wiggle.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75884 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/lodash.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75880 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/handlebars-4.0.5.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75888 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/backbone-min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75892 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/swagger-ui.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75896 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/highlight.9.1.0.pack.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75900 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/highlight.9.1.0.pack_extended.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75904 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/jsoneditor.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75908 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/marked.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75912 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/swagger-oauth.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75804 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/object-assign-pollyfill.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75812 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery.slideto.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75800 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/css/screen.css HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75808 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/lib/jquery-1.8.0.min.js HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75928 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/fonts/DroidSans.ttf HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75932 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75944 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /favicon.ico HTTP/1.1" 404 -
+INFO: 2018-12-29 17:24:46: <F#>_internal.py:<L#>88 * <Thread>75948 #> 127.0.0.1 - - [29/Dec/2018 17:24:46] "GET /swaggerui/bower/swagger-ui/dist/fonts/DroidSans-Bold.ttf HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:48: <F#>_internal.py:<L#>88 * <Thread>75980 #> 127.0.0.1 - - [29/Dec/2018 17:24:48] "GET /swaggerui/bower/swagger-ui/dist/images/throbber.gif HTTP/1.1" 304 -
+INFO: 2018-12-29 17:24:54: <F#>_internal.py:<L#>88 * <Thread>76036 #> 127.0.0.1 - - [29/Dec/2018 17:24:54] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:24:54: <F#>_internal.py:<L#>88 * <Thread>76044 #> 127.0.0.1 - - [29/Dec/2018 17:24:54] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:54: <F#>_internal.py:<L#>88 * <Thread>76052 #> 127.0.0.1 - - [29/Dec/2018 17:24:54] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:24:55: <F#>_internal.py:<L#>88 * <Thread>76068 #> 127.0.0.1 - - [29/Dec/2018 17:24:55] "GET /shellfile/ HTTP/1.1" 200 -
+ERROR: 2018-12-29 17:25:18: <F#>__init__.py:<L#>60 * <Thread>76040 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:18: <F#>app.py:<L#>1761 * <Thread>76040 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:21: <F#>_internal.py:<L#>88 * <Thread>76040 #> 127.0.0.1 - - [29/Dec/2018 17:25:21] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:42: <F#>__init__.py:<L#>60 * <Thread>72440 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:42: <F#>app.py:<L#>1761 * <Thread>72440 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:42: <F#>_internal.py:<L#>88 * <Thread>72440 #> 127.0.0.1 - - [29/Dec/2018 17:25:42] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:45: <F#>__init__.py:<L#>60 * <Thread>76128 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:45: <F#>app.py:<L#>1761 * <Thread>76128 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:45: <F#>_internal.py:<L#>88 * <Thread>76128 #> 127.0.0.1 - - [29/Dec/2018 17:25:45] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:45: <F#>__init__.py:<L#>60 * <Thread>76136 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:45: <F#>app.py:<L#>1761 * <Thread>76136 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:45: <F#>_internal.py:<L#>88 * <Thread>76136 #> 127.0.0.1 - - [29/Dec/2018 17:25:45] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:45: <F#>__init__.py:<L#>60 * <Thread>76132 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:45: <F#>app.py:<L#>1761 * <Thread>76132 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:45: <F#>_internal.py:<L#>88 * <Thread>76132 #> 127.0.0.1 - - [29/Dec/2018 17:25:45] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:45: <F#>__init__.py:<L#>60 * <Thread>76188 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:45: <F#>app.py:<L#>1761 * <Thread>76188 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:45: <F#>_internal.py:<L#>88 * <Thread>76188 #> 127.0.0.1 - - [29/Dec/2018 17:25:45] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:46: <F#>__init__.py:<L#>60 * <Thread>76184 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:46: <F#>app.py:<L#>1761 * <Thread>76184 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:46: <F#>_internal.py:<L#>88 * <Thread>76184 #> 127.0.0.1 - - [29/Dec/2018 17:25:46] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:46: <F#>__init__.py:<L#>60 * <Thread>76256 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:46: <F#>app.py:<L#>1761 * <Thread>76256 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:46: <F#>_internal.py:<L#>88 * <Thread>76256 #> 127.0.0.1 - - [29/Dec/2018 17:25:46] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:46: <F#>__init__.py:<L#>60 * <Thread>76244 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:46: <F#>app.py:<L#>1761 * <Thread>76244 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:46: <F#>_internal.py:<L#>88 * <Thread>76244 #> 127.0.0.1 - - [29/Dec/2018 17:25:46] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:46: <F#>__init__.py:<L#>60 * <Thread>76248 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:46: <F#>app.py:<L#>1761 * <Thread>76248 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:46: <F#>_internal.py:<L#>88 * <Thread>76248 #> 127.0.0.1 - - [29/Dec/2018 17:25:46] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:46: <F#>__init__.py:<L#>60 * <Thread>76288 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:46: <F#>app.py:<L#>1761 * <Thread>76288 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:46: <F#>_internal.py:<L#>88 * <Thread>76288 #> 127.0.0.1 - - [29/Dec/2018 17:25:46] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:47: <F#>__init__.py:<L#>60 * <Thread>76284 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:47: <F#>app.py:<L#>1761 * <Thread>76284 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:47: <F#>_internal.py:<L#>88 * <Thread>76284 #> 127.0.0.1 - - [29/Dec/2018 17:25:47] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:47: <F#>__init__.py:<L#>60 * <Thread>76280 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:47: <F#>app.py:<L#>1761 * <Thread>76280 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:47: <F#>_internal.py:<L#>88 * <Thread>76280 #> 127.0.0.1 - - [29/Dec/2018 17:25:47] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:47: <F#>__init__.py:<L#>60 * <Thread>76268 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:47: <F#>app.py:<L#>1761 * <Thread>76268 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:47: <F#>_internal.py:<L#>88 * <Thread>76268 #> 127.0.0.1 - - [29/Dec/2018 17:25:47] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:47: <F#>__init__.py:<L#>60 * <Thread>76276 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:47: <F#>app.py:<L#>1761 * <Thread>76276 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:47: <F#>_internal.py:<L#>88 * <Thread>76276 #> 127.0.0.1 - - [29/Dec/2018 17:25:47] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:47: <F#>__init__.py:<L#>60 * <Thread>76236 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:47: <F#>app.py:<L#>1761 * <Thread>76236 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:47: <F#>_internal.py:<L#>88 * <Thread>76236 #> 127.0.0.1 - - [29/Dec/2018 17:25:47] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:47: <F#>__init__.py:<L#>60 * <Thread>76224 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:47: <F#>app.py:<L#>1761 * <Thread>76224 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:47: <F#>_internal.py:<L#>88 * <Thread>76224 #> 127.0.0.1 - - [29/Dec/2018 17:25:47] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:48: <F#>__init__.py:<L#>60 * <Thread>75972 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:48: <F#>app.py:<L#>1761 * <Thread>75972 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:48: <F#>_internal.py:<L#>88 * <Thread>75972 #> 127.0.0.1 - - [29/Dec/2018 17:25:48] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:48: <F#>__init__.py:<L#>60 * <Thread>76304 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:48: <F#>app.py:<L#>1761 * <Thread>76304 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:48: <F#>_internal.py:<L#>88 * <Thread>76304 #> 127.0.0.1 - - [29/Dec/2018 17:25:48] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:48: <F#>__init__.py:<L#>60 * <Thread>76300 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:48: <F#>app.py:<L#>1761 * <Thread>76300 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:48: <F#>_internal.py:<L#>88 * <Thread>76300 #> 127.0.0.1 - - [29/Dec/2018 17:25:48] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:48: <F#>__init__.py:<L#>60 * <Thread>74900 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:48: <F#>app.py:<L#>1761 * <Thread>74900 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:48: <F#>_internal.py:<L#>88 * <Thread>74900 #> 127.0.0.1 - - [29/Dec/2018 17:25:48] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:25:48: <F#>__init__.py:<L#>60 * <Thread>73680 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:25:48: <F#>app.py:<L#>1761 * <Thread>73680 #> Exception on /netbackup/api/bp [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:25:48: <F#>_internal.py:<L#>88 * <Thread>73680 #> 127.0.0.1 - - [29/Dec/2018 17:25:48] "PATCH /netbackup/api/bp HTTP/1.1" 500 -
+INFO: 2018-12-29 17:26:13: <F#>_internal.py:<L#>88 * <Thread>76720 #> 127.0.0.1 - - [29/Dec/2018 17:26:13] "GET /role/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:14: <F#>_internal.py:<L#>88 * <Thread>76716 #> 127.0.0.1 - - [29/Dec/2018 17:26:14] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:16: <F#>_internal.py:<L#>88 * <Thread>76796 #> 127.0.0.1 - - [29/Dec/2018 17:26:16] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:18: <F#>_internal.py:<L#>88 * <Thread>76780 #> 127.0.0.1 - - [29/Dec/2018 17:26:18] "GET /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:27: <F#>_internal.py:<L#>88 * <Thread>75752 #> 127.0.0.1 - - [29/Dec/2018 17:26:27] "POST /shellfile/new/?url=%2Fshellfile%2F HTTP/1.1" 302 -
+INFO: 2018-12-29 17:26:27: <F#>_internal.py:<L#>88 * <Thread>75988 #> 127.0.0.1 - - [29/Dec/2018 17:26:27] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:27: <F#>_internal.py:<L#>88 * <Thread>76048 #> 127.0.0.1 - - [29/Dec/2018 17:26:27] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:27: <F#>_internal.py:<L#>88 * <Thread>74724 #> 127.0.0.1 - - [29/Dec/2018 17:26:27] "GET /static/admin/admin/js/filters.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:27: <F#>_internal.py:<L#>88 * <Thread>75148 #> 127.0.0.1 - - [29/Dec/2018 17:26:27] "GET /static/admin/admin/js/actions.js?v=1.0.0 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:30: <F#>_internal.py:<L#>88 * <Thread>75512 #> 127.0.0.1 - - [29/Dec/2018 17:26:30] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:31: <F#>_internal.py:<L#>88 * <Thread>75188 #> 127.0.0.1 - - [29/Dec/2018 17:26:31] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:26:34: <F#>_internal.py:<L#>88 * <Thread>75904 #> 127.0.0.1 - - [29/Dec/2018 17:26:34] "GET /shellfile/ HTTP/1.1" 200 -
+ERROR: 2018-12-29 17:26:38: <F#>__init__.py:<L#>60 * <Thread>76312 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:26:38: <F#>app.py:<L#>1761 * <Thread>76312 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:26:38: <F#>_internal.py:<L#>88 * <Thread>76312 #> 127.0.0.1 - - [29/Dec/2018 17:26:38] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:03: <F#>__init__.py:<L#>60 * <Thread>76132 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:03: <F#>app.py:<L#>1761 * <Thread>76132 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:03: <F#>_internal.py:<L#>88 * <Thread>76132 #> 127.0.0.1 - - [29/Dec/2018 17:28:03] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:04: <F#>__init__.py:<L#>60 * <Thread>76248 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:04: <F#>app.py:<L#>1761 * <Thread>76248 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:04: <F#>_internal.py:<L#>88 * <Thread>76248 #> 127.0.0.1 - - [29/Dec/2018 17:28:04] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:04: <F#>__init__.py:<L#>60 * <Thread>76184 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:04: <F#>app.py:<L#>1761 * <Thread>76184 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:04: <F#>_internal.py:<L#>88 * <Thread>76184 #> 127.0.0.1 - - [29/Dec/2018 17:28:04] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:04: <F#>__init__.py:<L#>60 * <Thread>76304 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:04: <F#>app.py:<L#>1761 * <Thread>76304 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:04: <F#>_internal.py:<L#>88 * <Thread>76304 #> 127.0.0.1 - - [29/Dec/2018 17:28:04] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:04: <F#>__init__.py:<L#>60 * <Thread>76252 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:04: <F#>app.py:<L#>1761 * <Thread>76252 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:04: <F#>_internal.py:<L#>88 * <Thread>76252 #> 127.0.0.1 - - [29/Dec/2018 17:28:04] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:04: <F#>__init__.py:<L#>60 * <Thread>76376 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:04: <F#>app.py:<L#>1761 * <Thread>76376 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:04: <F#>_internal.py:<L#>88 * <Thread>76376 #> 127.0.0.1 - - [29/Dec/2018 17:28:04] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:05: <F#>__init__.py:<L#>60 * <Thread>56396 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:05: <F#>app.py:<L#>1761 * <Thread>56396 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:05: <F#>_internal.py:<L#>88 * <Thread>56396 #> 127.0.0.1 - - [29/Dec/2018 17:28:05] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:05: <F#>__init__.py:<L#>60 * <Thread>74900 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:05: <F#>app.py:<L#>1761 * <Thread>74900 #> Exception on /netbackup/api/bp2 [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:05: <F#>_internal.py:<L#>88 * <Thread>74900 #> 127.0.0.1 - - [29/Dec/2018 17:28:05] "PATCH /netbackup/api/bp2 HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:09: <F#>__init__.py:<L#>60 * <Thread>73624 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:09: <F#>app.py:<L#>1761 * <Thread>73624 #> Exception on /netbackup/api/cc [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:09: <F#>_internal.py:<L#>88 * <Thread>73624 #> 127.0.0.1 - - [29/Dec/2018 17:28:09] "PATCH /netbackup/api/cc HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:10: <F#>__init__.py:<L#>60 * <Thread>71312 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:10: <F#>app.py:<L#>1761 * <Thread>71312 #> Exception on /netbackup/api/cc [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:10: <F#>_internal.py:<L#>88 * <Thread>71312 #> 127.0.0.1 - - [29/Dec/2018 17:28:10] "PATCH /netbackup/api/cc HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:10: <F#>__init__.py:<L#>60 * <Thread>76164 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:10: <F#>app.py:<L#>1761 * <Thread>76164 #> Exception on /netbackup/api/cc [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:10: <F#>_internal.py:<L#>88 * <Thread>76164 #> 127.0.0.1 - - [29/Dec/2018 17:28:10] "PATCH /netbackup/api/cc HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:10: <F#>__init__.py:<L#>60 * <Thread>66468 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:10: <F#>app.py:<L#>1761 * <Thread>66468 #> Exception on /netbackup/api/cc [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:10: <F#>_internal.py:<L#>88 * <Thread>66468 #> 127.0.0.1 - - [29/Dec/2018 17:28:10] "PATCH /netbackup/api/cc HTTP/1.1" 500 -
+ERROR: 2018-12-29 17:28:11: <F#>__init__.py:<L#>60 * <Thread>72908 #> An unhandled exception occurred.
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+ERROR: 2018-12-29 17:28:11: <F#>app.py:<L#>1761 * <Thread>72908 #> Exception on /netbackup/api/cc [PATCH]
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\api.py", line 313, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\ProgramData\Anaconda2\envs\baas\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:/Users/qingy/PycharmProjects/RestfulApiServer\baas\endpoints\nbuapi.py", line 257, in patch
+    s = db.create_session()
+TypeError: create_session() takes exactly 2 arguments (1 given)
+INFO: 2018-12-29 17:28:11: <F#>_internal.py:<L#>88 * <Thread>72908 #> 127.0.0.1 - - [29/Dec/2018 17:28:11] "PATCH /netbackup/api/cc HTTP/1.1" 500 -
+INFO: 2018-12-29 17:29:29: <F#>_internal.py:<L#>88 * <Thread>13016 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\baas\\endpoints\\nbuapi.py', reloading
+INFO: 2018-12-29 17:29:29: <F#>_internal.py:<L#>88 * <Thread>75608 #>  * Restarting with stat
+INFO: 2018-12-29 17:29:31: <F#>manage.py:<L#>29 * <Thread>74456 #> logging starts
+INFO: 2018-12-29 17:29:31: <F#>base.py:<L#>162 * <Thread>74456 #> Scheduler started
+WARNING: 2018-12-29 17:29:31: <F#>_internal.py:<L#>88 * <Thread>74456 #>  * Debugger is active!
+INFO: 2018-12-29 17:29:31: <F#>_internal.py:<L#>88 * <Thread>74456 #>  * Debugger PIN: 558-640-025
+INFO: 2018-12-29 17:29:35: <F#>_internal.py:<L#>88 * <Thread>75848 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:29:57: <F#>manage.py:<L#>29 * <Thread>76132 #> logging starts
+INFO: 2018-12-29 17:29:58: <F#>_internal.py:<L#>88 * <Thread>76132 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:30:07: <F#>_internal.py:<L#>88 * <Thread>69944 #> 127.0.0.1 - - [29/Dec/2018 17:30:07] "PATCH /netbackup/api/cc HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:19: <F#>_internal.py:<L#>88 * <Thread>73824 #> 127.0.0.1 - - [29/Dec/2018 17:30:19] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:23: <F#>_internal.py:<L#>88 * <Thread>75592 #> 127.0.0.1 - - [29/Dec/2018 17:30:23] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:30:23: <F#>_internal.py:<L#>88 * <Thread>70852 #> 127.0.0.1 - - [29/Dec/2018 17:30:23] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:24: <F#>_internal.py:<L#>88 * <Thread>75684 #> 127.0.0.1 - - [29/Dec/2018 17:30:24] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:26: <F#>_internal.py:<L#>88 * <Thread>75932 #> 127.0.0.1 - - [29/Dec/2018 17:30:26] "PATCH /netbackup/api/cc HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:29: <F#>_internal.py:<L#>88 * <Thread>75896 #> 127.0.0.1 - - [29/Dec/2018 17:30:29] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:29: <F#>_internal.py:<L#>88 * <Thread>74840 #> 127.0.0.1 - - [29/Dec/2018 17:30:29] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:30: <F#>_internal.py:<L#>88 * <Thread>75928 #> 127.0.0.1 - - [29/Dec/2018 17:30:30] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:30: <F#>_internal.py:<L#>88 * <Thread>73800 #> 127.0.0.1 - - [29/Dec/2018 17:30:30] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:33: <F#>_internal.py:<L#>88 * <Thread>73824 #> 127.0.0.1 - - [29/Dec/2018 17:30:33] "PATCH /netbackup/api/cc HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:39: <F#>_internal.py:<L#>88 * <Thread>76664 #> 127.0.0.1 - - [29/Dec/2018 17:30:39] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:43: <F#>_internal.py:<L#>88 * <Thread>75932 #> 127.0.0.1 - - [29/Dec/2018 17:30:43] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:44: <F#>_internal.py:<L#>88 * <Thread>76232 #> 127.0.0.1 - - [29/Dec/2018 17:30:44] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:44: <F#>_internal.py:<L#>88 * <Thread>71540 #> 127.0.0.1 - - [29/Dec/2018 17:30:44] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:44: <F#>_internal.py:<L#>88 * <Thread>75896 #> 127.0.0.1 - - [29/Dec/2018 17:30:44] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:45: <F#>_internal.py:<L#>88 * <Thread>76208 #> 127.0.0.1 - - [29/Dec/2018 17:30:45] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:45: <F#>_internal.py:<L#>88 * <Thread>73156 #> 127.0.0.1 - - [29/Dec/2018 17:30:45] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:45: <F#>_internal.py:<L#>88 * <Thread>74292 #> 127.0.0.1 - - [29/Dec/2018 17:30:45] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:45: <F#>_internal.py:<L#>88 * <Thread>75928 #> 127.0.0.1 - - [29/Dec/2018 17:30:45] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:30:45: <F#>_internal.py:<L#>88 * <Thread>73800 #> 127.0.0.1 - - [29/Dec/2018 17:30:45] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:41: <F#>manage.py:<L#>29 * <Thread>69772 #> logging starts
+INFO: 2018-12-29 17:31:42: <F#>_internal.py:<L#>88 * <Thread>69772 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:31:42: <F#>_internal.py:<L#>88 * <Thread>76820 #> 127.0.0.1 - - [29/Dec/2018 17:31:42] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:43: <F#>_internal.py:<L#>88 * <Thread>76824 #> 127.0.0.1 - - [29/Dec/2018 17:31:43] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:43: <F#>_internal.py:<L#>88 * <Thread>76852 #> 127.0.0.1 - - [29/Dec/2018 17:31:43] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:45: <F#>_internal.py:<L#>88 * <Thread>76892 #> 127.0.0.1 - - [29/Dec/2018 17:31:45] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:48: <F#>_internal.py:<L#>88 * <Thread>76868 #> 127.0.0.1 - - [29/Dec/2018 17:31:48] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:48: <F#>_internal.py:<L#>88 * <Thread>76920 #> 127.0.0.1 - - [29/Dec/2018 17:31:48] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:48: <F#>_internal.py:<L#>88 * <Thread>76924 #> 127.0.0.1 - - [29/Dec/2018 17:31:48] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:49: <F#>_internal.py:<L#>88 * <Thread>76936 #> 127.0.0.1 - - [29/Dec/2018 17:31:49] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:52: <F#>_internal.py:<L#>88 * <Thread>76968 #> 127.0.0.1 - - [29/Dec/2018 17:31:52] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:53: <F#>_internal.py:<L#>88 * <Thread>76972 #> 127.0.0.1 - - [29/Dec/2018 17:31:53] "GET /swaggerui/bower/swagger-ui/dist/css/typography.css HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:53: <F#>_internal.py:<L#>88 * <Thread>76996 #> 127.0.0.1 - - [29/Dec/2018 17:31:53] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:56: <F#>_internal.py:<L#>88 * <Thread>77044 #> 127.0.0.1 - - [29/Dec/2018 17:31:56] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:56: <F#>_internal.py:<L#>88 * <Thread>77048 #> 127.0.0.1 - - [29/Dec/2018 17:31:56] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:58: <F#>_internal.py:<L#>88 * <Thread>76940 #> 127.0.0.1 - - [29/Dec/2018 17:31:58] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:31:58: <F#>_internal.py:<L#>88 * <Thread>77080 #> 127.0.0.1 - - [29/Dec/2018 17:31:58] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:32:05: <F#>_internal.py:<L#>88 * <Thread>77084 #> 127.0.0.1 - - [29/Dec/2018 17:32:05] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:33:00: <F#>manage.py:<L#>29 * <Thread>76072 #> logging starts
+INFO: 2018-12-29 17:33:01: <F#>_internal.py:<L#>88 * <Thread>76072 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:33:02: <F#>_internal.py:<L#>88 * <Thread>76984 #> 127.0.0.1 - - [29/Dec/2018 17:33:02] "GET / HTTP/1.1" 200 -
+INFO: 2018-12-29 17:33:02: <F#>_internal.py:<L#>88 * <Thread>77028 #> 127.0.0.1 - - [29/Dec/2018 17:33:02] "GET /swagger.json HTTP/1.1" 200 -
+INFO: 2018-12-29 17:33:08: <F#>_internal.py:<L#>88 * <Thread>75556 #> 127.0.0.1 - - [29/Dec/2018 17:33:08] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:36:48: <F#>manage.py:<L#>29 * <Thread>74884 #> logging starts
+INFO: 2018-12-29 17:36:49: <F#>_internal.py:<L#>88 * <Thread>74884 #>  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO: 2018-12-29 17:36:54: <F#>_internal.py:<L#>88 * <Thread>51420 #> 127.0.0.1 - - [29/Dec/2018 17:36:54] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:36:58: <F#>_internal.py:<L#>88 * <Thread>74648 #> 127.0.0.1 - - [29/Dec/2018 17:36:58] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:37:06: <F#>_internal.py:<L#>88 * <Thread>77292 #> 127.0.0.1 - - [29/Dec/2018 17:37:06] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:37:06: <F#>_internal.py:<L#>88 * <Thread>13640 #> 127.0.0.1 - - [29/Dec/2018 17:37:06] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:37:06: <F#>_internal.py:<L#>88 * <Thread>50196 #> 127.0.0.1 - - [29/Dec/2018 17:37:06] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:37:09: <F#>_internal.py:<L#>88 * <Thread>74632 #> 127.0.0.1 - - [29/Dec/2018 17:37:09] "PATCH /netbackup/api/bp2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:37:10: <F#>_internal.py:<L#>88 * <Thread>68976 #> 127.0.0.1 - - [29/Dec/2018 17:37:10] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:34: <F#>_internal.py:<L#>88 * <Thread>77592 #> 127.0.0.1 - - [29/Dec/2018 17:39:34] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:41: <F#>_internal.py:<L#>88 * <Thread>77232 #> 127.0.0.1 - - [29/Dec/2018 17:39:41] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:42: <F#>_internal.py:<L#>88 * <Thread>74832 #> 127.0.0.1 - - [29/Dec/2018 17:39:42] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:43: <F#>_internal.py:<L#>88 * <Thread>74328 #> 127.0.0.1 - - [29/Dec/2018 17:39:43] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:47: <F#>_internal.py:<L#>88 * <Thread>70440 #> 127.0.0.1 - - [29/Dec/2018 17:39:47] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:39:47: <F#>_internal.py:<L#>88 * <Thread>63352 #> 127.0.0.1 - - [29/Dec/2018 17:39:47] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:47: <F#>_internal.py:<L#>88 * <Thread>74796 #> 127.0.0.1 - - [29/Dec/2018 17:39:47] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:48: <F#>_internal.py:<L#>88 * <Thread>65112 #> 127.0.0.1 - - [29/Dec/2018 17:39:48] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:51: <F#>_internal.py:<L#>88 * <Thread>75312 #> 127.0.0.1 - - [29/Dec/2018 17:39:51] "POST /shellparam/action/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:39:52: <F#>_internal.py:<L#>88 * <Thread>73288 #> 127.0.0.1 - - [29/Dec/2018 17:39:52] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:52: <F#>_internal.py:<L#>88 * <Thread>74984 #> 127.0.0.1 - - [29/Dec/2018 17:39:52] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:52: <F#>_internal.py:<L#>88 * <Thread>73012 #> 127.0.0.1 - - [29/Dec/2018 17:39:52] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:55: <F#>_internal.py:<L#>88 * <Thread>54864 #> 127.0.0.1 - - [29/Dec/2018 17:39:55] "POST /shellfile/action/ HTTP/1.1" 302 -
+INFO: 2018-12-29 17:39:55: <F#>_internal.py:<L#>88 * <Thread>68860 #> 127.0.0.1 - - [29/Dec/2018 17:39:55] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:55: <F#>_internal.py:<L#>88 * <Thread>69388 #> 127.0.0.1 - - [29/Dec/2018 17:39:55] "GET /static/admin/vendor/select2/select2.css?v=3.5.2 HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:56: <F#>_internal.py:<L#>88 * <Thread>70912 #> 127.0.0.1 - - [29/Dec/2018 17:39:56] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:57: <F#>_internal.py:<L#>88 * <Thread>67556 #> 127.0.0.1 - - [29/Dec/2018 17:39:57] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:57: <F#>_internal.py:<L#>88 * <Thread>75480 #> 127.0.0.1 - - [29/Dec/2018 17:39:57] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:58: <F#>_internal.py:<L#>88 * <Thread>74360 #> 127.0.0.1 - - [29/Dec/2018 17:39:58] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:58: <F#>_internal.py:<L#>88 * <Thread>77128 #> 127.0.0.1 - - [29/Dec/2018 17:39:58] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:58: <F#>_internal.py:<L#>88 * <Thread>77328 #> 127.0.0.1 - - [29/Dec/2018 17:39:58] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:59: <F#>_internal.py:<L#>88 * <Thread>70964 #> 127.0.0.1 - - [29/Dec/2018 17:39:59] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:39:59: <F#>_internal.py:<L#>88 * <Thread>70676 #> 127.0.0.1 - - [29/Dec/2018 17:39:59] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:00: <F#>_internal.py:<L#>88 * <Thread>76056 #> 127.0.0.1 - - [29/Dec/2018 17:40:00] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:00: <F#>_internal.py:<L#>88 * <Thread>77184 #> 127.0.0.1 - - [29/Dec/2018 17:40:00] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:01: <F#>_internal.py:<L#>88 * <Thread>75356 #> 127.0.0.1 - - [29/Dec/2018 17:40:01] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:01: <F#>_internal.py:<L#>88 * <Thread>74016 #> 127.0.0.1 - - [29/Dec/2018 17:40:01] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:01: <F#>_internal.py:<L#>88 * <Thread>74216 #> 127.0.0.1 - - [29/Dec/2018 17:40:01] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:02: <F#>_internal.py:<L#>88 * <Thread>69052 #> 127.0.0.1 - - [29/Dec/2018 17:40:02] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:02: <F#>_internal.py:<L#>88 * <Thread>56396 #> 127.0.0.1 - - [29/Dec/2018 17:40:02] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:03: <F#>_internal.py:<L#>88 * <Thread>77584 #> 127.0.0.1 - - [29/Dec/2018 17:40:03] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:03: <F#>_internal.py:<L#>88 * <Thread>54160 #> 127.0.0.1 - - [29/Dec/2018 17:40:03] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:03: <F#>_internal.py:<L#>88 * <Thread>77528 #> 127.0.0.1 - - [29/Dec/2018 17:40:03] "GET /shellfile/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:04: <F#>_internal.py:<L#>88 * <Thread>77304 #> 127.0.0.1 - - [29/Dec/2018 17:40:04] "GET /shellparam/ HTTP/1.1" 200 -
+INFO: 2018-12-29 17:40:04: <F#>_internal.py:<L#>88 * <Thread>73288 #> 127.0.0.1 - - [29/Dec/2018 17:40:04] "GET /shellfile/ HTTP/1.1" 200 -
