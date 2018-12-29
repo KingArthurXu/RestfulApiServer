@@ -72,4 +72,4 @@ Remove SAWarning by add listener
 
 # 20181229
 add exception on OSError
-todo, patch
+add netbackup/api [patch]
