@@ -75,3 +75,7 @@ add exception on OSError
 add netbackup/api [patch]
     show no parameter if shell not configurable
     bp - bp (not bp.sh)
+    
+# 20190306
+Add timeout=300 in gunicorn_brun.py 
+Add timeout=300 in gunicorn_frun.py 
