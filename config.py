@@ -44,7 +44,7 @@ class Config:
     # SCHEDULER_AUTH = HTTPBasicAuth()
 
     # Database
-    SQLALCHEMY_DATABASE_URI = 'sqlite:///db/sql.db'
+    SQLALCHEMY_DATABASE_URI = 'sqlite:///static/db/sql.db'
     SQLALCHEMY_TRACK_MODIFICATIONS = True
     # SQLALCHEMY_COMMIT_ON_TEARDOWN = True
 

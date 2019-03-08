@@ -17,11 +17,10 @@ import logging
 from baas.models.dbs import db
 from manage import app, scheduler, init_jobs
 
-
-# logging.config.fileConfig('logging.conf')
-# logging.info('logging starts')
-
 app.app_context().push()
+# try to read flask design
+# import flask
+# flask._request_ctx_stack
 
 # 定时任务
 LISTENER_JOB = (EVENT_JOB_ADDED |
@@ -51,14 +50,17 @@ admin.add_view(MyLoginView(name='Login_myadmin'))
 admin.add_view(MyLogoutView(name='Logout'))
 
 # scheduler setting
+# 解决gunicorn 多进程中APScheduler重复运行的问题
 if os.name == 'nt':
     scheduler.add_listener(events_listener, LISTENER_JOB)
     scheduler.start()
     init_jobs()
 else:
+    # linux, using file lock to slove
     f = open("scheduler.lock", "wb")
     import fcntl
     import atexit
+
     def unlock():
         fcntl.flock(f, fcntl.LOCK_UN)
         f.close()
@@ -72,11 +74,27 @@ else:
         pass
 
 if __name__ != '__main__':
+    # load logging globally
+    # logging.config.fileConfig('logging.conf')
+    # logging.info('logging starts')
+
+    # [logger]root redirect to gunicorn.error
     gunicorn_logger = logging.getLogger('gunicorn.error')
+    logging.getLogger().handlers = gunicorn_logger.handlers
+    logging.getLogger().setLevel(gunicorn_logger.level)
+    logging.info("redirect logging to here ...")
+
+    # [logger]app.logger redirect to gunicorn.error
     app.logger.handlers = gunicorn_logger.handlers
     app.logger.setLevel(gunicorn_logger.level)
+    app.logger.propagate = 0
+    app.logger.info("redirect app.logger to here ...")
 
 if __name__ == '__main__':
+    # Use local logging.conf for logging
+    logging.config.fileConfig('logging.conf')
+    logging.info('logging starts')
+
     flask_host = os.getenv("FLASK_HOST") if os.getenv("FLASK_HOST") else '0.0.0.0'
     flask_port = os.getenv("FLASK_PORT") if os.getenv("FLASK_PORT") else '5001'
     # flask_debug = app.config['FLASK_DEBUG']

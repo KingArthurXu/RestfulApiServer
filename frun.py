@@ -16,9 +16,17 @@ app.register_blueprint(blueprint=api_blueprint)
 app.register_blueprint(blueprint=site_blueprint)
 
 if __name__ != '__main__':
-    gunicorn_logger = logging.getLogger('gunicorn')
+
+    # [logger]root redirect to gunicorn.error
+    gunicorn_logger = logging.getLogger('gunicorn.error')
+    logging.getLogger().handlers = gunicorn_logger.handlers
+    logging.getLogger().setLevel(gunicorn_logger.level)
+    logging.info("redirect logging to here ...")
+
+    # [logger]app.logger redirect to gunicorn.error
     app.logger.handlers = gunicorn_logger.handlers
     app.logger.setLevel(gunicorn_logger.level)
+    app.logger.info("redirect app.logger to here ...")
 
 if __name__ == '__main__':
     flask_host = os.getenv("FLASK_HOST") if os.getenv("FLASK_HOST") else '0.0.0.0'
