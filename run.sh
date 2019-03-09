@@ -24,5 +24,5 @@ then
 fi
 /usr/bin/gunicorn -c gunicorn_frun.py frun:app
 /usr/bin/gunicorn -c gunicorn_brun.py brun:app
-/usr/bin/tail -f ./frun.error.log
+/usr/bin/tail -f ./frun.log
 
