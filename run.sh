@@ -22,7 +22,7 @@ if [ $? -eq 0 ]
 then
     ps -ef | grep gunicorn_ | grep -v grep | awk '{ print $2 }' | xargs kill -9
 fi
-/usr/bin/gunicorn -c gunicorn_frun.py frun:app
-/usr/bin/gunicorn -c gunicorn_brun.py brun:app
+/usr/bin/gunicorn -c frun_conf.py frun:app
+/usr/bin/gunicorn -c brun_conf.py brun:app
 /usr/bin/tail -f ./frun.log
 
