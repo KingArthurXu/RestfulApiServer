@@ -16,7 +16,6 @@ app.register_blueprint(blueprint=api_blueprint)
 app.register_blueprint(blueprint=site_blueprint)
 
 if __name__ != '__main__':
-
     # [logger]root redirect to gunicorn.error
     gunicorn_logger = logging.getLogger('gunicorn.error')
     logging.getLogger().handlers = gunicorn_logger.handlers
@@ -30,12 +29,18 @@ if __name__ != '__main__':
     app.logger.info("redirect app.logger to here ...")
 
 if __name__ == '__main__':
+    # Use local logging.conf for logging
+    logging.config.fileConfig('logging.conf')
+    logging.info('logging starts')
+
     flask_host = os.getenv("FLASK_HOST") if os.getenv("FLASK_HOST") else '0.0.0.0'
     flask_port = os.getenv("FLASK_PORT") if os.getenv("FLASK_PORT") else '5000'
-    # flask_debug = app.config['DEBUG']
-    # application.run(host=flask_host, port=int(flask_port), debug=bool(flask_debug))
-    # app.run(host=flask_host, port=int(flask_port), debug=app.config['DEBUG'])
-    app.run(host=flask_host, port=int(flask_port), debug=False)
+
+    # 在Python中如果condition为 ”，()，[]，{}，None，set() 那么该条件为Flase, 否则为True。
+    env_debug = os.getenv("FLASK_DEBUG")
+    flask_debug = True if (env_debug and (env_debug.upper() == "TRUE" or env_debug == '1')) else False
+
+    app.run(host=flask_host, port=int(flask_port), debug=flask_debug)
     # flask_ssl_context = os.getenv("FLASK_SSL_CONTEXT") if os.getenv("FLASK_SSL_CONTEXT") else 'None'
     # app.run(ssl_context=flask_ssl_context, host=flask_host, port=int(flask_port), debug=bool(flask_debug))
     # 证书玩法

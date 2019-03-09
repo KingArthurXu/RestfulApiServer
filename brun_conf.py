@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# __author__ = 'Arthur Xu'
+
 import os
 bind = '0.0.0.0:5001'
 workers = 2
@@ -53,4 +57,4 @@ def worker_int(worker):
 
 
 def worker_abort(worker):
-    worker.log.info("worker received SIGABRT signal")
+    worker.log.info("【in-worker】received SIGABRT signal")

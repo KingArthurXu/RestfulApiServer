@@ -1,4 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# __author__ = 'Arthur Xu'
+
 import os
+from gunicorn.workers.base import Worker
+
 bind = '0.0.0.0:5000'
 workers = 4
 backlog = 2048
@@ -52,5 +58,5 @@ def worker_int(worker):
 
 
 def worker_abort(worker):
-    worker.log.info("worker received SIGABRT signal")
+    worker.log.info("【in-worker】received SIGABRT signal")
 

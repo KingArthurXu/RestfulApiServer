@@ -1,29 +1,6 @@
-INFO: 2019-03-07 15:50:24: <F#>brun.py:<L#>87 * <Thread>506772 #> logging starts
-INFO: 2019-03-07 15:50:24: <F#>_internal.py:<L#>88 * <Thread>506772 #>  * Restarting with stat
-INFO: 2019-03-08 09:25:56: <F#>brun.py:<L#>89 * <Thread>17536 #> logging starts
-INFO: 2019-03-08 09:25:56: <F#>_internal.py:<L#>88 * <Thread>17536 #>  * Restarting with stat
-INFO: 2019-03-08 09:25:58: <F#>brun.py:<L#>89 * <Thread>29000 #> logging starts
-WARNING: 2019-03-08 09:25:58: <F#>_internal.py:<L#>88 * <Thread>29000 #>  * Debugger is active!
-INFO: 2019-03-08 09:25:58: <F#>_internal.py:<L#>88 * <Thread>29000 #>  * Debugger PIN: 558-640-025
-INFO: 2019-03-08 09:25:58: <F#>_internal.py:<L#>88 * <Thread>34072 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
-INFO: 2019-03-08 09:33:02: <F#>brun.py:<L#>89 * <Thread>10648 #> logging starts
-INFO: 2019-03-08 09:33:02: <F#>_internal.py:<L#>88 * <Thread>10648 #>  * Restarting with stat
-INFO: 2019-03-08 09:39:26: <F#>brun.py:<L#>90 * <Thread>43452 #> logging starts
-INFO: 2019-03-08 09:39:26: <F#>_internal.py:<L#>88 * <Thread>43452 #>  * Restarting with stat
-INFO: 2019-03-08 09:39:28: <F#>brun.py:<L#>90 * <Thread>43368 #> logging starts
-WARNING: 2019-03-08 09:39:28: <F#>_internal.py:<L#>88 * <Thread>43368 #>  * Debugger is active!
-INFO: 2019-03-08 09:39:28: <F#>_internal.py:<L#>88 * <Thread>43368 #>  * Debugger PIN: 558-640-025
-INFO: 2019-03-08 09:39:28: <F#>_internal.py:<L#>88 * <Thread>41012 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
-INFO: 2019-03-08 09:39:35: <F#>brun.py:<L#>90 * <Thread>43348 #> logging starts
-INFO: 2019-03-08 11:32:11: <F#>brun.py:<L#>96 * <Thread>57888 #> logging starts
-INFO: 2019-03-08 11:32:11: <F#>_internal.py:<L#>88 * <Thread>57888 #>  * Restarting with stat
-INFO: 2019-03-08 11:32:13: <F#>brun.py:<L#>96 * <Thread>55812 #> logging starts
-WARNING: 2019-03-08 11:32:13: <F#>_internal.py:<L#>88 * <Thread>55812 #>  * Debugger is active!
-INFO: 2019-03-08 11:32:13: <F#>_internal.py:<L#>88 * <Thread>55812 #>  * Debugger PIN: 558-640-025
-INFO: 2019-03-08 11:32:13: <F#>_internal.py:<L#>88 * <Thread>60184 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
-INFO: 2019-03-08 11:32:23: <F#>_internal.py:<L#>88 * <Thread>55812 #>  * Detected change in 'C:\\Users\\qingy\\PycharmProjects\\RestfulApiServer\\brun.py', reloading
-INFO: 2019-03-08 11:32:23: <F#>_internal.py:<L#>88 * <Thread>57888 #>  * Restarting with stat
-INFO: 2019-03-08 11:32:25: <F#>brun.py:<L#>96 * <Thread>35508 #> logging starts
-WARNING: 2019-03-08 11:32:25: <F#>_internal.py:<L#>88 * <Thread>35508 #>  * Debugger is active!
-INFO: 2019-03-08 11:32:25: <F#>_internal.py:<L#>88 * <Thread>35508 #>  * Debugger PIN: 558-640-025
-INFO: 2019-03-08 11:32:25: <F#>_internal.py:<L#>88 * <Thread>58424 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2019-03-09 13:12:54: <F#>brun.py:<L#>98 * <Thread>245024 #> logging starts
+INFO: 2019-03-09 13:12:55: <F#>_internal.py:<L#>88 * <Thread>245024 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2019-03-09 13:20:29: <F#>brun.py:<L#>98 * <Thread>238788 #> logging starts
+INFO: 2019-03-09 13:20:30: <F#>_internal.py:<L#>88 * <Thread>238788 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+INFO: 2019-03-09 15:09:32: <F#>brun.py:<L#>98 * <Thread>258360 #> logging starts
+INFO: 2019-03-09 15:09:33: <F#>_internal.py:<L#>88 * <Thread>258360 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
