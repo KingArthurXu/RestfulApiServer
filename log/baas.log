@@ -1,6 +1,0 @@
-INFO: 2019-03-09 13:12:54: <F#>brun.py:<L#>98 * <Thread>245024 #> logging starts
-INFO: 2019-03-09 13:12:55: <F#>_internal.py:<L#>88 * <Thread>245024 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
-INFO: 2019-03-09 13:20:29: <F#>brun.py:<L#>98 * <Thread>238788 #> logging starts
-INFO: 2019-03-09 13:20:30: <F#>_internal.py:<L#>88 * <Thread>238788 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
-INFO: 2019-03-09 15:09:32: <F#>brun.py:<L#>98 * <Thread>258360 #> logging starts
-INFO: 2019-03-09 15:09:33: <F#>_internal.py:<L#>88 * <Thread>258360 #>  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
