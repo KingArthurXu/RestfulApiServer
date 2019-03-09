@@ -3,11 +3,11 @@ bind = '0.0.0.0:5001'
 workers = 2
 backlog = 2048
 worker_class = "sync"
-debug = True
-proc_name = 'brun.gunicorn.proc'
-pidfile = 'brun.gunicorn.pid'
+debug = False
+proc_name = 'brun'
+pidfile = 'brun.pid'
 #logfile = 'error.brun.log'
-errorlog = 'brun.error.log'
+errorlog = 'brun.log'
 # errorlog = '-'
 loglevel = 'debug'
 raw_env = ["FLASK_CONFIG=production"]

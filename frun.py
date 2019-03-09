@@ -26,6 +26,7 @@ if __name__ != '__main__':
     # [logger]app.logger redirect to gunicorn.error
     app.logger.handlers = gunicorn_logger.handlers
     app.logger.setLevel(gunicorn_logger.level)
+    app.logger.propagate = 0
     app.logger.info("redirect app.logger to here ...")
 
 if __name__ == '__main__':
