@@ -1,17 +1,17 @@
 #!/usr/bin/bash
-# 20190309 check brun.gunicorn.pid file and kill
+# 20190309 check brun.gunicorn.pid file and kill -INT
 # http://docs.gunicorn.org/en/stable/signals.html
 
 if [ -f "brun.pid" ]; then
     # ps -ef | grep `cat brun.gunicorn.pid` | grep -v grep | awk '{ print $2 }' | xargs kill -QUIT
     # kill master
-    ps -ef | awk '{ print $2 }' | grep `cat brun.gunicorn.pid` | xargs kill -QUIT
+    ps -ef | awk '{ print $2 }' | grep `cat brun.gunicorn.pid` | xargs kill -INT
     rm brun.gunicorn.pid
 fi
 if [ -f "frun.pid" ]; then
     # kill master
     # ps -ef | grep `cat frun.gunicorn.pid` | grep -v grep | awk '{ print $2 }' | xargs kill -QUIT
-    ps -ef | awk '{ print $2 }' | grep `cat frun.gunicorn.pid` | xargs kill -QUIT
+    ps -ef | awk '{ print $2 }' | grep `cat frun.gunicorn.pid` | xargs kill -INT
     rm frun.gunicorn.pid
 fi
 
