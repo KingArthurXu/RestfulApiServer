@@ -29,40 +29,40 @@ sys.setdefaultencoding('utf8')
 # logging.info('logging starts')
 
 app = Flask(__name__)
-# 读Flask配置文件
-os.getenv("config_name")
+
+# 读Flask 配置文件 config.py
 config_name = os.getenv("FLASK_CONFIG") if os.getenv("FLASK_CONFIG") else 'production'
 app.config.from_object(config[config_name])
 
+# 初始化数据库
 db.init_app(app)
 
 # 让python支持命令行工作
 manager = Manager(app)
-
 # 使用migrate绑定app和db
 # migrate = Migrate(app, db)
-
 # 添加迁移脚本的命令到manager中init
 # manager.add_command('db', MigrateCommand)
 
-
 def make_shell_context():
     return dict(app=app, db=db, User=User, Role=Role, ShellFile=ShellFile, ApsJobs=ApsJobs)
-
 manager.add_command("shell", Shell(make_context=make_shell_context))
 
+# flask 调用监控接口，不启用
 # import flask_monitoringdashboard as dashboard
 # dashboard.bind(app)
 
+# CORS 启用, 迁移到frun.py中
 # from flask_cors import CORS
-# CORS(app)有
+# CORS(app)
 
-# 配置邮件
+# 配置邮件发送
 mail = Mail(app)
 
-# 创建数据库, 迁移到models\db
+# 创建数据库, 代码移到 model\db
 # db = SQLAlchemy(app)
 # migrate = Migrate(app, db)
+
 # 定时任务
 LISTENER_JOB = (EVENT_JOB_ADDED |
                 EVENT_JOB_REMOVED |
@@ -70,44 +70,14 @@ LISTENER_JOB = (EVENT_JOB_ADDED |
                 EVENT_JOB_EXECUTED |
                 EVENT_JOB_ERROR |
                 EVENT_JOB_MISSED)
-
 scheduler = APScheduler()
 scheduler.init_app(app)
 
-
-# from baas.models.dbs import *
-# from baas.models.views import *
-
-# 后台管理
-# move to brun.py
-# admin = Admin(app, name=u'baas AP Server 后台管理系统', template_mode='bootstrap3')
-# admin.add_view(UserView(User, db.session, name=u'用户管理'))
-# admin.add_view(RoleView(Role, db.session, name=u'权限管理'))
-# admin.add_view(ShellFileView(ShellFile, db.session,name=u'Shell文件管理'))
-# admin.add_view(ShellParamView(ShellParam, db.session, name=u'Shell参数配置'))
-# admin.add_view(ApsJobView(ApsJobs, db.session, name=u'后台Job配置'))
-# admin.add_view(ApsJobLogsView(ApsJobLogs, db.session, name=u'后台Job运行日志'))
-# admin.add_view(MyLoginView(name='Login_myadmin'))
-# admin.add_view(MyLogoutView(name='Logout'))
-
-# from baas.models import init_database, init_jobs
-# if app.config['INIT_DB']:
-#     init_database(app, db)
-#     db.session.commit()
-# else:
-#     init_jobs(app, db)
-# Flask-Security
 from baas.models.dbs import db, User, Role, ShellFile, ApsJobs
 user_datastore = SQLAlchemyUserDatastore(db, User, Role)
 security = Security().init_app(app, user_datastore, register_blueprint=False)
 
-# move to frun
-# from baas.others.upload import site_blueprint
-# from baas.endpoints import api_blueprint
-# app.register_blueprint(blueprint=api_blueprint)
-# app.register_blueprint(blueprint=site_blueprint)
-
-
+# just for reference
 # @app.errorhandler
 #      def not_found(error):
 #          return render_template('errors/404.html'), 404
@@ -175,7 +145,7 @@ def init_database():
 
 def init_jobs():
     from baas.models.dbs import ApsJobs
-    # session
+    #
     # with app.app_context():
     app.app_context().push()
     apsjob_all = ApsJobs.query.all()
@@ -194,7 +164,6 @@ def init_jobs():
         if not item.job_enabled:
             logging.warning("Pause Job <" + item.aps_jobid + "> " + item.aps_func)
             scheduler.pause_job(id=item.aps_jobid)
-    # pass
 
 if __name__ == '__main__':
     manager.run()

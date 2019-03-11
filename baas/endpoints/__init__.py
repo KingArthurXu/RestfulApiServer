@@ -13,6 +13,8 @@ from nbuapi import *
 from decorators import *
 import logging
 
+from bptask import ns_task
+
 
 
 # api_blueprint = Blueprint('baas', __name__, url_prefix='/baas')
@@ -77,3 +79,5 @@ api.add_namespace(ns_auth)
 api.add_namespace(ns_nbu)
 # baas.add_namespace(ns_bpimagelist)
 # baas.add_namespace(ns_bpdbjobs)
+
+api.add_namespace(ns_task)

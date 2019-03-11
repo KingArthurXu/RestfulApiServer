@@ -1,10 +1,30 @@
+#!/bin/python
+# -*- coding: utf-8 -*-
+# __author__ = 'Arthur Xu'
+
 from apscheduler.jobstores.sqlalchemy import SQLAlchemyJobStore
 from flask_apscheduler.auth import HTTPBasicAuth
 import os
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 
+# 默认配置
 class Config:
+    #
+    # for oslo config
+    # MQ config
+    mq_url = 'rabbit://:@192.168.92.135:5672/'
+
+    NBAgent_namespace = 'nb_api'
+    NBAgent_version = '1.0'
+
+    NBAgentOracle_namespace = 'nb_api_oracle'
+    NBAgentOracle_version = '1.0'
+
+    NBAgentOracle_topic = 'rpc'
+    executor = 'threading'
+
+
     SECRET_KEY = os.environ.get('SECRET_KEY') or 'YYYYYYYYYYYYYYmy_secret_keyXXXXXXXXXX'
     SECURITY_TOKEN_AUTHENTICATION_HEADER = 'Authorization'
     WTF_CSRF_ENABLED = False
@@ -74,6 +94,7 @@ class Config:
         pass
 
 
+# 开发配置
 class DevelopmentConfig(Config):
     DEBUG = True
     SCHEDULER_API_ENABLED = True
@@ -84,17 +105,12 @@ class DevelopmentConfig(Config):
         print("DevelopmentConfig init_app")
 
 
-class TestingConfig(Config):
-    TESTING = True
-
-
+# 生产配置
 class ProductionConfig(Config):
     PRODUCTION = True
 
-
 config = {
     'development': DevelopmentConfig,
-    'testing': TestingConfig,
     'production': ProductionConfig,
     'default': DevelopmentConfig,
 }

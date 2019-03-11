@@ -13,6 +13,7 @@ ext_modules = [
     Extension("nbuapi", ["nbuapi.py"]),
     Extension("popen", ["popen.py"]),
     Extension("ssh_exec", ["ssh_exec.py"]),
+    Extension("bptask", ["bptask.py"]),
 ]
 setup(
     name="baas cpy",
