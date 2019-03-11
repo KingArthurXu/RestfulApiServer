@@ -12,8 +12,7 @@
 -------------------------------------------------
 """
 __author__ = 'Arthur Xu'
-
 import nb_agent
-nb_agent.start()
 
+nb_agent.start()
 
