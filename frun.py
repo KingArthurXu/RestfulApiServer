@@ -29,8 +29,9 @@ if __name__ != '__main__':
     app.logger.info("redirect app.logger to here ...")
 
 if __name__ == '__main__':
-    # Use local logging.conf for logging
-    logging.config.fileConfig('logging.conf')
+    from config import Config
+    config = Config()
+    logging.config.dictConfig(config.log_conf)
     logging.info('logging starts')
 
     flask_host = os.getenv("FLASK_HOST") if os.getenv("FLASK_HOST") else '0.0.0.0'

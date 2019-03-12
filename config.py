@@ -86,12 +86,62 @@ class Config:
     SWAGGER_UI_DOC_EXPANSION = 'list'
     # SWAGGER_VALIDATOR_URL = 'http://domain.com/validator'
 
+    log_conf = {
+        'version': 1,
+        'disable_existing_loggers': False,
+        'formatters': {
+            'standard': {
+                'format': '%(asctime)s [%(levelname)s] %(name)s: %(threadName)s %(message)s'
+            },
+        },
+        'handlers': {
+            'default': {
+                'level': 'DEBUG',
+                'formatter': 'standard',
+                'class': 'logging.StreamHandler',
+                'stream': 'ext://sys.stdout',  # Default is stderr
+            },
+            'file': {
+                'class': 'logging.handlers.RotatingFileHandler',
+                'level': 'INFO',
+                'formatter': 'standard',
+                'filename': './log/baas.log',
+                'mode': 'a',
+                'maxBytes': 10485760,
+                'backupCount': 5,
+            },
+            'jobs_file': {
+                'class': 'logging.handlers.RotatingFileHandler',
+                'level': 'INFO',
+                'formatter': 'standard',
+                'filename': './log/baas_jobs.log',
+                'mode': 'a',
+                'maxBytes': 10485760,
+                'backupCount': 5,
+            },
+
+        },
+        'loggers': {
+            '': {
+                'handlers': ['default', 'file'],
+                'level': 'DEBUG',
+                'propagate': True,
+            },
+            'jobs': {
+                'handlers': ['default', 'jobs_file'],
+                'level': 'DEBUG',
+                'propagate': True,
+            },
+        }
+    }
+
     @staticmethod
     def init_app(app):
         pass
 
     def __init__(self):
         pass
+
 
 
 # 开发配置

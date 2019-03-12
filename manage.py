@@ -24,9 +24,6 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-# remove, setting in globally
-# logging.config.fileConfig('logging.conf')
-# logging.info('logging starts')
 
 app = Flask(__name__)
 
