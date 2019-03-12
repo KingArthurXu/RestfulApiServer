@@ -13,6 +13,16 @@
 """
 __author__ = 'Arthur Xu'
 import nb_agent
+import logging
+from config import Config
 
-nb_agent.start()
+config = Config()
+
+logging.config.dictConfig(config.log_conf)
+try:
+    nb_agent.start()
+except KeyboardInterrupt as e:
+    logging.warning("stop server by user")
+
+
 
